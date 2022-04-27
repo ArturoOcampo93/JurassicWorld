@@ -1,0 +1,324 @@
+<!--HEADER-->
+<app-header></app-header>
+<!--TERMINA HEADER-->
+
+<!--SECCIÓN BANNER PRINCIPAL-->
+<section id="bannerPrincipalMobile">
+    <img src="assets/images/PrincipalMobile.png" alt="..." width="100%">
+</section>
+
+<section id="bannerPrincipal">
+    <div>
+        <img id="logoPromo" src="assets/images/fondo-logo.png" alt="..." width="100%">
+    </div>
+    <div class="fondo-relativo">
+        <img id="animado" src="assets/images/fondo-2.png" alt="..." width="100%">
+    </div>
+    <div class="fondo-relativo">
+        <img src="assets/images/fondo-3.png" alt="..." width="100%">
+    </div>
+    <div class="fondo-relativo pasto">
+        <img src="assets/images/fondo-4.png" alt="..." width="100%">
+    </div>
+</section>
+<!--TERMINA SECCIÓN BANNER PRINCIPAL-->
+
+
+<div class="cont-mecanica">
+    <img id="tituloMecanica" src="assets/images/tituloMecanica.png" alt="...">
+</div>
+
+
+<!--SECCIÓN MECÁNICA-->
+<section id="mecanica">
+    <div class="vacio"></div>
+    <div class="flex-center cont-box-mecanica">
+
+        <div class="box-mecanica">
+            <div>
+                <img src="assets/images/icono-mecanica-1.png" alt="Icono-1">
+            </div>
+            <h4>COMPRA</h4>
+            <p>La pizza especial de Little Caesars® Jurassic World: Dominion</p>
+        </div>
+
+        <div class="box-mecanica">
+            <div>
+                <img src="assets/images/icono-mecanica-2.png" alt="Icono-1">
+            </div>
+            <h4>REGISTRA</h4>
+            <p>Tu ticket de compra en este sitio web y cuéntanos ¿Cuéntanos por qué eres fan de Jurassic World?</p>
+        </div>
+
+        <div class="box-mecanica">
+            <div>
+                <img src="assets/images/icono-mecanica-3.png" alt="Icono-1">
+            </div>
+            <h4>ENCUENTRA</h4>
+            <p>La mayor cantidad de dinosaurios resolviendo nuestra trivia.</p>
+        </div>
+
+        <div class="box-mecanica">
+            <div>
+                <img src="assets/images/icono-mecanica-4.png" alt="Icono-1">
+            </div>
+            <h4>PARTICIPA</h4>
+            <p>Para ganar increíbles premios</p>
+        </div>
+
+    </div>
+    <div class="flex-center">
+        <button type="button" class="button-naranja">REGÍSTRATE</button>
+    </div>
+</section>
+<!--TERMINA SECCIÓN MECÁNICA-->
+
+<div class="interseccion"></div>
+
+<!--SECCIÓN PREMIOS-->
+<section id="premios">
+
+
+    <div class="flex-center">
+        <div id="btn-premios">
+            <div id="premiosFinales" onclick="showPremios(1)">
+                <p>PREMIOS FINALES</p>
+            </div>
+            <div id="premiosSemanales" onclick="showPremios(2)">
+                <p>PREMIOS SEMANALES</p>
+            </div>
+        </div>
+    </div>
+
+    <img id="velociraptor" src="assets/images/velociraptor.png" alt="...">
+
+    <!--Carousel Bootstrap | Premios Finales-->
+    <div id="carouselFinal" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselFinal" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselFinal" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselFinal" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-1" src="assets/images/PrimerLugar.png" alt="Primer Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>1° LUGAR</h2>
+                            <h4>Una Experiencia Jurásica</h4>
+                            <p>Un viaje para 4 personas (2 adultos y 2 niños) a Costa Rica por 4 noches.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-2" src="assets/images/premios-final-2-lugar.png" alt="Segundo Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>2° LUGAR</h2>
+                            <p>Una camioneta Xpander Mitsubishi, Modelo 2022.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-3" src="assets/images/TercerLugar.png" alt="Tercer Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>3° LUGAR</h2>
+                            <p>Un automóvil Mirage G4, modelo 2022.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselFinal" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselFinal" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <!--Termina Carousel Bootstrap | Premios Finales -->
+
+    <!--Carousel Bootstrap | Premios Semanales-->
+    <div id="carouselSemanal" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselSemanal" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselSemanal" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselSemanal" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselSemanal" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-1" src="assets/images/primerLugarSemanal.png" alt="Primer Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>1° LUGAR SEMANAL</h2>
+                            <h4>Un Kit Jurásico:</h4>
+                            <p>Que contiene: Un juego de mesa, dos figuras, una gorra y una playera de la película.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-2" src="assets/images/segundoLugarSemanal.png" alt="Segundo Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>2° LUGAR SEMANAL</h2>
+                            <h4>Un kit Jurásico</h4>
+                            <p>Que contiene: Dos figuras, una gorra y una playera de la película.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-3" src="assets/images/tercerLugarSemanal.png" alt="Tercer Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>3° LUGAR SEMANAL</h2>
+                            <h4>Un kit Jurásico</h4>
+                            <p>Que contiene: Dos figuras de la película.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="flex-center cont-carousel-premios">
+                    <div class="flex-center flex-mobile">
+                        <div>
+                            <img class="img-premio-1" src="assets/images/cuartoLugarSemanal.png" alt="Cuarto Lugar">
+                        </div>
+                        <div class="text-premios">
+                            <h2>4° LUGAR SEMANAL</h2>
+                            <h4>Un kit Jurásico</h4>
+                            <p>Que contiene: Una gorra y una playera de la película.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselSemanal" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselSemanal" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+    </div>
+    <!--Termina Carousel Bootstrap | Premios Semanales -->
+
+
+    <img id="pastoPremios" src="assets/images/pastoPremios.png" alt="..." width="100%">
+    <img id="pastoPremiosMobile" src="assets/images/PremiosMobile.png" alt="..." width="100%">
+
+</section>
+<!--TERMINA SECCIÓN PREMIOS-->
+
+<!-- SECCIÓN DE GANADORES -->
+<section id="ganadores">
+    <div class="flex-center">
+        <div id="cont-tabla" class="width50">
+            <div id="tableGanadores">
+                <div class="flex-center">
+                    <img src="assets/images/CaesarPizza.png" alt="..." width="100px">
+                </div>
+                <h2>GANADORES</h2>
+
+                <!--Cambiar CSS cuando la lista de ganadores comience a crecer y descender-->
+                <div id="overflow">
+
+                    <!--Comentar este codigo cuando tengamos lista de ganadores-->
+                    <table>
+                        <thead>
+                            <tr>
+                                <th colspan="2" style="text-align: center; font-size: 40px;">PRÓXIMAMENTE</th>
+                            </tr>
+                            <tr>
+                                <th colspan="2" class="linea"></th>
+                            </tr>
+                        </thead>
+                    </table>
+
+                    <!--Descomentar este codigo cuando tengamos lista de ganadores-->
+                    <!-- <table>
+                        <thead>
+                            <tr>
+                                <th colspan="2">GANADORES SEMANA 2</th>
+                            </tr>
+                            <tr>
+                                <th colspan="2" class="linea"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Arturo Ocampo Hernández</td>
+                                <td>1° Lugar Semanal</td>
+                            </tr>
+                            <tr>
+                                <td>Jabneel Arturo Ocampo Astorga</td>
+                                <td>2° Lugar Semanal</td>
+                            </tr>
+                            <tr>
+                                <td>Jose Antonio Bautista Lopez</td>
+                                <td>2° Lugar Semanal</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <table>
+                        <thead>
+                            <tr>
+                                <th colspan="2">GANADORES SEMANA 1</th>
+                            </tr>
+                            <tr>
+                                <th colspan="2" class="linea"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Arturo Ocampo Hernández</td>
+                                <td>1° Lugar Semanal</td>
+                            </tr>
+                            <tr>
+                                <td>Jabneel Arturo Ocampo Astorga</td>
+                                <td>2° Lugar Semanal</td>
+                            </tr>
+                        </tbody>
+                    </table> -->
+                </div>
+
+
+            </div>
+        </div>
+        <div id="dinosauriosGanadores" class="width50">
+            <img id="dinosaurios" src="assets/images/velociraptors-2.png" alt="...">
+        </div>
+    </div>
+</section>
+<!-- TERMINA SECCIÓN DE GANADORES -->
+
+<!--FOOTER-->
+<app-footer></app-footer>
+<!--TERMINA FOOTER-->

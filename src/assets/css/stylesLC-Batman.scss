@@ -1,0 +1,2139 @@
+/* Estilos SCSS de Little Caesars - Batman */
+
+
+/*Variables*/
+
+$textoRegular: MrEaves-regular;
+$textoBold: MrEaves-ultra;
+$textoJurassic: jurassic;
+$textoJurassicInline: jurassicInline;
+$colorPrincipal: #FF671B;
+$colorNegro: #1C2322;
+$colorAmarillo: #FFBA00;
+
+/****/
+
+$colorRojo: #DE001A;
+$colorVerde: #006A44;
+
+/*Terminan Variables*/
+
+
+/*Fuentes */
+
+@font-face {
+    font-family: MrEaves-regular;
+    src: url(./fonts/Emigre-MrEavesXLSanNarOT-Reg.otf);
+}
+
+@font-face {
+    font-family: MrEaves-ultra;
+    src: url(./fonts/Emigre-MrEavesXLSanNarOT-Ultra.otf);
+}
+
+@font-face {
+    font-family: jurassic;
+    src: url(./fonts/Decotura.ttf);
+}
+
+@font-face {
+    font-family: jurassicInline;
+    src: url(./fonts/DecoturaInline.ttf);
+}
+
+
+/*Termina Fuentes*/
+
+
+/* Generales */
+
+body {
+    font-family: $textoRegular, Arial, Helvetica, sans-serif;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+.button-white {
+    width: 450px;
+    height: 60px;
+    text-align: center;
+    color: $colorPrincipal;
+    background-color: white;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 0px solid #000000;
+    font-size: 30px;
+    font-family: $textoJurassic;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.button-white:hover {
+    color: white;
+    background-color: black;
+}
+
+.button-black {
+    width: 450px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 0px solid #000000;
+    font-size: 30px;
+    font-family: $textoJurassic;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.button-black:hover {
+    color: white;
+    background-color: $colorPrincipal;
+}
+
+.button-naranja {
+    width: 450px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    background-color: $colorPrincipal;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 0px solid #000000;
+    font-size: 30px;
+    font-family: $textoJurassic;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.button-naranja:hover {
+    color: $colorPrincipal;
+    background-color: white;
+}
+
+.button-naranja-black {
+    width: 450px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    background-color: $colorPrincipal;
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 0px solid #000000;
+    font-size: 30px;
+    font-family: $textoJurassic;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.button-naranja-black:hover {
+    color: white;
+    background-color: black;
+}
+
+@media only screen and (max-width:520px) {
+    .button-white {
+        width: 280px;
+    }
+}
+
+.interseccion {
+    width: 100%;
+    height: 25px;
+    background-color: white;
+}
+
+ ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #000000;
+    border: 10px solid #525252;
+    border-radius: 30px;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #696969;
+}
+
+ ::-webkit-scrollbar-track {
+    background: #FFFFFF;
+    border-radius: 0px;
+    box-shadow: inset 10px 0px 30px 0px #F0F0F0;
+}
+
+
+/* Termina Generales */
+
+
+/* Header */
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: $colorNegro;
+    display: flex;
+    div:first-child {
+        width: 30%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    div:last-child {
+        width: 70%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        ul {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            list-style: none;
+            padding-right: 20px;
+            li {
+                margin-left: 15px;
+                margin-right: 15px;
+            }
+            li a {
+                color: white;
+                text-decoration: none;
+                font-family: $textoBold;
+                font-size: 20px;
+            }
+            li:last-child a:last-child {
+                color: $colorPrincipal;
+            }
+        }
+    }
+}
+
+#iconoMenu {
+    display: none;
+}
+
+@media only screen and (max-width: 810px) {
+    header {
+        height: auto;
+        flex-direction: column;
+        div:first-child {
+            width: 80%;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 20px;
+            padding-bottom: 20px;
+        }
+        div:last-child {
+            width: 100%;
+            justify-content: flex-start;
+            ul {
+                margin: 0;
+                padding: 0;
+                display: block;
+                list-style: none;
+                padding-left: 20px;
+                padding-bottom: 20px;
+                padding-top: 0px;
+                li {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                }
+                li a {
+                    color: white;
+                    text-decoration: none;
+                    font-family: $textoBold;
+                }
+                li:last-child a:last-child {
+                    color: $colorPrincipal;
+                }
+                li a:hover {
+                    color: white;
+                }
+            }
+        }
+    }
+    #iconoMenu {
+        width: 70px;
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin-top: 25px;
+        cursor: pointer;
+    }
+    #menu {
+        display: none;
+    }
+}
+
+
+/* Termina Header */
+
+
+/* Footer */
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    section {
+        width: 80%;
+        .linea {
+            width: 100%;
+            border-top: 2px solid $colorPrincipal;
+        }
+        .cont-footer {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            .redes {
+                width: 30%;
+                display: flex;
+                a {
+                    margin: 10px;
+                }
+            }
+            .visita {
+                width: 70%;
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+                a {
+                    font-family: $textoBold;
+                    color: black;
+                    text-decoration: none;
+                    font-size: 26px;
+                }
+                a:hover {
+                    text-decoration: underline;
+                }
+            }
+            .bases {
+                width: 90%;
+                padding: 1%;
+            }
+            ul {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                list-style: none;
+                padding: 0%;
+                margin: 0;
+                li {
+                    margin: 2%;
+                    cursor: pointer;
+                    color: black;
+                    text-decoration: none;
+                    text-align: center;
+                    font-size: 20px;
+                }
+                li:hover {
+                    text-decoration: underline;
+                }
+            }
+            p {
+                width: 80%;
+                font-family: $textoRegular;
+                text-align: center;
+                font-size: 16px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    footer {
+        margin-bottom: 100px;
+        section {
+            .cont-footer {
+                ul {
+                    li {
+                        text-align: center !important;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    footer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        section {
+            width: 90%;
+            .cont-footer {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                .redes {
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                    a {
+                        margin: 10px;
+                    }
+                }
+                .visita {
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .bases {
+                    width: 100%;
+                    text-align: center;
+                }
+                ul {
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                    li {
+                        margin: 2%;
+                        margin-top: 20px;
+                    }
+                }
+                p {
+                    width: 100%;
+                    margin-top: 20px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    footer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        section {
+            .cont-footer {
+                .visita {
+                    text-align: center;
+                    line-height: 1;
+                    margin-bottom: 10px;
+                }
+                ul {
+                    flex-direction: column;
+                    li {
+                        margin: 1%;
+                        margin-top: 10px;
+                    }
+                }
+                p {
+                    font-size: 10pt;
+                }
+            }
+        }
+    }
+}
+
+
+/* Termina Footer*/
+
+
+/* MODALS */
+
+.fontLC {
+    font-family: $textoBold;
+    font-size: 30px;
+    line-height: 1;
+}
+
+.btn {
+    background-color: $colorPrincipal !important;
+    color: white !important;
+    font-family: $textoBold;
+    font-size: 12pt;
+}
+
+.modal-body {
+    height: 350px !important;
+    /*padding-left: 0 !important;*/
+    //padding-right: 0% !important;
+    padding: 10px;
+}
+
+.modal-body-upload {
+    height: auto !important;
+    /*padding-left: 0 !important;*/
+    //padding-right: 0% !important;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 426px) {
+    .modal-body {
+        height: 350px !important;
+    }
+    .modal-body-upload {
+        height: auto !important;
+    }
+}
+
+
+/* TERMINA MODALS*/
+
+
+/* BANNER PRINCIPAL */
+
+#bannerPrincipal {
+    width: 100%;
+    overflow: hidden;
+    background-image: url('backgrounds/fondo-1.png');
+    background-color: black;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    padding-top: 20px;
+    .fondo-relativo {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        margin-top: 100px;
+    }
+    .pasto {
+        margin-top: 120px !important;
+    }
+}
+
+
+/* TERMINA BANNER PRINCIPAL */
+
+
+/* SECCIÓN DE MECÁNICA */
+
+.cont-mecanica {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    padding-left: 8%;
+    margin-top: -200px;
+}
+
+.cont-premios {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    padding-left: 8%;
+}
+
+.vacio {
+    height: 150px;
+}
+
+#mecanica {
+    width: 100%;
+    background-image: url('backgrounds/fondoMecanica.png');
+    background-color: black;
+    background-position: top;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    padding-top: 25px;
+    padding-bottom: 50px;
+    h2 {
+        font-family: $textoBold;
+        font-size: 45px;
+        margin-bottom: 25px;
+        color: white;
+        margin-top: 50px;
+    }
+    .box-mecanica {
+        width: 160px;
+        padding: 10px;
+        margin-left: 25px;
+        margin-right: 25px;
+        div {
+            text-align: center;
+            margin-bottom: 20px;
+            img {
+                width: 100%;
+            }
+        }
+        h4 {
+            color: white;
+            text-align: center;
+            font-family: jurassic, Arial, Helvetica, sans-serif;
+            letter-spacing: 2px;
+        }
+        p {
+            line-height: 1.3;
+            color: white;
+            text-align: center;
+            font-size: 18px;
+        }
+    }
+}
+
+@media only screen and (max-width:768px) {
+    #mecanica {
+        .box-mecanica {
+            width: 130px;
+            margin-left: 10px;
+            margin-right: 10px;
+            p {
+                font-size: 12px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:630px) {
+    #mecanica {
+        .cont-box-mecanica {
+            flex-wrap: wrap;
+            .box-mecanica {
+                width: 130px;
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-bottom: 10px;
+                p {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}
+
+
+/* TERMINA SECCIÓN DE MECÁNICA */
+
+
+/* SECCIÓN DE PREMIOS */
+
+#premios {
+    width: 100%;
+    padding-top: 30px;
+    background-image: url('backgrounds/fondoPremios.png');
+    background-color: black;
+    background-position: top;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    h2 {
+        font-family: $textoBold;
+        font-size: 45px;
+        margin-bottom: 25px;
+    }
+}
+
+.cont-carousel-premios {
+    height: 500px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.img-premio-1 {
+    width: 330px;
+}
+
+.img-premio-2 {
+    width: 330px;
+}
+
+.img-premio-3 {
+    width: 330px;
+}
+
+.img-premio-4 {
+    width: 330px;
+}
+
+.text-premios {
+    color: white;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    h2 {
+        font-size: 50px;
+        font-family: $textoJurassicInline !important;
+        margin: 0 !important;
+    }
+    h4 {
+        font-size: 30px;
+        font-family: $textoJurassic;
+        letter-spacing: 1px;
+        margin: 0;
+    }
+    p {
+        width: 256px;
+        font-size: 30px;
+        line-height: 1.3;
+        margin-top: 25px;
+    }
+}
+
+@media only screen and (max-width:980px) {
+    .flex-mobile {
+        flex-direction: column !important;
+        div {
+            text-align: center;
+        }
+    }
+    .cont-carousel-premios {
+        height: 700px;
+    }
+    .img-premio-1 {
+        width: 385px;
+    }
+    .img-premio-2 {
+        width: 317px;
+    }
+    .img-premio-3 {
+        width: 306px;
+    }
+    .text-premios {
+        text-align: center;
+        margin-top: 30px;
+        margin-left: 0px;
+        p {
+            width: 100%;
+            padding-left: 4%;
+            padding-right: 4%;
+        }
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .img-premio-1 {
+        width: 70%;
+    }
+    .img-premio-2 {
+        width: 70%;
+    }
+    .img-premio-3 {
+        width: 70%;
+    }
+}
+
+
+/* TERMINA SECCIÓN DE PREMIOS */
+
+
+/* SECCIÓN DE GANADORES */
+
+#ganadores {
+    width: 100%;
+    margin-bottom: 70px;
+    background-color: $colorNegro;
+    padding-top: 50px;
+    margin-top: -10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.width50 {
+    width: 50%;
+    overflow: hidden;
+}
+
+#dinosaurios {
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+#tableGanadores {
+    width: 100%;
+    height: 700px;
+    padding: 50px 30px 50px 50px;
+    background-color: $colorPrincipal;
+    border-radius: 0px 50px 50px 0px;
+    -moz-border-radius: 0px 50px 50px 0px;
+    -webkit-border-radius: 0px 50px 50px 0px;
+    border: 0px solid #000000;
+    h2 {
+        font-family: $textoJurassic;
+        font-size: 70px;
+        text-align: center;
+        color: #000000;
+    }
+    table {
+        width: 100%;
+        font-size: 30px;
+        margin-top: 25px;
+        thead {
+            font-family: $textoJurassic;
+            color: white;
+            letter-spacing: 2px;
+        }
+        tbody {
+            color: #000000;
+            font-size: 22px;
+        }
+        .linea {
+            border-top: 2px solid white;
+            padding-bottom: 10px;
+        }
+    }
+}
+
+.border {
+    border: 1px solid red;
+}
+
+#overflow {
+    width: 100%;
+    height: 380px;
+    /* CAMBIAR A SCROLL CUANDO LA LISTA DE GANADORES COMIENCE A DESCENDER */
+    overflow-y: none;
+    /*------*/
+    padding-right: 20px;
+}
+
+
+/* TERMINA SECCIÓN DE GANADORES */
+
+
+/* REGISTRO */
+
+#cont-registro {
+    width: 100%;
+    margin-bottom: 100px;
+    background-image: url('backgrounds/registro.png');
+    background-color: black;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+#registro {
+    display: block;
+}
+
+#login {
+    text-align: center;
+}
+
+#recuperar-password {
+    display: block;
+}
+
+.cont-ciudad {
+    display: flex;
+    justify-content: center;
+}
+
+.relleno {
+    width: 80%;
+    height: 300px;
+    background-color: white;
+    position: relative;
+    order: 1;
+    margin-bottom: -270px;
+    margin-left: 10%;
+}
+
+.ciudad-fondo {
+    position: relative;
+    order: 0;
+}
+
+@media only screen and (max-width:1140px) {
+    .relleno {
+        width: 80%;
+        height: 200px;
+        margin-bottom: -160px;
+    }
+}
+
+@media only screen and (max-width:428px) {
+    .relleno {
+        width: 90%;
+        height: 100px;
+        margin-bottom: -100px;
+        margin-left: 5%;
+    }
+    .cont-flotante {
+        width: 90%;
+    }
+}
+
+.titulo-seccion {
+    margin-bottom: 25px;
+    h2 {
+        font-size: 60px;
+        font-family: $textoJurassic;
+        margin: 0;
+        line-height: 1;
+    }
+    p {
+        text-decoration: underline;
+        font-size: 25px;
+        margin-top: -10px;
+        cursor: pointer;
+    }
+}
+
+form {
+    width: 100%;
+    .input-completo {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        label {
+            width: 100%;
+            font-size: 18px;
+            input {
+                width: 99%;
+                height: 45px;
+                padding-left: 15px;
+                border-radius: 10px 10px 10px 10px;
+                -moz-border-radius: 10px 10px 10px 10px;
+                -webkit-border-radius: 10px 10px 10px 10px;
+            }
+        }
+    }
+    .input-doble {
+        width: 100%;
+        display: flex;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        div {
+            width: 50%;
+            display: flex;
+            justify-content: flex-start;
+            label {
+                width: 98%;
+                font-size: 18px;
+                input,
+                select {
+                    width: 98%;
+                    height: 45px;
+                    padding-left: 15px;
+                    border-radius: 10px 10px 10px 10px;
+                    -moz-border-radius: 10px 10px 10px 10px;
+                    -webkit-border-radius: 10px 10px 10px 10px;
+                }
+            }
+        }
+        div:last-child {
+            width: 50%;
+            display: flex;
+            justify-content: flex-end;
+            label {
+                width: 98%;
+                font-size: 18px;
+                input,
+                select {
+                    width: 98%;
+                    height: 45px;
+                    padding-left: 15px;
+                }
+            }
+        }
+    }
+    hr {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+.input-checkbox {
+    width: 100%;
+    display: flex;
+    input {
+        width: 25px;
+        height: 25px;
+        margin-right: 30px;
+    }
+    p {
+        font-size: 18px;
+        span {
+            color: white;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    }
+}
+
+.btn-form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    input {
+        width: 450px;
+        height: 60px;
+        color: white;
+        background-color: black;
+        font-size: 30px;
+        font-family: $textoJurassic;
+        /*Bordes redondos*/
+        border-radius: 25px 25px 25px 25px;
+        -moz-border-radius: 25px 25px 25px 25px;
+        -webkit-border-radius: 25px 25px 25px 25px;
+        border: 0px solid #000000;
+    }
+    input:hover {
+        color: black;
+        background-color: $colorPrincipal;
+    }
+}
+
+@media only screen and (max-width:550px) {
+    form {
+        width: 100%;
+        .input-completo {
+            width: 100%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            label {
+                width: 100%;
+                font-size: 18px;
+                input {
+                    width: 99%;
+                    height: 45px;
+                    padding-left: 15px;
+                }
+            }
+        }
+        .input-doble {
+            width: 100%;
+            display: block;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            div {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                label {
+                    width: 100%;
+                    font-size: 18px;
+                    input,
+                    select {
+                        width: 98%;
+                        height: 45px;
+                    }
+                }
+            }
+            div:last-child {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                label {
+                    width: 100%;
+                    font-size: 18px;
+                    input,
+                    select {
+                        width: 98%;
+                        height: 45px;
+                    }
+                }
+            }
+        }
+        hr {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+    }
+    .input-checkbox {
+        width: 100%;
+        display: flex;
+        input {
+            width: 30px;
+            height: 30px;
+            margin-right: 30px;
+        }
+        p {
+            font-size: 18px;
+            span a {
+                color: $colorPrincipal;
+            }
+        }
+    }
+}
+
+.password-eye {
+    position: absolute;
+    margin-left: -55px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.btn-text {
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.text-form {
+    font-size: 25px;
+    line-height: 1.3;
+}
+
+@media only screen and (max-width:550px) {
+    .middle-title {
+        font-size: 50px !important;
+    }
+    .middle-btn-text {
+        font-size: 20px !important;
+    }
+}
+
+
+/* TERMINA REGISTRO */
+
+
+/* THANKYOUPAGE */
+
+#thankyou-page {
+    width: 100%;
+    height: auto;
+    padding-top: 25px;
+    margin-bottom: 50px;
+    background-image: url('backgrounds/fondoThankyouPage.png');
+    background-color: black;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    .cont-thankyou-page {
+        width: 800px;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        h2 {
+            font-family: $textoJurassic;
+            color: white;
+            font-size: 95px;
+            margin: 0;
+            margin-top: 30px;
+            span {
+                color: $colorPrincipal;
+                font-family: $textoJurassicInline;
+            }
+        }
+        p {
+            color: white;
+            font-size: 30px;
+            margin-top: -10px;
+        }
+        div {
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 25px;
+            button {
+                width: 300px;
+                height: 60px;
+                border: 2px solid white;
+                background: transparent;
+                font-size: 25px;
+                font-family: $textoJurassic;
+                color: white;
+                /*Bordes redondos*/
+                border-radius: 25px 25px 25px 25px;
+                -moz-border-radius: 25px 25px 25px 25px;
+                -webkit-border-radius: 25px 25px 25px 25px;
+            }
+            button:hover {
+                background: white;
+                color: black;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:790px) {
+    #thankyou-page {
+        .cont-thankyou-page {
+            h2 {
+                font-size: 60px;
+                padding-left: 25px;
+                padding-right: 25px;
+                line-height: 1;
+                margin-bottom: 25px;
+            }
+            p {
+                font-size: 20px;
+                padding-left: 25px;
+                padding-right: 25px;
+                line-height: 1.3;
+            }
+        }
+    }
+}
+
+
+/* TERMINA THANKYOUPAGE */
+
+
+/* MI CUENTA  */
+
+#escribe-historia {
+    width: 100%;
+    background-image: url('backgrounds/fondoHistoria.png');
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .cont-flex {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        .box {
+            width: 50%;
+            height: 480px;
+            background-color: white;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border-radius: 50px 0px 0px 50px;
+            -moz-border-radius: 50px 0px 0px 50px;
+            -webkit-border-radius: 50px 0px 0px 50px;
+            border: 0px solid #000000;
+            -webkit-box-shadow: -9px 0px 17px 3px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: -9px 0px 17px 3px rgba(0, 0, 0, 0.6);
+            box-shadow: -9px 0px 17px 3px rgba(0, 0, 0, 0.6);
+        }
+    }
+}
+
+#registraTicket {
+    width: 100%;
+    background-image: url('backgrounds/registroTicket.png');
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .cont-flex {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        .box {
+            width: 50%;
+            height: 480px;
+            background-color: white;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border-radius: 0px 50px 50px 0px;
+            -moz-border-radius: 0px 50px 50px 0px;
+            -webkit-border-radius: 0px 50px 50px 0px;
+            border: 0px solid #000000;
+            -webkit-box-shadow: 13px 0px 17px 3px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 13px 0px 17px 3px rgba(0, 0, 0, 0.6);
+            box-shadow: 13px 0px 17px 3px rgba(0, 0, 0, 0.6);
+        }
+    }
+}
+
+#marcador {
+    width: 100%;
+    background-image: url('backgrounds/fondoMarcador.png');
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .cont-flex {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        .box {
+            width: 80%;
+            height: auto;
+            background-color: white;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border-radius: 50px 50px 50px 50px;
+            -moz-border-radius: 50px 50px 50px 50px;
+            -webkit-border-radius: 50px 50px 50px 50px;
+            border: 0px solid #000000;
+            -webkit-box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+            box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+        }
+    }
+}
+
+
+/* TERMINA MI CUENTA */
+
+
+/* INSTRUCCIONES */
+
+#instrucciones {
+    width: 100%;
+    height: 800px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url('backgrounds/fondoInstrucciones.png');
+    background-color: black;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+.vertical-center {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-instrucciones {
+    width: 1000px;
+    background-color: #ffffffb7;
+    /*Bordes redondos*/
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    display: flex;
+    .img-instrucciones {
+        width: 40%;
+        background-image: url('backgrounds/imgInstrucciones.png');
+        background-color: black;
+        background-position: center;
+        /* Center the image */
+        background-repeat: no-repeat;
+        /* Do not repeat the image */
+        background-size: cover;
+        /* Resize the background image to cover the entire container */
+        /*Bordes redondos*/
+        border-radius: 10px 0px 0px 10px;
+        -moz-border-radius: 10px 0px 0px 10px;
+        -webkit-border-radius: 10px 0px 0px 10px;
+    }
+    div:last-child {
+        width: 60%;
+        padding: 50px;
+        h2 {
+            font-size: 70px;
+            font-family: $textoBold;
+        }
+        p {
+            font-size: 30px;
+            line-height: 1.3;
+            span {
+                text-decoration: underline;
+            }
+        }
+        .cont-button-instrucciones {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            margin: 0;
+            padding: 0;
+            margin-top: 30px;
+            button {
+                width: 100%;
+                height: 60px;
+                background-color: $colorVerde;
+                color: white;
+                font-size: 30px;
+                font-family: $textoBold;
+                /*Bordes redondos*/
+                border-radius: 25px 25px 25px 25px;
+                -moz-border-radius: 25px 25px 25px 25px;
+                -webkit-border-radius: 25px 25px 25px 25px;
+                border: none;
+            }
+            button:hover {
+                background-color: black;
+            }
+        }
+    }
+}
+
+.cont-personaje {
+    width: auto;
+    height: 800px;
+    position: absolute;
+}
+
+#personaje-instrucciones {
+    width: 480px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+@media only screen and (max-width:1023px) {
+    .cont-instrucciones {
+        width: 94%;
+        margin-left: 3%;
+        margin-right: 3%;
+        flex-direction: column;
+        div {
+            width: 100%;
+        }
+        div:last-child {
+            width: 100%;
+            padding: 50px;
+            text-align: center;
+            h2 {
+                font-size: 50px;
+            }
+        }
+        .img-instrucciones {
+            width: 100%;
+            height: 400px;
+            /*Bordes redondos*/
+            border-radius: 10px 10px 0px 0px !important;
+            -moz-border-radius: 10px 10px 0px 0px !important;
+            -webkit-border-radius: 10px 10px 0px 0px !important;
+        }
+    }
+    .cont-personaje {
+        display: none;
+    }
+    #instrucciones {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width:430px) {
+    .cont-instrucciones {
+        div:last-child {
+            h2 {
+                font-size: 30px;
+            }
+            p {
+                font-size: 18px;
+            }
+        }
+    }
+    .cont-button-instrucciones {
+        button {
+            font-size: 20px !important;
+        }
+    }
+}
+
+
+/* TERMINA INSTRUCCIONES */
+
+#animado {
+    margin-left: -200px;
+}
+
+@keyframes mover {
+    0% {
+        margin-left: -200px;
+    }
+    100% {
+        margin-left: 200px;
+    }
+}
+
+@keyframes moverBack {
+    0% {
+        margin-left: 200px;
+    }
+    100% {
+        margin-left: -200px;
+    }
+}
+
+#btn-premios {
+    width: 400px;
+    display: flex;
+    margin-top: 50px;
+    #premiosFinales {
+        width: 50%;
+        height: 50px;
+        background-color: $colorAmarillo;
+        color: Black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 10px 0px 0px 10px;
+        -moz-border-radius: 10px 0px 0px 10px;
+        -webkit-border-radius: 10px 0px 0px 10px;
+        border: 0px solid #000000;
+        p {
+            margin: 0;
+            font-family: $textoBold;
+            font-size: 20px;
+        }
+    }
+    #premiosSemanales {
+        width: 50%;
+        height: 50px;
+        background-color: black;
+        color: $colorAmarillo;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 0px 10px 10px 0px;
+        -moz-border-radius: 0px 10px 10px 0px;
+        -webkit-border-radius: 0px 10px 10px 0px;
+        border: 0px solid #000000;
+        p {
+            margin: 0;
+            font-family: $textoBold;
+            font-size: 20px;
+        }
+    }
+}
+
+@media only screen and (max-width:450px) {
+    #btn-premios {
+        width: 80%;
+        display: block;
+        margin-top: 50px;
+    }
+    #premiosFinales {
+        width: 100% !important;
+        height: 50px;
+        background-color: $colorAmarillo;
+        color: Black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 10px 10px 0px 0px !important;
+        -moz-border-radius: 10px 10px 0px 0px;
+        -webkit-border-radius: 10px 10px 0px 0px;
+        border: 0px solid #000000;
+        p {
+            margin: 0;
+            font-family: $textoBold;
+            font-size: 20px;
+        }
+    }
+    #premiosSemanales {
+        width: 100% !important;
+        height: 50px;
+        background-color: black;
+        color: $colorAmarillo;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        border-radius: 0px 0px 10px 10px !important;
+        -moz-border-radius: 0px 0px 10px 10px;
+        -webkit-border-radius: 0px 0px 10px 10px;
+        border: 0px solid #000000;
+        p {
+            margin: 0;
+            font-family: $textoBold;
+            font-size: 20px;
+        }
+    }
+}
+
+#carouselFinal {
+    display: block;
+}
+
+#carouselSemanal {
+    display: none;
+}
+
+#pastoPremios {
+    margin: 0;
+    margin-top: -100px;
+    position: relative;
+    z-index: 1;
+}
+
+@keyframes moverVelociraptor {
+    0% {
+        margin-left: -800px;
+    }
+    100% {
+        margin-left: -400px;
+    }
+}
+
+@media only screen and (max-width:1250px) {
+    #tituloMecanica {
+        width: 25%;
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width:1050px) {
+    #dinosauriosGanadores {
+        width: 30%;
+    }
+    #cont-tabla {
+        width: 80%;
+    }
+    #dinosaurios {
+        width: 600px;
+        margin-top: 100px;
+        margin-left: -200px;
+    }
+}
+
+@media only screen and (max-width:990px) {
+    #tituloMecanica {
+        width: 25%;
+        margin-top: 100px;
+    }
+}
+
+@media only screen and (max-width:810px) {
+    #mecanica {
+        margin-top: -25px;
+    }
+}
+
+#velociraptor {
+    position: absolute;
+    margin-left: -800px;
+    margin-top: -150px;
+    z-index: 1;
+}
+
+@media only screen and (max-width:785px) {
+    #velociraptor {
+        display: none;
+    }
+}
+
+#bannerPrincipalMobile {
+    display: none;
+}
+
+#pastoPremiosMobile {
+    display: none;
+}
+
+@media only screen and (max-width:680px) {
+    #dinosauriosGanadores {
+        width: 10%;
+    }
+    #cont-tabla {
+        width: 100%;
+    }
+    #tableGanadores {
+        padding: 15px;
+    }
+    #dinosaurios {
+        width: 0px;
+    }
+    #overflow {
+        table {
+            tbody {
+                font-size: 16px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:600px) {
+    #tituloMecanica {
+        width: 180px;
+        margin-top: 150px;
+    }
+    #bannerPrincipal {
+        display: none;
+    }
+    #bannerPrincipalMobile {
+        display: block;
+    }
+    #pastoPremios {
+        display: none;
+    }
+    #pastoPremiosMobile {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .button-naranja {
+        width: 300px;
+    }
+}
+
+#fondoRegistro {
+    width: 720px;
+    background-image: url('backgrounds/box-registro.png');
+    background-color: transparent;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    padding: 80px;
+    /*Bordes redondos*/
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -webkit-box-shadow: 0px 0px 23px 3px rgba(0, 0, 0, 0.7);
+    -moz-box-shadow: 0px 0px 23px 3px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 0px 23px 3px rgba(0, 0, 0, 0.7);
+    border: 0px solid #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#fondoIngresa {
+    display: none;
+    width: 650px;
+    height: 650px;
+    background-image: url('backgrounds/fondoIngresa.png');
+    background-color: transparent;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    padding: 80px;
+    /*Bordes redondos*/
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 0px solid #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    #login {
+        margin-top: 50px;
+    }
+    input {
+        width: 88% !important;
+    }
+    .btn-form {
+        margin: 0;
+        input {
+            width: 180px !important;
+        }
+    }
+}
+
+#fondoRecuperar {
+    display: none;
+    background-image: url('backgrounds/fondoRecupera.png');
+    background-color: transparent;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    padding: 80px;
+    /*Bordes redondos*/
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    -webkit-box-shadow: 0px 0px 23px 3px rgba(0, 0, 0, 0.7);
+    -moz-box-shadow: 0px 0px 23px 3px rgba(0, 0, 0, 0.7);
+    box-shadow: 0px 0px 23px 3px rgba(0, 0, 0, 0.7);
+    border: 0px solid #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* Resize the background image to cover the entire container */
+    padding: 0 !important;
+    .titulo-seccion {
+        background-color: black;
+        display: flex;
+        padding: 25px;
+        color: white !important;
+        border-radius: 20px 20px 0px 0px;
+        -moz-border-radius: 20px 20px 0px 0px;
+        -webkit-border-radius: 20px 20px 0px 0px;
+        border: 0px solid #000000;
+        .img-candado {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img {
+                font-size: 150px;
+                padding: 25px;
+            }
+        }
+    }
+    form {
+        padding: 50px;
+    }
+}
+
+.link-recupera {
+    width: 100%;
+    text-align: center;
+    p {
+        font-size: 25px;
+        text-decoration: underline;
+        color: black;
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    #fondoRegistro {
+        width: 600px;
+        background-image: url('backgrounds/fondoRegistro600px.png');
+        padding: 70px;
+    }
+}
+
+@media only screen and (max-width:750px) {
+    #fondoRecuperar {
+        width: 80%;
+        .titulo-seccion {
+            h2 {
+                font-size: 40px;
+                margin-top: 25px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:640px) {
+    #fondoRegistro {
+        width: 300px;
+        background-image: url('backgrounds/fondoRegistroMobile.png');
+        padding: 25px;
+    }
+}
+
+@media only screen and (max-width:550px) {
+    #fondoRecuperar {
+        width: 80%;
+        .titulo-seccion {
+            h2 {
+                font-size: 40px !important;
+                margin-top: 25px;
+            }
+            .img-candado {
+                display: none;
+            }
+        }
+        form {
+            padding: 25px;
+        }
+    }
+}
+
+@media only screen and (max-width:450px) {
+    #fondoIngresa {
+        display: none;
+        width: 650px;
+        height: 650px;
+        padding: 50px;
+        #login {
+            margin-top: 80px;
+        }
+        input {
+            width: 100% !important;
+        }
+        .btn-form {
+            margin: 0;
+            input {
+                width: 180px !important;
+            }
+        }
+    }
+}
+
+#dinosaurio-2 {
+    position: absolute;
+    margin-top: -550px;
+    margin-left: -100px;
+}
+
+#dinosaurios-3 {
+    position: absolute;
+    margin-top: -530px;
+    margin-right: 0px;
+    right: 0;
+}
+
+@media only screen and (max-width:1660px) {
+    #dinosaurios-3 {
+        width: 700px;
+        margin-top: -400px;
+    }
+    #dinosaurio-2 {
+        margin-left: -350px;
+    }
+}
+
+@media only screen and (max-width:1230px) {
+    .box {
+        position: relative !important;
+        z-index: 2;
+    }
+}
+
+@media only screen and (max-width:660px) {
+    #dinosaurio-2 {
+        display: none;
+    }
+    #dinosaurios-3 {
+        display: none;
+    }
+    .cont-flex {
+        width: 100%;
+        display: flex;
+        justify-content: center !important;
+        .box {
+            width: 90% !important;
+            height: 480px;
+            background-color: white;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border-radius: 50px 50px 50px 50px !important;
+            -moz-border-radius: 50px 50px 50px 50px;
+            -webkit-border-radius: 50px 50px 50px 50px;
+            border: 0px solid #000000;
+            -webkit-box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+            box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+        }
+    }
+}
+
+.box {
+    padding: 50px;
+    text-align: center;
+    h2 {
+        color: black;
+        font-family: $textoJurassic;
+        font-size: 75px;
+        span {
+            font-family: $textoJurassicInline;
+            color: $colorPrincipal;
+        }
+    }
+    p {
+        color: black;
+        font-size: 30px;
+    }
+    form {
+        width: 100%;
+        margin-top: 25px;
+        display: flex;
+        flex-direction: column;
+        input {
+            width: 100%;
+        }
+        .form-control {
+            border: 1px solid black !important;
+            font-size: 20px !important;
+        }
+        .subir {
+            width: 240px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: $colorPrincipal;
+            color: #fff;
+            font-family: $textoJurassic;
+            letter-spacing: 1px;
+            /*Bordes redondos*/
+            border-radius: 10px 10px 10px 10px;
+            -moz-border-radius: 10px 10px 10px 10px;
+            -webkit-border-radius: 10px 10px 10px 10px;
+        }
+        #info {
+            width: 100%;
+            padding-left: 30px;
+            display: flex;
+            align-items: center;
+            font-size: 18px;
+        }
+        .subir:hover {
+            color: #fff;
+            background-color: black;
+        }
+        textarea {
+            border-radius: 20px 20px 20px 20px;
+            -moz-border-radius: 20px 20px 20px 20px;
+            -webkit-border-radius: 20px 20px 20px 20px;
+            border: 1px solid black;
+            padding: 25px;
+        }
+    }
+    .file-input {
+        display: flex;
+        border: 1px solid black;
+        padding: 10px;
+    }
+    table {
+        width: 100%;
+        text-align: center;
+        thead {
+            th {
+                width: 50%;
+            }
+            color: $colorPrincipal;
+            font-size: 30px;
+            letter-spacing: 2px;
+            margin: 0;
+            font-family: $textoJurassic;
+        }
+        tbody {
+            font-size: 25px;
+            color: $colorPrincipal;
+        }
+    }
+}
+
+.btn-size-standar {
+    width: 450px !important;
+}
+
+.margin {
+    margin-top: 50px;
+}
+
+@media only screen and (max-width:1090px) {
+    .margin {
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (max-width:902px) {
+    #marcador {
+        .box {
+            height: auto !important;
+        }
+    }
+}
+
+@media only screen and (max-width:792px) {
+    .margin {
+        margin-top: 20px !important;
+    }
+}
+
+#overflow-table {
+    width: 100%;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+@media only screen and (max-width:1005px) {
+    .margin {
+        margin-top: 60px;
+    }
+    .box {
+        h2 {
+            font-size: 50px;
+        }
+        .file-input {
+            display: flex;
+            flex-direction: column;
+            #info {
+                padding: 10px;
+                margin-top: 10px;
+                text-align: center;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:404px) {
+    #registraTicket {
+        .box {
+            height: 500px !important;
+        }
+    }
+    .button-naranja-black {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width:380px) {
+    #marcador {
+        .box {
+            height: auto !important;
+        }
+    }
+}
+
+
+/* Escribe */
+
+#escribe {
+    background-image: url('backgrounds/fondoHistoria.png');
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    .cont-flex {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        .box {
+            width: 60%;
+            height: auto;
+            background-color: white;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border-radius: 50px 50px 50px 50px;
+            -moz-border-radius: 50px 50px 50px 50px;
+            -webkit-border-radius: 50px 50px 50px 50px;
+            border: 0px solid #000000;
+            -webkit-box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+            -moz-box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+            box-shadow: 0px 0px 14px 2px rgba(0, 0, 0, 0.6);
+        }
+    }
+}
+
+#dino1-historia {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: -50px;
+    margin-top: 200px;
+}
+
+#dino2-historia {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 200px;
+}
+
+@media only screen and (max-width:1230px) {
+    #dino1-historia {
+        display: none;
+    }
+    #dino2-historia {
+        display: none;
+    }
+}
+
+
+/* Termina Escribe */
