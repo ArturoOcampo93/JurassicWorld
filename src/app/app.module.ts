@@ -14,7 +14,9 @@ import { FooterComponent } from './shared/footer/footer.component';
 import { EscribeComponent } from './pages/escribe/escribe.component';
 import { GameOverComponent } from './pages/game-over/game-over.component';
 
-
+import { FormsModule, ReactiveFormsModule } from "@angular/forms";
+import { HttpClientModule } from "@angular/common/http";
+import { UploadimageComponent } from './components/uploadimage/uploadimage.component';
 
 @NgModule({
   declarations: [
@@ -28,11 +30,15 @@ import { GameOverComponent } from './pages/game-over/game-over.component';
     HeaderComponent,
     FooterComponent,
     EscribeComponent,
-    GameOverComponent
+    GameOverComponent,
+    UploadimageComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ReactiveFormsModule,
+    FormsModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

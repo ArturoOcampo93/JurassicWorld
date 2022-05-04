@@ -8,17 +8,18 @@ import { InstruccionesComponent } from './pages/instrucciones/instrucciones.comp
 import { JuegoComponent } from './pages/juego/juego.component';
 import { EscribeComponent } from './pages/escribe/escribe.component';
 import { GameOverComponent } from './pages/game-over/game-over.component';
+import { AuthGuard } from './guards/auth.guard';
 
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'registro', component: RegistroComponent },
-  { path: 'thankyou-page', component: ThankyouPageComponent },
-  { path: 'micuenta', component: MicuentaComponent },
-  { path: 'instrucciones', component: InstruccionesComponent },
-  { path: 'juego', component: JuegoComponent },
-  { path: 'game-over', component: GameOverComponent },
-  { path: 'escribe', component: EscribeComponent },
+  { path: 'thankyou-page', component: ThankyouPageComponent, canActivate: [AuthGuard] },
+  { path: 'micuenta', component: MicuentaComponent, canActivate: [AuthGuard] },
+  { path: 'instrucciones', component: InstruccionesComponent, canActivate: [AuthGuard] },
+  { path: 'juego', component: JuegoComponent, canActivate: [AuthGuard] },
+  { path: 'game-over', component: GameOverComponent, canActivate: [AuthGuard] },
+  { path: 'escribe', component: EscribeComponent, canActivate: [AuthGuard] },
   { path: '**', pathMatch: 'full', redirectTo: 'home' },
   { path: '', pathMatch: 'full', redirectTo: 'home' }
 ];

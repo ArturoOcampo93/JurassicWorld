@@ -6,7 +6,7 @@
             <h2>ESCRIBE <span>UNA HISTORIA</span></h2>
             <p>¿Cuéntanos por qué eres fan de Jurassic World?</p>
             <div class="flex-center">
-                <button type="button" class="button-naranja-black">ESCRIBIR HISTORIA</button>
+                <button type="button" class="button-naranja-black"  [routerLink]="['/escribe']" >ESCRIBIR HISTORIA</button>
             </div>
         </div>
     </div>
@@ -25,12 +25,12 @@
                         <label for="file-upload" class="subir">
                             <i class="fas fa-cloud-upload-alt"></i> SUBIR IMAGEN
                         </label>
-                        <input id="file-upload" onchange='cambiar()' type="file" style='display: none;' />
-                        <div id="info">No se ha seleccionado ningún archivo</div>
+                        <input id="file-upload" data-bs-toggle="modal" data-bs-target="#SubeImagen" onchange='cambiar()'  style='display: none;' />
+                        <div id="info" data-bs-toggle="modal" data-bs-target="#SubeImagen">{{nombreImagen}}</div>
                     </div>
                 </div>
                 <div class="flex-center">
-                    <input class="button-black btn-size-standar" type="submit" value="SUBIR Y JUGAR">
+                    <input class="button-black btn-size-standar"  value="SUBIR IMAGÉN Y JUGAR">                    
                 </div>
             </form>
         </div>
@@ -94,6 +94,30 @@
 </section>
 
 <div class="interseccion"></div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="SubeImagen" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title fontLC" id="exampleModalLabel">SUBE TU TICKET</h5>
+                <button type="button" #closebutton class="btn-close" data-bs-dismiss="modal"
+                    aria-label="Close"></button>
+            </div>
+            <div class="modal-body modal-body-upload">
+
+                <app-uploadimage (imagenServida)="recibeData($event)"> </app-uploadimage>
+            </div>
+            <div class="modal-footer">
+
+
+
+                <!--  <button type="button" class="btn" data-bs-dismiss="modal">¡ENTENDIDO!</button>-->
+            </div>
+        </div>
+    </div>
+</div>
 
 <app-footer></app-footer>
 

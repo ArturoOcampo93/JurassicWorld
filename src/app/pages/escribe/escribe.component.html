@@ -7,8 +7,14 @@
         <div class="box">
             <h2><span>Escribe </span>una Historia</h2>
             <p>¿Cuéntanos por qué eres fan de Jurassic World?</p>
-            <form action="">
-                <textarea name="" id="" cols="50" rows="10"></textarea>
+            <form [formGroup]="historiaForm" (ngSubmit)="escribeHistoria()">
+                <textarea cols="50" rows="10" required name="historiaCuentanos" formControlName="historiaCuentanos"
+                                class="form-control"
+                                [class.is-invalid]="historiaForm.get('historiaCuentanos').invalid && historiaForm.get('historiaCuentanos').touched"
+                                [class.is-valid]="historiaForm.get('historiaCuentanos').valid && historiaForm.get('historiaCuentanos').touched">
+                </textarea>
+                <span class="text-danger" *ngIf="isSubmitReg && historiaForm.get('historiaCuentanos').invalid">Debe proporcionar
+                    una historia de por qué eres fan de Jurassic World.</span>
                 <input type="submit" class="button-naranja-black" value="Enviar Historia">
             </form>
         </div>

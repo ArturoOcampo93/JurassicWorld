@@ -1,0 +1,26 @@
+<div id="uploadButton">
+    <div class="frame-dashed">
+        <div class="absolute-cont">
+            <img src="./assets/images/upload.png" alt="upload">
+            <h2>CARGAR IMAGEN</h2>
+        </div>
+        <input type="file" id="file" class="input-file" (change)="onFileSelected($event)"
+            accept="image/x-png,image/gif,image/jpeg">
+    </div>
+</div>
+<div id="showImg">
+    <div class="frame-dashed flex-cont">
+        <div class="text-center">
+            <img class="img-fluid img-upload" *ngIf="pesoValido" [src]="imagenPrevia" alt="">
+        </div>
+        <div>
+            <p class="texto-upload">{{ estatusSubida }}</p>
+        </div>
+    </div>
+</div>
+<div id="button-cont">
+    <div class="frame-dashed flex-cont padding-cont">
+        <button class="btn-upload" *ngIf="pesoValido" [disabled]="loading" (click)="loadImages()">{{(loading) ?
+            'Cargando...' : 'SUBIR FOTO'}}</button>
+    </div>
+</div>

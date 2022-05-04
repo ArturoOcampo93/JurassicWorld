@@ -1,41 +1,47 @@
-window.addEventListener('scroll', function() {
-    let animacion = document.getElementById('animado');
-    let posicionObj1 = animacion.getBoundingClientRect().top;
-    //console.log(posicionObj1);
 
-    let sizeScreen = window.innerHeight / 3;
+if(document.getElementById('animado')){
 
-    if (posicionObj1 >= 99) {
+    window.addEventListener('scroll', function() {
+        let animacion = document.getElementById('animado');
+        let posicionObj1 = animacion.getBoundingClientRect().top;
+        //console.log(posicionObj1);
+    
+        let sizeScreen = window.innerHeight / 3;
+    
+        if (posicionObj1 >= 99) {
+    
+            //console.log('Me active');
+            animacion.src = "assets/images/fondo-2.png";
+            animacion.style.animation = 'mover 2s ease-out';
+            animacion.style.marginLeft = '200px';
+    
+        }
+    
+        if (posicionObj1 <= -1) {
+    
+            //console.log('Me active de vuelta');
+            animacion.src = "assets/images/fondo-2Back.png";
+            animacion.style.animation = 'moverBack 2s ease-out';
+            animacion.style.marginLeft = '-200px';
+    
+        }
+    
+        let velociraptor = document.getElementById('velociraptor');
+        let posicionObj2 = velociraptor.getBoundingClientRect().top;
+        //console.log(posicionObj2);
+    
+        if (posicionObj2 <= 250) {
+    
+            //console.log('Me active');
+            velociraptor.style.animation = 'moverVelociraptor 1s ease-out';
+            velociraptor.style.marginLeft = '-400px';
+    
+        }
+    
+    })
 
-        //console.log('Me active');
-        animacion.src = "assets/images/fondo-2.png";
-        animacion.style.animation = 'mover 2s ease-out';
-        animacion.style.marginLeft = '200px';
+}
 
-    }
-
-    if (posicionObj1 <= -1) {
-
-        //console.log('Me active de vuelta');
-        animacion.src = "assets/images/fondo-2Back.png";
-        animacion.style.animation = 'moverBack 2s ease-out';
-        animacion.style.marginLeft = '-200px';
-
-    }
-
-    let velociraptor = document.getElementById('velociraptor');
-    let posicionObj2 = velociraptor.getBoundingClientRect().top;
-    //console.log(posicionObj2);
-
-    if (posicionObj2 <= 250) {
-
-        //console.log('Me active');
-        velociraptor.style.animation = 'moverVelociraptor 1s ease-out';
-        velociraptor.style.marginLeft = '-400px';
-
-    }
-
-})
 
 /* Cambio de color del icono del Menu al pasar el mouse */
 
