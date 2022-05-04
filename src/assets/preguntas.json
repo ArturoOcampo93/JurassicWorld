@@ -1,0 +1,731 @@
+[
+    {
+        "nId": "1",
+        "cPregunta": "¿Quiénes son los creadores del personaje Batman?",
+        "cCorrecta": "1ea999991f5bddd1ff6afb68f49de8b2",
+        "cResp1": "Jerry Siegel y Joe Shuster",
+        "cResp2": "Stan Lee y Bob Kane",
+        "cResp3": "Bruce Wayne",
+        "cResp4": "Bob Kane y Bill Finger"
+    },
+    {
+        "nId": "2",
+        "cPregunta": "Año en que Batman apareció por primera vez en la revista Detective Comics",
+        "cCorrecta": "f22e4747da1aa27e363d86d40ff442fe",
+        "cResp1": "1940",
+        "cResp2": "1950",
+        "cResp3": "1960",
+        "cResp4": "1939"
+    },
+    {
+        "nId": "3",
+        "cPregunta": "¿Cuál fue el título de la revista Detective Comics en la que Batman apareció por primera vez?",
+        "cCorrecta": "e7fba658bf77d0146088485918bcdda8",
+        "cResp1": "“The big comic magazine”",
+        "cResp2": "“La noche de los búhos”",
+        "cResp3": "El miedo a la oscuridad",
+        "cResp4": "“El caso del sindicato químico”"
+    },
+    {
+        "nId": "4",
+        "cPregunta": "Nombre de la identidad secreta de Batman",
+        "cCorrecta": "66b2f5c3bc465b507dbe10e11442775d",
+        "cResp1": "Bruce Neil",
+        "cResp2": "Bruce Spencer",
+        "cResp3": "Christopher Nolan",
+        "cResp4": "Bruce Wayne"
+    },
+    {
+        "nId": "5",
+        "cPregunta": "Nombre de los padres de Bruce Wayne",
+        "cCorrecta": "c9f4183a115747c87623cf7244fa004e",
+        "cResp1": "Tim Wayne y Emma Wayne",
+        "cResp2": "Robert Wayne y Martha Wayne",
+        "cResp3": "Tim Wayne y Martha Wayne",
+        "cResp4": "Thomas Wayne y Martha Wayne"
+    },
+    {
+        "nId": "6",
+        "cPregunta": "¿Cuáles son los superpoderes de Batman?",
+        "cCorrecta": "16f25c8af2829fa2a2e3678c07d25b74",
+        "cResp1": "Vuela",
+        "cResp2": "Visión de rayos X",
+        "cResp3": "Invisible ",
+        "cResp4": "No tiene superpoderes"
+    },
+    {
+        "nId": "7",
+        "cPregunta": "¿En qué año Batman obtuvo su primera historieta?",
+        "cCorrecta": "95e6834d0a3d99e9ea8811855ae9229d",
+        "cResp1": "1945",
+        "cResp2": "1960",
+        "cResp3": "1939",
+        "cResp4": "1940"
+    },
+    {
+        "nId": "8",
+        "cPregunta": "Director de la película Batman de 1989",
+        "cCorrecta": "a35a3a2aa8c3d5205ecad0d332ae5bc2",
+        "cResp1": "Christopher Nolan",
+        "cResp2": "Francis Ford Coppola",
+        "cResp3": "Bruce Spencer",
+        "cResp4": "Tim Burton"
+    },
+    {
+        "nId": "9",
+        "cPregunta": "¿Cuáles son los nombres de los héroes reales que inspiraron el nombre de Bruce Wayne?",
+        "cCorrecta": "0e0b97ad78fa0034a26c55f02046a861",
+        "cResp1": "Bruce Lee y Tim Wayne",
+        "cResp2": "Bruce Springsteen y Alexander Wayne",
+        "cResp3": "Bruce Springsteen y Tim Wayne",
+        "cResp4": "Robert the Bruce y Anthony Wayne"
+    },
+    {
+        "nId": "10",
+        "cPregunta": "¿Qué personaje tuvo influencia en Bob Kane para crear el personaje?",
+        "cCorrecta": "36c89e7acc3dfcc4372875bbbc6d78c0",
+        "cResp1": "El Santo",
+        "cResp2": "Bird Man",
+        "cResp3": "Blue Demon ",
+        "cResp4": "El Zorro"
+    },
+    {
+        "nId": "11",
+        "cPregunta": "¿Qué suceso motivó a Bruce Wayne a combatir el crimen en Ciudad Gótica?",
+        "cCorrecta": "c5c4fc87d2c911b14eac3e563f3b3004",
+        "cResp1": "El miedo a la oscuridad",
+        "cResp2": "La muerte de Robin",
+        "cResp3": "La muerte de Alfred ",
+        "cResp4": "El asesinato de sus padres"
+    },
+    {
+        "nId": "12",
+        "cPregunta": "Año en el que se incorporó Robin a la historia de Batman",
+        "cCorrecta": "95e6834d0a3d99e9ea8811855ae9229d",
+        "cResp1": "1960",
+        "cResp2": "1950",
+        "cResp3": "1975",
+        "cResp4": "1940"
+    },
+    {
+        "nId": "13",
+        "cPregunta": "¿En qué año Batman y Superman aparecieron juntos en una historieta?",
+        "cCorrecta": "95e6834d0a3d99e9ea8811855ae9229d",
+        "cResp1": "1930",
+        "cResp2": "1950",
+        "cResp3": "1982",
+        "cResp4": "1940"
+    },
+    {
+        "nId": "14",
+        "cPregunta": "¿En qué año se estrenó la película de Batman dirigida por Christopher Nolan?",
+        "cCorrecta": "d47268e9db2e9aa3827bba3afb7ff94a",
+        "cResp1": "1999",
+        "cResp2": "2001",
+        "cResp3": "2000",
+        "cResp4": "2005"
+    },
+    {
+        "nId": "15",
+        "cPregunta": "¿Cómo se llama el principal vehículo de Batman?",
+        "cCorrecta": "adbad5d0f91445389e83ee0095f20347",
+        "cResp1": "Batcave",
+        "cResp2": "Batiala",
+        "cResp3": "Baticarro ",
+        "cResp4": "Batimóvil"
+    },
+    {
+        "nId": "16",
+        "cPregunta": "¿En qué año se estrenó el programa de televisión Batman: La serie animada?",
+        "cCorrecta": "d5c186983b52c4551ee00f72316c6eaa",
+        "cResp1": "1991",
+        "cResp2": "1994",
+        "cResp3": "2000",
+        "cResp4": "1992"
+    },
+    {
+        "nId": "17",
+        "cPregunta": "¿En qué año se estrenó la serie de televisión Batman?",
+        "cCorrecta": "3683af9d6f6c06acee72992f2977f67e",
+        "cResp1": "1970",
+        "cResp2": "1960",
+        "cResp3": "1956",
+        "cResp4": "1966"
+    },
+    {
+        "nId": "18",
+        "cPregunta": "¿Qué actor interpretó a Batman en la serie de televisión Batman?",
+        "cCorrecta": "05c01767c07578eb6107f345642718ec",
+        "cResp1": "Al Pacino",
+        "cResp2": "Joel Schumacher",
+        "cResp3": "Robert De Niro ",
+        "cResp4": "Adam West"
+    },
+    {
+        "nId": "19",
+        "cPregunta": "¿Quién intepretó a Batman en la película de 1989?",
+        "cCorrecta": "6b4eaa6cb3da3da129e8a523e2779cf1",
+        "cResp1": "Val Kilmer",
+        "cResp2": "Christian Bale",
+        "cResp3": "Brad Pit ",
+        "cResp4": "Michael Keaton"
+    },
+    {
+        "nId": "20",
+        "cPregunta": "¿Cómo se llama la película de Batman estrenada en 2005?",
+        "cCorrecta": "0d67d35c3120d55d5a5b3bf8e488a527",
+        "cResp1": "The Batman",
+        "cResp2": "Batman y Robin",
+        "cResp3": "Escuadron Suicida ",
+        "cResp4": "Batman Begins"
+    },
+    {
+        "nId": "21",
+        "cPregunta": "¿Quién protagonizó la película Batman Begins?",
+        "cCorrecta": "e3bb0af260645bdc7e1e2b29ee1a2970",
+        "cResp1": "Joel Schumacher",
+        "cResp2": "Michael Keaton",
+        "cResp3": "Will Smith ",
+        "cResp4": "Christian Bale"
+    },
+    {
+        "nId": "22",
+        "cPregunta": "¿En qué año se estrenó la película The Dark Knight?",
+        "cCorrecta": "ef8446f35513a8d6aa2308357a268a7e",
+        "cResp1": "2002",
+        "cResp2": "2006",
+        "cResp3": "2010",
+        "cResp4": "2008"
+    },
+    {
+        "nId": "23",
+        "cPregunta": "¿En qué año se estrenó la película The Dark Knight Rises?",
+        "cCorrecta": "253614bbac999b38b5b60cae531c4969",
+        "cResp1": "2016",
+        "cResp2": "2008",
+        "cResp3": "2011",
+        "cResp4": "2012"
+    },
+    {
+        "nId": "24",
+        "cPregunta": "¿Cómo se llamó la película de Batman estrenada en 1992?",
+        "cCorrecta": "797003ea3feca18e7b54c1d19db51a36",
+        "cResp1": "Batman Forever",
+        "cResp2": "The Batman",
+        "cResp3": "Batman Forever ",
+        "cResp4": "Batman Returns"
+    },
+    {
+        "nId": "25",
+        "cPregunta": "¿Cómo se llamaron las películas de Batman que dirigió Joel Schumacher?",
+        "cCorrecta": "779eb57355ba96be39f269a672ac9c64",
+        "cResp1": "The Batman - The dark Knight",
+        "cResp2": "Batman: The brave and the bold - Batman: Gotham Knight",
+        "cResp3": "Batman VS Guason ",
+        "cResp4": "Batman Forever - Batman y Robin"
+    },
+    {
+        "nId": "26",
+        "cPregunta": "Nombre de la voz oficial de Batman en Estados Unidos",
+        "cCorrecta": "20cd42833fbd9ee80b0956584346d208",
+        "cResp1": "Nolan North",
+        "cResp2": "George Newbern",
+        "cResp3": "Alex Smith ",
+        "cResp4": "Kevin Conroy"
+    },
+    {
+        "nId": "27",
+        "cPregunta": " ¿Cuál es el apellido de Alfred, el mayordomo de Bruce?",
+        "cCorrecta": "c73e2d1f2f7f4bb850860ad7633e520b",
+        "cResp1": "Kane",
+        "cResp2": "Serkis",
+        "cResp3": "Wiliams ",
+        "cResp4": "Pennyworth"
+    },
+    {
+        "nId": "28",
+        "cPregunta": "Actriz que interpretó a Gatúbela en Batman de 1989",
+        "cCorrecta": "2663ee7f79b2b67b01dec3563ae9feb9",
+        "cResp1": "Anne Hathaway",
+        "cResp2": "Kim Basinger",
+        "cResp3": "Carmen Elektra ",
+        "cResp4": "Michelle Pfeiffer"
+    },
+    {
+        "nId": "29",
+        "cPregunta": "Actriz que interpretó a Gatúbela en la serie de televisión Gotham",
+        "cCorrecta": "5b6cb0c6b3d004310f4475a11765c536",
+        "cResp1": "Morena Baccarin",
+        "cResp2": "Crystal Reed",
+        "cResp3": "Halle Berry ",
+        "cResp4": "Camren Bicondova"
+    },
+    {
+        "nId": "30",
+        "cPregunta": "Actor que interpretó a El Guasón en la serie televisiva de Batman de 1966",
+        "cCorrecta": "8dc07b0bd8f45c066e0f82cae95be161",
+        "cResp1": "Alec Baldwin",
+        "cResp2": "Jack Nicholson",
+        "cResp3": "Al Pacino ",
+        "cResp4": "César Romero"
+    },
+    {
+        "nId": "31",
+        "cPregunta": "¿De dónde se inspiró el creador de Batman para nombrar a Ciudad Gótica?",
+        "cCorrecta": "a071b3ab24e37671b69473fd8047815d",
+        "cResp1": "De Gotham Pizza",
+        "cResp2": "De Gotham Park",
+        "cResp3": "New York ",
+        "cResp4": "De Gotham Jewelers"
+    },
+    {
+        "nId": "32",
+        "cPregunta": "¿Cómo se llama el universo en donde Thomas Wayne es Batman y Martha Wayne es El Guasón?",
+        "cCorrecta": "09a02d39da9047b791cded18a157a266",
+        "cResp1": "Multiverse",
+        "cResp2": "Batman Crossover",
+        "cResp3": "Across the Univers ",
+        "cResp4": "Flashpoint Paradox"
+    },
+    {
+        "nId": "33",
+        "cPregunta": "Año en el que se vió a Batman por primera vez en un largometraje",
+        "cCorrecta": "39dcaf7a053dc372fbc391d4e6b5d693",
+        "cResp1": "1965",
+        "cResp2": "1989",
+        "cResp3": "1979",
+        "cResp4": "1964"
+    },
+    {
+        "nId": "34",
+        "cPregunta": "Nombre de la primera Batichica que se publicó en 1961",
+        "cCorrecta": "88d621b97ec69549973667db8ab0c3ca",
+        "cResp1": "Bárbara Gordon",
+        "cResp2": "Lana Lang",
+        "cResp3": "Bárbara Lang ",
+        "cResp4": "Betty Kane"
+    },
+    {
+        "nId": "35",
+        "cPregunta": "¿A qué actor se atribuye la frase “Im Batman”?",
+        "cCorrecta": "6b4eaa6cb3da3da129e8a523e2779cf1",
+        "cResp1": "George Clooney",
+        "cResp2": "Val Kilmer",
+        "cResp3": "Bruce Willis ",
+        "cResp4": "Michael Keaton"
+    },
+    {
+        "nId": "36",
+        "cPregunta": "¿En qué número de la revista Detective Comics apareció Batman por primera vez?",
+        "cCorrecta": "02e74f10e0327ad868d138f2b4fdd6f0",
+        "cResp1": "72",
+        "cResp2": "40",
+        "cResp3": "55",
+        "cResp4": "27"
+    },
+    {
+        "nId": "37",
+        "cPregunta": "Nombre de la actriz a la que originalmente le dieron el papel de Vicky Vale en la película Batman de 1989",
+        "cCorrecta": "f4b8468c0ebae95eb1859e93fa4c0cf9",
+        "cResp1": "Kim Basinger",
+        "cResp2": "Michelle Pfeiffer",
+        "cResp3": "Halle Berry ",
+        "cResp4": "Sean Young"
+    },
+    {
+        "nId": "38",
+        "cPregunta": "Nombre secreto del primer Robin",
+        "cCorrecta": "3d5f8d9ebb9e0475256def10d4d3c779",
+        "cResp1": "Jason Todd",
+        "cResp2": "George Pere",
+        "cResp3": "George Todd",
+        "cResp4": "Richard Grayson"
+    },
+    {
+        "nId": "39",
+        "cPregunta": "¿Quién fue el primer villano de Batman?",
+        "cCorrecta": "20977da743cbaf33c45a307ea0a9419e",
+        "cResp1": "El Acertijo",
+        "cResp2": "El Guasón",
+        "cResp3": "El Pinguino ",
+        "cResp4": "Hugo Strange"
+    },
+    {
+        "nId": "40",
+        "cPregunta": "¿Cómo se le conoce al batimóvil en las películas de Christopher Nolan?",
+        "cCorrecta": "d6942640128d6e7f3fa9fdd5f2ec9e93",
+        "cResp1": "Bathammer",
+        "cResp2": "Knightcrawler",
+        "cResp3": "Batimovil ",
+        "cResp4": "Tumbler"
+    },
+    {
+        "nId": "41",
+        "cPregunta": "Compositor de la banda sonora de la película Batman de 1989",
+        "cCorrecta": "2d1fc7bc17c94cb0c78d0ee605f3af22",
+        "cResp1": "Adam Clayton",
+        "cResp2": "Hans Zimmer",
+        "cResp3": "Eric Clapton ",
+        "cResp4": "Danny Elfman"
+    },
+    {
+        "nId": "42",
+        "cPregunta": "Tres ciudades en las que está inspirada Ciudad Gótica",
+        "cCorrecta": "81fb14eb7c965b4c983709c05d7c1703",
+        "cResp1": "Pittsburgh, Los Ángeles y Seattle",
+        "cResp2": "Nueva York, Texas y Washington",
+        "cResp3": "Nueva York, Seatle y Londres ",
+        "cResp4": "Nueva York, Chicago y Detroit"
+    },
+    {
+        "nId": "43",
+        "cPregunta": "¿Qué actor interpreta a El Guasón en la película Batman dirigida por Tim Burton?",
+        "cCorrecta": "309dc898aecedf81f0fed7bfebd9b2af",
+        "cResp1": "Danny DeVito",
+        "cResp2": "Michael Keaton",
+        "cResp3": "Head Ledger ",
+        "cResp4": "Jack Nicholson"
+    },
+    {
+        "nId": "44",
+        "cPregunta": "¿Quién es Danny DeVito en la película Batman Returns?",
+        "cCorrecta": "50e0acd7b2c94de53d589c05d3150712",
+        "cResp1": "El Guasón",
+        "cResp2": "El Acertijo",
+        "cResp3": "Bane ",
+        "cResp4": "El Pingüino"
+    },
+    {
+        "nId": "45",
+        "cPregunta": "¿Qué villano interpretó Arnold Schwarzenegger en la película Batman & Robin?",
+        "cCorrecta": "0c9a59bb7bf3aab74bc723eb5eaeca23",
+        "cResp1": "Enigma",
+        "cResp2": "El Pingüino",
+        "cResp3": "EL Guason ",
+        "cResp4": "Mr. Freeze"
+    },
+    {
+        "nId": "46",
+        "cPregunta": "¿Cómo se tituló el relanzamiento de las historias de Batman publicadas por DC Comics en 2011?",
+        "cCorrecta": "c473a040a16fc1b31731eba3fdd6be66",
+        "cResp1": "Batman Returns",
+        "cResp2": "Batman Forever",
+        "cResp3": "Batman y Robin",
+        "cResp4": "The New 52"
+    },
+    {
+        "nId": "47",
+        "cPregunta": "¿A qué se dedica Bruce Wayne cuando no es Batman?",
+        "cCorrecta": "3fdf9f3c6154d49dd2d8289507121f0f",
+        "cResp1": "Es periodista",
+        "cResp2": "Es oficial de policía",
+        "cResp3": "Abogado ",
+        "cResp4": "Es empresario"
+    },
+    {
+        "nId": "48",
+        "cPregunta": "¿Cuál de los siguientes héroes no es parte de La liga de la justicia?",
+        "cCorrecta": "efaa25379dced0fea71b03fe37da6d08",
+        "cResp1": "La mujer maravilla",
+        "cResp2": "Batman",
+        "cResp3": "Iron Man ",
+        "cResp4": "Spiderman"
+    },
+    {
+        "nId": "49",
+        "cPregunta": "¿Quién hizo la voz de Batman en la película Lego Batman?",
+        "cCorrecta": "75fa3d9518da93507927f101e20354b4",
+        "cResp1": "Michael Keaton",
+        "cResp2": "Ben Affleck",
+        "cResp3": "Christian Bale",
+        "cResp4": "Will Arnett"
+    },
+    {
+        "nId": "50",
+        "cPregunta": "¿Quiénes son parte del grupo Las Sirenas de Ciudad Gótica?",
+        "cCorrecta": "5ac1eb16bf8e840b4d01eeab3d8a19d4",
+        "cResp1": "Batichica, Hiedra Venenosa y Gatúbela",
+        "cResp2": "Harley Quinn, Batichica y Gatúbela",
+        "cResp3": "Harley Quinn, Batichica y La Mujer Maravilla ",
+        "cResp4": "Harley Quinn, Gatúbela y Hiedra Venenosa"
+    },
+    {
+        "nId": "51",
+        "cPregunta": "¿Cuál es el arma favorita de Gatúbela?",
+        "cCorrecta": "bbc97b92481cc64ac81b11809eb40fb4",
+        "cResp1": "Pistola",
+        "cResp2": "Cuchillo",
+        "cResp3": "Estrellas Ninja ",
+        "cResp4": "Látigo"
+    },
+    {
+        "nId": "52",
+        "cPregunta": "¿Cómo se llama el chico maravilla que acompaña a Batman en algunas de sus hazañas?",
+        "cCorrecta": "22d5d814d801d8b3e1a1c3fc36796de9",
+        "cResp1": "Chris",
+        "cResp2": "Kane",
+        "cResp3": "Will ",
+        "cResp4": "Robin"
+    },
+    {
+        "nId": "53",
+        "cPregunta": "¿De qué color es el batiteléfono?",
+        "cCorrecta": "3ded744c42b8b6f3f614d8de50b35a26",
+        "cResp1": "Negro",
+        "cResp2": "Blanco",
+        "cResp3": "Verde ",
+        "cResp4": "Rojo"
+    },
+    {
+        "nId": "54",
+        "cPregunta": "¿Cuál de estos actores interpretó por primera vez a El Guasón?",
+        "cCorrecta": "aeabf0aa17a29f0b6dfb526335631454",
+        "cResp1": "Heath Ledger",
+        "cResp2": "Jack Nicholson",
+        "cResp3": "Tomy Lee Jhons ",
+        "cResp4": "Cesar Romero"
+    },
+    {
+        "nId": "55",
+        "cPregunta": "¿Cuál de los villanos clásicos de Batman en realidad se llama Edward?",
+        "cCorrecta": "0ce7fdbc6742f8aea1cd32630c10499b",
+        "cResp1": "El Pingüino",
+        "cResp2": "Mr. Freeze",
+        "cResp3": "El Guasón",
+        "cResp4": "El Acertijo"
+    },
+    {
+        "nId": "56",
+        "cPregunta": "¿Qué actor ha interpretado a Superman y también a Batman?",
+        "cCorrecta": "a3e994885d762bef6ffd4ca4d4073f3f",
+        "cResp1": "Heath Ledger",
+        "cResp2": "Christian Bale",
+        "cResp3": "Michael Keaton",
+        "cResp4": "Ben Affleck"
+    },
+    {
+        "nId": "57",
+        "cPregunta": "¿Quién es el padre de Batichica?",
+        "cCorrecta": "18bb062e4a9153c203f14d64cc0abe98",
+        "cResp1": "Alfred Pennyworth",
+        "cResp2": "Harvey Dent",
+        "cResp3": "Will Arnett",
+        "cResp4": "James Gordon"
+    },
+    {
+        "nId": "58",
+        "cPregunta": "Existe una ciudad llamada Batman ¿en qué país se encuentra?",
+        "cCorrecta": "60087471923444de3fd1e5f12ee24e80",
+        "cResp1": "Rusia",
+        "cResp2": "Italia",
+        "cResp3": "Islandia",
+        "cResp4": "Turquía"
+    },
+    {
+        "nId": "59",
+        "cPregunta": "¿Qué personaje interpreta Liam Neeson en Batman Begins?",
+        "cCorrecta": "67e784e31697529fddd2838031ef9d7c",
+        "cResp1": "Alfred",
+        "cResp2": "El Pingüino",
+        "cResp3": "Harvey Dent",
+        "cResp4": "Ra's al Ghul"
+    },
+    {
+        "nId": "60",
+        "cPregunta": "¿Qué personaje pudo interpretar Frank Sinatra en la serie de acción de Batman protagonizada por Adam West?",
+        "cCorrecta": "1498607c7e8400d76bf754338148c47f",
+        "cResp1": "Batman",
+        "cResp2": "El Pingüino",
+        "cResp3": "El Acertijo",
+        "cResp4": "El Guasón"
+    },
+    {
+        "nId": "61",
+        "cPregunta": "¿Qué personaje le rompió la espalda a Batman?",
+        "cCorrecta": "51534a3170d5912c466d45c89e48225e",
+        "cResp1": "El Acertijo",
+        "cResp2": "Alfred",
+        "cResp3": "El Guasón",
+        "cResp4": "Bane"
+    },
+    {
+        "nId": "62",
+        "cPregunta": "¿Cuál es la regla más importante para Batman?",
+        "cCorrecta": "091f56ab9b3b5c2d701b31f4d05a6877",
+        "cResp1": "No enamorarse",
+        "cResp2": "No usar trajes rosas",
+        "cResp3": "No ser Ladrón",
+        "cResp4": "No asesinar"
+    },
+    {
+        "nId": "63",
+        "cPregunta": "¿Qué villano comió pescado en la película Batman Forever?",
+        "cCorrecta": "50e0acd7b2c94de53d589c05d3150712",
+        "cResp1": "El Guasón",
+        "cResp2": "El Acertijo",
+        "cResp3": "Mr. Freeze",
+        "cResp4": "El Pingüino"
+    },
+    {
+        "nId": "64",
+        "cPregunta": "Además de “Caballero de la noche” y ”Caballero oscuro” ¿qué otro sobrenombre tiene Batman?",
+        "cCorrecta": "f217d24ddd87952d65b83eba69375282",
+        "cResp1": "Guerrero de las sombras",
+        "cResp2": "Justiciero de la oscuridad",
+        "cResp3": "Black Bat",
+        "cResp4": "Hombre murciélago"
+    },
+    {
+        "nId": "65",
+        "cPregunta": "¿Cómo se llama el hijo que Batman tuvo con Talia al Ghul?",
+        "cCorrecta": "12d65e7646b9dc1faaf6d9c1b60ad264",
+        "cResp1": "No tuvo hijos",
+        "cResp2": "Thomas Wayne",
+        "cResp3": "Alfred Wayne",
+        "cResp4": "Damian Wayne"
+    },
+    {
+        "nId": "66",
+        "cPregunta": "¿Cómo se llama el manicomio donde estuvo internado El Guasón?",
+        "cCorrecta": "ad573ec843fb01b0f59c3437d1b6c35c",
+        "cResp1": "Manicomio Gothic",
+        "cResp2": "Manicomio Ciudad Gótica",
+        "cResp3": "Manicomio Victoria",
+        "cResp4": "Manicomio Arkham"
+    },
+    {
+        "nId": "67",
+        "cPregunta": "¿Quién dirigió la película The Batman?",
+        "cCorrecta": "b5ea4683c6ff2c7a2b61cd2eaf8d38d5",
+        "cResp1": "Tim Burton",
+        "cResp2": "Christopher Nolan",
+        "cResp3": "George Clooney",
+        "cResp4": "Matt Reeves"
+    },
+    {
+        "nId": "68",
+        "cPregunta": "¿Qué banda musical aparece en la portada del #222 de la revista Batman en 1970?",
+        "cCorrecta": "c9e770c62114ed60fd1a4c6dd866e2d8",
+        "cResp1": "Nirvana",
+        "cResp2": "The Rolling Stones",
+        "cResp3": "U2",
+        "cResp4": "The Beatles"
+    },
+    {
+        "nId": "69",
+        "cPregunta": "¿Cuál de estos personajes no ha utilizado el manto de Batman?",
+        "cCorrecta": "1498607c7e8400d76bf754338148c47f",
+        "cResp1": "James Gordon",
+        "cResp2": "Damian Wayne",
+        "cResp3": "Jack Nicholson",
+        "cResp4": "El Guasón"
+    },
+    {
+        "nId": "70",
+        "cPregunta": "¿Qué compañía de cómics se encarga de publicar Batman actualmente?",
+        "cCorrecta": "e3d9377b36729e7ce22b678a36fc97d3",
+        "cResp1": "Gotham Studios",
+        "cResp2": "Batman Comics",
+        "cResp3": "Universal Studios",
+        "cResp4": "DC Comics"
+    },
+    {
+        "nId": "71",
+        "cPregunta": "¿Qué actor interpretó a Batman en la película Batman Forever?",
+        "cCorrecta": "47bd91091d8cd72a3c81e41ad169007e",
+        "cResp1": "Michael Keaton",
+        "cResp2": "Geroge Klooney",
+        "cResp3": "Tim Burton",
+        "cResp4": "Val Kilmer"
+    },
+    {
+        "nId": "72",
+        "cPregunta": "Ya que no tiene superpoderes ¿qué habilidad utiliza Batman?",
+        "cCorrecta": "79bf5f0ea7f826ea8a0d0b0307ce912e",
+        "cResp1": "Yoga",
+        "cResp2": "Tiro con arco",
+        "cResp3": "Lucha Libre",
+        "cResp4": "Artes marciales"
+    },
+    {
+        "nId": "73",
+        "cPregunta": "¿Quién interpreta a Batman en la película The Batman?",
+        "cCorrecta": "5a05149472f9e87a9b7ca9a01f4cc8bc",
+        "cResp1": "Robert Downey Jr",
+        "cResp2": "Ben Affleck",
+        "cResp3": "Christian Bale",
+        "cResp4": "Robert Pattinson"
+    },
+    {
+        "nId": "74",
+        "cPregunta": "¿Quién interpreta a El Acertijo en la película The Batman?",
+        "cCorrecta": "bb6452432598abc19d8608a627eb5b0a",
+        "cResp1": "Andt Serkis",
+        "cResp2": "Colin Farrel",
+        "cResp3": "Heath Ledger",
+        "cResp4": "Paul Dano"
+    },
+    {
+        "nId": "75",
+        "cPregunta": "¿Qué villano de Batman es un ladrón de joyas?",
+        "cCorrecta": "4aacf51f1fa1cff4041da9ba0849d096",
+        "cResp1": "El Pingüino",
+        "cResp2": "EL Guasón",
+        "cResp3": "El Acertijo",
+        "cResp4": "Gatúbela"
+    },
+    {
+        "nId": "76",
+        "cPregunta": "¿Qué actriz interpreta a Gatúbela en la película The Batman?",
+        "cCorrecta": "136f2f7866d100020335e998bced8308",
+        "cResp1": "Anne Hathaway",
+        "cResp2": "Halle Berry",
+        "cResp3": "Kim Basinger",
+        "cResp4": "Zoë Kravitz"
+    },
+    {
+        "nId": "77",
+        "cPregunta": "¿Cómo se llama el club nocturno de El Pingüino?",
+        "cCorrecta": "c7e6f84bddf3c247b35ba03c82f8af7a",
+        "cResp1": "Club Pingüino",
+        "cResp2": "Salón sombrilla",
+        "cResp3": "Club sombrero",
+        "cResp4": "Iceberg lounge"
+    },
+    {
+        "nId": "78",
+        "cPregunta": "¿Cuál es la película de Batman que ha tenido mayor recaudación?",
+        "cCorrecta": "d834918560dcb725aa4f12211115d24a",
+        "cResp1": "Batman vs Superman",
+        "cResp2": "Batman Forever",
+        "cResp3": "Batman Returns",
+        "cResp4": "The Dark Knight Rises"
+    },
+    {
+        "nId": "79",
+        "cPregunta": "Actor que interpretó a Batman por primera vez",
+        "cCorrecta": "f5efc50b2835bf6dc81725dffdd25443",
+        "cResp1": "Adam West",
+        "cResp2": "Robert Lowery",
+        "cResp3": "Heath Ledger",
+        "cResp4": "Lewis G. Wilson"
+    },
+    {
+        "nId": "80",
+        "cPregunta": "¿Qué color iba a tener el traje de Batman en la idea original?",
+        "cCorrecta": "3ded744c42b8b6f3f614d8de50b35a26",
+        "cResp1": "Verde",
+        "cResp2": "Rosa",
+        "cResp3": "Amarillo",
+        "cResp4": "Rojo"
+    },
+    {
+        "nId": "81",
+        "cPregunta": "¿Qué universidad ofrece un curso llamado La ciencia de Batman?",
+        "cCorrecta": "a6254723df5eeef3f16fd09e64ad2ba9",
+        "cResp1": "Universidad de Arkham",
+        "cResp2": "Universidad del Sur de California",
+        "cResp3": "Universidad de Los Angeles",
+        "cResp4": "Universidad de Victoria"
+    }
+]

@@ -54,38 +54,11 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
+                        <tr *ngFor="let participacion of historial">
+                            <td>{{participacion.cDia }}</td>
+                            <td>{{participacion.cCorrectas}}/30</td>
                         </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
-                        <tr>
-                            <td>10-05-2022</td>
-                            <td>10/30</td>
-                        </tr>
+                        
                     </tbody>
                 </table>
             </div>
