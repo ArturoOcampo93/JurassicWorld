@@ -4,13 +4,13 @@ import  listaPreguntas from 'src/assets/preguntas.json';
 import Swal from 'sweetalert2'
 
 interface PREGUNTAS {
-    nId: String;
+    nId: number;
     cPregunta: String;
+    cCorrecta:String;
     cResp1: String;
     cResp2: String;
     cResp3: String;
     cResp4: String;
-    cCorrecta:String;
 }
 
 @Component({
@@ -20,13 +20,13 @@ interface PREGUNTAS {
 })
 export class JuegoComponent implements OnInit {
 
-  Preguntas: PREGUNTAS[] = listaPreguntas;
+  preguntas: PREGUNTAS[] = listaPreguntas;
 
   constructor() { }
 
   ngOnInit(): void {
 
-    console.log(this.Preguntas);
+    console.log(this.preguntas);
     
   }
 

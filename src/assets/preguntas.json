@@ -1,731 +1,902 @@
 [
-    {
-        "nId": "1",
-        "cPregunta": "¿Quiénes son los creadores del personaje Batman?",
-        "cCorrecta": "1ea999991f5bddd1ff6afb68f49de8b2",
-        "cResp1": "Jerry Siegel y Joe Shuster",
-        "cResp2": "Stan Lee y Bob Kane",
-        "cResp3": "Bruce Wayne",
-        "cResp4": "Bob Kane y Bill Finger"
-    },
-    {
-        "nId": "2",
-        "cPregunta": "Año en que Batman apareció por primera vez en la revista Detective Comics",
-        "cCorrecta": "f22e4747da1aa27e363d86d40ff442fe",
-        "cResp1": "1940",
-        "cResp2": "1950",
-        "cResp3": "1960",
-        "cResp4": "1939"
-    },
-    {
-        "nId": "3",
-        "cPregunta": "¿Cuál fue el título de la revista Detective Comics en la que Batman apareció por primera vez?",
-        "cCorrecta": "e7fba658bf77d0146088485918bcdda8",
-        "cResp1": "“The big comic magazine”",
-        "cResp2": "“La noche de los búhos”",
-        "cResp3": "El miedo a la oscuridad",
-        "cResp4": "“El caso del sindicato químico”"
-    },
-    {
-        "nId": "4",
-        "cPregunta": "Nombre de la identidad secreta de Batman",
-        "cCorrecta": "66b2f5c3bc465b507dbe10e11442775d",
-        "cResp1": "Bruce Neil",
-        "cResp2": "Bruce Spencer",
-        "cResp3": "Christopher Nolan",
-        "cResp4": "Bruce Wayne"
-    },
-    {
-        "nId": "5",
-        "cPregunta": "Nombre de los padres de Bruce Wayne",
-        "cCorrecta": "c9f4183a115747c87623cf7244fa004e",
-        "cResp1": "Tim Wayne y Emma Wayne",
-        "cResp2": "Robert Wayne y Martha Wayne",
-        "cResp3": "Tim Wayne y Martha Wayne",
-        "cResp4": "Thomas Wayne y Martha Wayne"
-    },
-    {
-        "nId": "6",
-        "cPregunta": "¿Cuáles son los superpoderes de Batman?",
-        "cCorrecta": "16f25c8af2829fa2a2e3678c07d25b74",
-        "cResp1": "Vuela",
-        "cResp2": "Visión de rayos X",
-        "cResp3": "Invisible ",
-        "cResp4": "No tiene superpoderes"
-    },
-    {
-        "nId": "7",
-        "cPregunta": "¿En qué año Batman obtuvo su primera historieta?",
-        "cCorrecta": "95e6834d0a3d99e9ea8811855ae9229d",
-        "cResp1": "1945",
-        "cResp2": "1960",
-        "cResp3": "1939",
-        "cResp4": "1940"
-    },
-    {
-        "nId": "8",
-        "cPregunta": "Director de la película Batman de 1989",
-        "cCorrecta": "a35a3a2aa8c3d5205ecad0d332ae5bc2",
-        "cResp1": "Christopher Nolan",
-        "cResp2": "Francis Ford Coppola",
-        "cResp3": "Bruce Spencer",
-        "cResp4": "Tim Burton"
-    },
-    {
-        "nId": "9",
-        "cPregunta": "¿Cuáles son los nombres de los héroes reales que inspiraron el nombre de Bruce Wayne?",
-        "cCorrecta": "0e0b97ad78fa0034a26c55f02046a861",
-        "cResp1": "Bruce Lee y Tim Wayne",
-        "cResp2": "Bruce Springsteen y Alexander Wayne",
-        "cResp3": "Bruce Springsteen y Tim Wayne",
-        "cResp4": "Robert the Bruce y Anthony Wayne"
-    },
-    {
-        "nId": "10",
-        "cPregunta": "¿Qué personaje tuvo influencia en Bob Kane para crear el personaje?",
-        "cCorrecta": "36c89e7acc3dfcc4372875bbbc6d78c0",
-        "cResp1": "El Santo",
-        "cResp2": "Bird Man",
-        "cResp3": "Blue Demon ",
-        "cResp4": "El Zorro"
-    },
-    {
-        "nId": "11",
-        "cPregunta": "¿Qué suceso motivó a Bruce Wayne a combatir el crimen en Ciudad Gótica?",
-        "cCorrecta": "c5c4fc87d2c911b14eac3e563f3b3004",
-        "cResp1": "El miedo a la oscuridad",
-        "cResp2": "La muerte de Robin",
-        "cResp3": "La muerte de Alfred ",
-        "cResp4": "El asesinato de sus padres"
-    },
-    {
-        "nId": "12",
-        "cPregunta": "Año en el que se incorporó Robin a la historia de Batman",
-        "cCorrecta": "95e6834d0a3d99e9ea8811855ae9229d",
-        "cResp1": "1960",
-        "cResp2": "1950",
-        "cResp3": "1975",
-        "cResp4": "1940"
-    },
-    {
-        "nId": "13",
-        "cPregunta": "¿En qué año Batman y Superman aparecieron juntos en una historieta?",
-        "cCorrecta": "95e6834d0a3d99e9ea8811855ae9229d",
-        "cResp1": "1930",
-        "cResp2": "1950",
-        "cResp3": "1982",
-        "cResp4": "1940"
-    },
-    {
-        "nId": "14",
-        "cPregunta": "¿En qué año se estrenó la película de Batman dirigida por Christopher Nolan?",
-        "cCorrecta": "d47268e9db2e9aa3827bba3afb7ff94a",
-        "cResp1": "1999",
-        "cResp2": "2001",
-        "cResp3": "2000",
-        "cResp4": "2005"
-    },
-    {
-        "nId": "15",
-        "cPregunta": "¿Cómo se llama el principal vehículo de Batman?",
-        "cCorrecta": "adbad5d0f91445389e83ee0095f20347",
-        "cResp1": "Batcave",
-        "cResp2": "Batiala",
-        "cResp3": "Baticarro ",
-        "cResp4": "Batimóvil"
-    },
-    {
-        "nId": "16",
-        "cPregunta": "¿En qué año se estrenó el programa de televisión Batman: La serie animada?",
-        "cCorrecta": "d5c186983b52c4551ee00f72316c6eaa",
-        "cResp1": "1991",
-        "cResp2": "1994",
-        "cResp3": "2000",
-        "cResp4": "1992"
-    },
-    {
-        "nId": "17",
-        "cPregunta": "¿En qué año se estrenó la serie de televisión Batman?",
-        "cCorrecta": "3683af9d6f6c06acee72992f2977f67e",
-        "cResp1": "1970",
-        "cResp2": "1960",
-        "cResp3": "1956",
-        "cResp4": "1966"
-    },
-    {
-        "nId": "18",
-        "cPregunta": "¿Qué actor interpretó a Batman en la serie de televisión Batman?",
-        "cCorrecta": "05c01767c07578eb6107f345642718ec",
-        "cResp1": "Al Pacino",
-        "cResp2": "Joel Schumacher",
-        "cResp3": "Robert De Niro ",
-        "cResp4": "Adam West"
-    },
-    {
-        "nId": "19",
-        "cPregunta": "¿Quién intepretó a Batman en la película de 1989?",
-        "cCorrecta": "6b4eaa6cb3da3da129e8a523e2779cf1",
-        "cResp1": "Val Kilmer",
-        "cResp2": "Christian Bale",
-        "cResp3": "Brad Pit ",
-        "cResp4": "Michael Keaton"
-    },
-    {
-        "nId": "20",
-        "cPregunta": "¿Cómo se llama la película de Batman estrenada en 2005?",
-        "cCorrecta": "0d67d35c3120d55d5a5b3bf8e488a527",
-        "cResp1": "The Batman",
-        "cResp2": "Batman y Robin",
-        "cResp3": "Escuadron Suicida ",
-        "cResp4": "Batman Begins"
-    },
-    {
-        "nId": "21",
-        "cPregunta": "¿Quién protagonizó la película Batman Begins?",
-        "cCorrecta": "e3bb0af260645bdc7e1e2b29ee1a2970",
-        "cResp1": "Joel Schumacher",
-        "cResp2": "Michael Keaton",
-        "cResp3": "Will Smith ",
-        "cResp4": "Christian Bale"
-    },
-    {
-        "nId": "22",
-        "cPregunta": "¿En qué año se estrenó la película The Dark Knight?",
-        "cCorrecta": "ef8446f35513a8d6aa2308357a268a7e",
-        "cResp1": "2002",
-        "cResp2": "2006",
-        "cResp3": "2010",
-        "cResp4": "2008"
-    },
-    {
-        "nId": "23",
-        "cPregunta": "¿En qué año se estrenó la película The Dark Knight Rises?",
-        "cCorrecta": "253614bbac999b38b5b60cae531c4969",
-        "cResp1": "2016",
-        "cResp2": "2008",
-        "cResp3": "2011",
-        "cResp4": "2012"
-    },
-    {
-        "nId": "24",
-        "cPregunta": "¿Cómo se llamó la película de Batman estrenada en 1992?",
-        "cCorrecta": "797003ea3feca18e7b54c1d19db51a36",
-        "cResp1": "Batman Forever",
-        "cResp2": "The Batman",
-        "cResp3": "Batman Forever ",
-        "cResp4": "Batman Returns"
-    },
-    {
-        "nId": "25",
-        "cPregunta": "¿Cómo se llamaron las películas de Batman que dirigió Joel Schumacher?",
-        "cCorrecta": "779eb57355ba96be39f269a672ac9c64",
-        "cResp1": "The Batman - The dark Knight",
-        "cResp2": "Batman: The brave and the bold - Batman: Gotham Knight",
-        "cResp3": "Batman VS Guason ",
-        "cResp4": "Batman Forever - Batman y Robin"
-    },
-    {
-        "nId": "26",
-        "cPregunta": "Nombre de la voz oficial de Batman en Estados Unidos",
-        "cCorrecta": "20cd42833fbd9ee80b0956584346d208",
-        "cResp1": "Nolan North",
-        "cResp2": "George Newbern",
-        "cResp3": "Alex Smith ",
-        "cResp4": "Kevin Conroy"
-    },
-    {
-        "nId": "27",
-        "cPregunta": " ¿Cuál es el apellido de Alfred, el mayordomo de Bruce?",
-        "cCorrecta": "c73e2d1f2f7f4bb850860ad7633e520b",
-        "cResp1": "Kane",
-        "cResp2": "Serkis",
-        "cResp3": "Wiliams ",
-        "cResp4": "Pennyworth"
-    },
-    {
-        "nId": "28",
-        "cPregunta": "Actriz que interpretó a Gatúbela en Batman de 1989",
-        "cCorrecta": "2663ee7f79b2b67b01dec3563ae9feb9",
-        "cResp1": "Anne Hathaway",
-        "cResp2": "Kim Basinger",
-        "cResp3": "Carmen Elektra ",
-        "cResp4": "Michelle Pfeiffer"
-    },
-    {
-        "nId": "29",
-        "cPregunta": "Actriz que interpretó a Gatúbela en la serie de televisión Gotham",
-        "cCorrecta": "5b6cb0c6b3d004310f4475a11765c536",
-        "cResp1": "Morena Baccarin",
-        "cResp2": "Crystal Reed",
-        "cResp3": "Halle Berry ",
-        "cResp4": "Camren Bicondova"
-    },
-    {
-        "nId": "30",
-        "cPregunta": "Actor que interpretó a El Guasón en la serie televisiva de Batman de 1966",
-        "cCorrecta": "8dc07b0bd8f45c066e0f82cae95be161",
-        "cResp1": "Alec Baldwin",
-        "cResp2": "Jack Nicholson",
-        "cResp3": "Al Pacino ",
-        "cResp4": "César Romero"
-    },
-    {
-        "nId": "31",
-        "cPregunta": "¿De dónde se inspiró el creador de Batman para nombrar a Ciudad Gótica?",
-        "cCorrecta": "a071b3ab24e37671b69473fd8047815d",
-        "cResp1": "De Gotham Pizza",
-        "cResp2": "De Gotham Park",
-        "cResp3": "New York ",
-        "cResp4": "De Gotham Jewelers"
-    },
-    {
-        "nId": "32",
-        "cPregunta": "¿Cómo se llama el universo en donde Thomas Wayne es Batman y Martha Wayne es El Guasón?",
-        "cCorrecta": "09a02d39da9047b791cded18a157a266",
-        "cResp1": "Multiverse",
-        "cResp2": "Batman Crossover",
-        "cResp3": "Across the Univers ",
-        "cResp4": "Flashpoint Paradox"
-    },
-    {
-        "nId": "33",
-        "cPregunta": "Año en el que se vió a Batman por primera vez en un largometraje",
-        "cCorrecta": "39dcaf7a053dc372fbc391d4e6b5d693",
-        "cResp1": "1965",
-        "cResp2": "1989",
-        "cResp3": "1979",
-        "cResp4": "1964"
-    },
-    {
-        "nId": "34",
-        "cPregunta": "Nombre de la primera Batichica que se publicó en 1961",
-        "cCorrecta": "88d621b97ec69549973667db8ab0c3ca",
-        "cResp1": "Bárbara Gordon",
-        "cResp2": "Lana Lang",
-        "cResp3": "Bárbara Lang ",
-        "cResp4": "Betty Kane"
-    },
-    {
-        "nId": "35",
-        "cPregunta": "¿A qué actor se atribuye la frase “Im Batman”?",
-        "cCorrecta": "6b4eaa6cb3da3da129e8a523e2779cf1",
-        "cResp1": "George Clooney",
-        "cResp2": "Val Kilmer",
-        "cResp3": "Bruce Willis ",
-        "cResp4": "Michael Keaton"
-    },
-    {
-        "nId": "36",
-        "cPregunta": "¿En qué número de la revista Detective Comics apareció Batman por primera vez?",
-        "cCorrecta": "02e74f10e0327ad868d138f2b4fdd6f0",
-        "cResp1": "72",
-        "cResp2": "40",
-        "cResp3": "55",
-        "cResp4": "27"
-    },
-    {
-        "nId": "37",
-        "cPregunta": "Nombre de la actriz a la que originalmente le dieron el papel de Vicky Vale en la película Batman de 1989",
-        "cCorrecta": "f4b8468c0ebae95eb1859e93fa4c0cf9",
-        "cResp1": "Kim Basinger",
-        "cResp2": "Michelle Pfeiffer",
-        "cResp3": "Halle Berry ",
-        "cResp4": "Sean Young"
-    },
-    {
-        "nId": "38",
-        "cPregunta": "Nombre secreto del primer Robin",
-        "cCorrecta": "3d5f8d9ebb9e0475256def10d4d3c779",
-        "cResp1": "Jason Todd",
-        "cResp2": "George Pere",
-        "cResp3": "George Todd",
-        "cResp4": "Richard Grayson"
-    },
-    {
-        "nId": "39",
-        "cPregunta": "¿Quién fue el primer villano de Batman?",
-        "cCorrecta": "20977da743cbaf33c45a307ea0a9419e",
-        "cResp1": "El Acertijo",
-        "cResp2": "El Guasón",
-        "cResp3": "El Pinguino ",
-        "cResp4": "Hugo Strange"
-    },
-    {
-        "nId": "40",
-        "cPregunta": "¿Cómo se le conoce al batimóvil en las películas de Christopher Nolan?",
-        "cCorrecta": "d6942640128d6e7f3fa9fdd5f2ec9e93",
-        "cResp1": "Bathammer",
-        "cResp2": "Knightcrawler",
-        "cResp3": "Batimovil ",
-        "cResp4": "Tumbler"
-    },
-    {
-        "nId": "41",
-        "cPregunta": "Compositor de la banda sonora de la película Batman de 1989",
-        "cCorrecta": "2d1fc7bc17c94cb0c78d0ee605f3af22",
-        "cResp1": "Adam Clayton",
-        "cResp2": "Hans Zimmer",
-        "cResp3": "Eric Clapton ",
-        "cResp4": "Danny Elfman"
-    },
-    {
-        "nId": "42",
-        "cPregunta": "Tres ciudades en las que está inspirada Ciudad Gótica",
-        "cCorrecta": "81fb14eb7c965b4c983709c05d7c1703",
-        "cResp1": "Pittsburgh, Los Ángeles y Seattle",
-        "cResp2": "Nueva York, Texas y Washington",
-        "cResp3": "Nueva York, Seatle y Londres ",
-        "cResp4": "Nueva York, Chicago y Detroit"
-    },
-    {
-        "nId": "43",
-        "cPregunta": "¿Qué actor interpreta a El Guasón en la película Batman dirigida por Tim Burton?",
-        "cCorrecta": "309dc898aecedf81f0fed7bfebd9b2af",
-        "cResp1": "Danny DeVito",
-        "cResp2": "Michael Keaton",
-        "cResp3": "Head Ledger ",
-        "cResp4": "Jack Nicholson"
-    },
-    {
-        "nId": "44",
-        "cPregunta": "¿Quién es Danny DeVito en la película Batman Returns?",
-        "cCorrecta": "50e0acd7b2c94de53d589c05d3150712",
-        "cResp1": "El Guasón",
-        "cResp2": "El Acertijo",
-        "cResp3": "Bane ",
-        "cResp4": "El Pingüino"
-    },
-    {
-        "nId": "45",
-        "cPregunta": "¿Qué villano interpretó Arnold Schwarzenegger en la película Batman & Robin?",
-        "cCorrecta": "0c9a59bb7bf3aab74bc723eb5eaeca23",
-        "cResp1": "Enigma",
-        "cResp2": "El Pingüino",
-        "cResp3": "EL Guason ",
-        "cResp4": "Mr. Freeze"
-    },
-    {
-        "nId": "46",
-        "cPregunta": "¿Cómo se tituló el relanzamiento de las historias de Batman publicadas por DC Comics en 2011?",
-        "cCorrecta": "c473a040a16fc1b31731eba3fdd6be66",
-        "cResp1": "Batman Returns",
-        "cResp2": "Batman Forever",
-        "cResp3": "Batman y Robin",
-        "cResp4": "The New 52"
-    },
-    {
-        "nId": "47",
-        "cPregunta": "¿A qué se dedica Bruce Wayne cuando no es Batman?",
-        "cCorrecta": "3fdf9f3c6154d49dd2d8289507121f0f",
-        "cResp1": "Es periodista",
-        "cResp2": "Es oficial de policía",
-        "cResp3": "Abogado ",
-        "cResp4": "Es empresario"
-    },
-    {
-        "nId": "48",
-        "cPregunta": "¿Cuál de los siguientes héroes no es parte de La liga de la justicia?",
-        "cCorrecta": "efaa25379dced0fea71b03fe37da6d08",
-        "cResp1": "La mujer maravilla",
-        "cResp2": "Batman",
-        "cResp3": "Iron Man ",
-        "cResp4": "Spiderman"
-    },
-    {
-        "nId": "49",
-        "cPregunta": "¿Quién hizo la voz de Batman en la película Lego Batman?",
-        "cCorrecta": "75fa3d9518da93507927f101e20354b4",
-        "cResp1": "Michael Keaton",
-        "cResp2": "Ben Affleck",
-        "cResp3": "Christian Bale",
-        "cResp4": "Will Arnett"
-    },
-    {
-        "nId": "50",
-        "cPregunta": "¿Quiénes son parte del grupo Las Sirenas de Ciudad Gótica?",
-        "cCorrecta": "5ac1eb16bf8e840b4d01eeab3d8a19d4",
-        "cResp1": "Batichica, Hiedra Venenosa y Gatúbela",
-        "cResp2": "Harley Quinn, Batichica y Gatúbela",
-        "cResp3": "Harley Quinn, Batichica y La Mujer Maravilla ",
-        "cResp4": "Harley Quinn, Gatúbela y Hiedra Venenosa"
-    },
-    {
-        "nId": "51",
-        "cPregunta": "¿Cuál es el arma favorita de Gatúbela?",
-        "cCorrecta": "bbc97b92481cc64ac81b11809eb40fb4",
-        "cResp1": "Pistola",
-        "cResp2": "Cuchillo",
-        "cResp3": "Estrellas Ninja ",
-        "cResp4": "Látigo"
-    },
-    {
-        "nId": "52",
-        "cPregunta": "¿Cómo se llama el chico maravilla que acompaña a Batman en algunas de sus hazañas?",
-        "cCorrecta": "22d5d814d801d8b3e1a1c3fc36796de9",
-        "cResp1": "Chris",
-        "cResp2": "Kane",
-        "cResp3": "Will ",
-        "cResp4": "Robin"
-    },
-    {
-        "nId": "53",
-        "cPregunta": "¿De qué color es el batiteléfono?",
-        "cCorrecta": "3ded744c42b8b6f3f614d8de50b35a26",
-        "cResp1": "Negro",
-        "cResp2": "Blanco",
-        "cResp3": "Verde ",
-        "cResp4": "Rojo"
-    },
-    {
-        "nId": "54",
-        "cPregunta": "¿Cuál de estos actores interpretó por primera vez a El Guasón?",
-        "cCorrecta": "aeabf0aa17a29f0b6dfb526335631454",
-        "cResp1": "Heath Ledger",
-        "cResp2": "Jack Nicholson",
-        "cResp3": "Tomy Lee Jhons ",
-        "cResp4": "Cesar Romero"
-    },
-    {
-        "nId": "55",
-        "cPregunta": "¿Cuál de los villanos clásicos de Batman en realidad se llama Edward?",
-        "cCorrecta": "0ce7fdbc6742f8aea1cd32630c10499b",
-        "cResp1": "El Pingüino",
-        "cResp2": "Mr. Freeze",
-        "cResp3": "El Guasón",
-        "cResp4": "El Acertijo"
-    },
-    {
-        "nId": "56",
-        "cPregunta": "¿Qué actor ha interpretado a Superman y también a Batman?",
-        "cCorrecta": "a3e994885d762bef6ffd4ca4d4073f3f",
-        "cResp1": "Heath Ledger",
-        "cResp2": "Christian Bale",
-        "cResp3": "Michael Keaton",
-        "cResp4": "Ben Affleck"
-    },
-    {
-        "nId": "57",
-        "cPregunta": "¿Quién es el padre de Batichica?",
-        "cCorrecta": "18bb062e4a9153c203f14d64cc0abe98",
-        "cResp1": "Alfred Pennyworth",
-        "cResp2": "Harvey Dent",
-        "cResp3": "Will Arnett",
-        "cResp4": "James Gordon"
-    },
-    {
-        "nId": "58",
-        "cPregunta": "Existe una ciudad llamada Batman ¿en qué país se encuentra?",
-        "cCorrecta": "60087471923444de3fd1e5f12ee24e80",
-        "cResp1": "Rusia",
-        "cResp2": "Italia",
-        "cResp3": "Islandia",
-        "cResp4": "Turquía"
-    },
-    {
-        "nId": "59",
-        "cPregunta": "¿Qué personaje interpreta Liam Neeson en Batman Begins?",
-        "cCorrecta": "67e784e31697529fddd2838031ef9d7c",
-        "cResp1": "Alfred",
-        "cResp2": "El Pingüino",
-        "cResp3": "Harvey Dent",
-        "cResp4": "Ra's al Ghul"
-    },
-    {
-        "nId": "60",
-        "cPregunta": "¿Qué personaje pudo interpretar Frank Sinatra en la serie de acción de Batman protagonizada por Adam West?",
-        "cCorrecta": "1498607c7e8400d76bf754338148c47f",
-        "cResp1": "Batman",
-        "cResp2": "El Pingüino",
-        "cResp3": "El Acertijo",
-        "cResp4": "El Guasón"
-    },
-    {
-        "nId": "61",
-        "cPregunta": "¿Qué personaje le rompió la espalda a Batman?",
-        "cCorrecta": "51534a3170d5912c466d45c89e48225e",
-        "cResp1": "El Acertijo",
-        "cResp2": "Alfred",
-        "cResp3": "El Guasón",
-        "cResp4": "Bane"
-    },
-    {
-        "nId": "62",
-        "cPregunta": "¿Cuál es la regla más importante para Batman?",
-        "cCorrecta": "091f56ab9b3b5c2d701b31f4d05a6877",
-        "cResp1": "No enamorarse",
-        "cResp2": "No usar trajes rosas",
-        "cResp3": "No ser Ladrón",
-        "cResp4": "No asesinar"
-    },
-    {
-        "nId": "63",
-        "cPregunta": "¿Qué villano comió pescado en la película Batman Forever?",
-        "cCorrecta": "50e0acd7b2c94de53d589c05d3150712",
-        "cResp1": "El Guasón",
-        "cResp2": "El Acertijo",
-        "cResp3": "Mr. Freeze",
-        "cResp4": "El Pingüino"
-    },
-    {
-        "nId": "64",
-        "cPregunta": "Además de “Caballero de la noche” y ”Caballero oscuro” ¿qué otro sobrenombre tiene Batman?",
-        "cCorrecta": "f217d24ddd87952d65b83eba69375282",
-        "cResp1": "Guerrero de las sombras",
-        "cResp2": "Justiciero de la oscuridad",
-        "cResp3": "Black Bat",
-        "cResp4": "Hombre murciélago"
-    },
-    {
-        "nId": "65",
-        "cPregunta": "¿Cómo se llama el hijo que Batman tuvo con Talia al Ghul?",
-        "cCorrecta": "12d65e7646b9dc1faaf6d9c1b60ad264",
-        "cResp1": "No tuvo hijos",
-        "cResp2": "Thomas Wayne",
-        "cResp3": "Alfred Wayne",
-        "cResp4": "Damian Wayne"
-    },
-    {
-        "nId": "66",
-        "cPregunta": "¿Cómo se llama el manicomio donde estuvo internado El Guasón?",
-        "cCorrecta": "ad573ec843fb01b0f59c3437d1b6c35c",
-        "cResp1": "Manicomio Gothic",
-        "cResp2": "Manicomio Ciudad Gótica",
-        "cResp3": "Manicomio Victoria",
-        "cResp4": "Manicomio Arkham"
-    },
-    {
-        "nId": "67",
-        "cPregunta": "¿Quién dirigió la película The Batman?",
-        "cCorrecta": "b5ea4683c6ff2c7a2b61cd2eaf8d38d5",
-        "cResp1": "Tim Burton",
-        "cResp2": "Christopher Nolan",
-        "cResp3": "George Clooney",
-        "cResp4": "Matt Reeves"
-    },
-    {
-        "nId": "68",
-        "cPregunta": "¿Qué banda musical aparece en la portada del #222 de la revista Batman en 1970?",
-        "cCorrecta": "c9e770c62114ed60fd1a4c6dd866e2d8",
-        "cResp1": "Nirvana",
-        "cResp2": "The Rolling Stones",
-        "cResp3": "U2",
-        "cResp4": "The Beatles"
-    },
-    {
-        "nId": "69",
-        "cPregunta": "¿Cuál de estos personajes no ha utilizado el manto de Batman?",
-        "cCorrecta": "1498607c7e8400d76bf754338148c47f",
-        "cResp1": "James Gordon",
-        "cResp2": "Damian Wayne",
-        "cResp3": "Jack Nicholson",
-        "cResp4": "El Guasón"
-    },
-    {
-        "nId": "70",
-        "cPregunta": "¿Qué compañía de cómics se encarga de publicar Batman actualmente?",
-        "cCorrecta": "e3d9377b36729e7ce22b678a36fc97d3",
-        "cResp1": "Gotham Studios",
-        "cResp2": "Batman Comics",
-        "cResp3": "Universal Studios",
-        "cResp4": "DC Comics"
-    },
-    {
-        "nId": "71",
-        "cPregunta": "¿Qué actor interpretó a Batman en la película Batman Forever?",
-        "cCorrecta": "47bd91091d8cd72a3c81e41ad169007e",
-        "cResp1": "Michael Keaton",
-        "cResp2": "Geroge Klooney",
-        "cResp3": "Tim Burton",
-        "cResp4": "Val Kilmer"
-    },
-    {
-        "nId": "72",
-        "cPregunta": "Ya que no tiene superpoderes ¿qué habilidad utiliza Batman?",
-        "cCorrecta": "79bf5f0ea7f826ea8a0d0b0307ce912e",
-        "cResp1": "Yoga",
-        "cResp2": "Tiro con arco",
-        "cResp3": "Lucha Libre",
-        "cResp4": "Artes marciales"
-    },
-    {
-        "nId": "73",
-        "cPregunta": "¿Quién interpreta a Batman en la película The Batman?",
-        "cCorrecta": "5a05149472f9e87a9b7ca9a01f4cc8bc",
-        "cResp1": "Robert Downey Jr",
-        "cResp2": "Ben Affleck",
-        "cResp3": "Christian Bale",
-        "cResp4": "Robert Pattinson"
-    },
-    {
-        "nId": "74",
-        "cPregunta": "¿Quién interpreta a El Acertijo en la película The Batman?",
-        "cCorrecta": "bb6452432598abc19d8608a627eb5b0a",
-        "cResp1": "Andt Serkis",
-        "cResp2": "Colin Farrel",
-        "cResp3": "Heath Ledger",
-        "cResp4": "Paul Dano"
-    },
-    {
-        "nId": "75",
-        "cPregunta": "¿Qué villano de Batman es un ladrón de joyas?",
-        "cCorrecta": "4aacf51f1fa1cff4041da9ba0849d096",
-        "cResp1": "El Pingüino",
-        "cResp2": "EL Guasón",
-        "cResp3": "El Acertijo",
-        "cResp4": "Gatúbela"
-    },
-    {
-        "nId": "76",
-        "cPregunta": "¿Qué actriz interpreta a Gatúbela en la película The Batman?",
-        "cCorrecta": "136f2f7866d100020335e998bced8308",
-        "cResp1": "Anne Hathaway",
-        "cResp2": "Halle Berry",
-        "cResp3": "Kim Basinger",
-        "cResp4": "Zoë Kravitz"
-    },
-    {
-        "nId": "77",
-        "cPregunta": "¿Cómo se llama el club nocturno de El Pingüino?",
-        "cCorrecta": "c7e6f84bddf3c247b35ba03c82f8af7a",
-        "cResp1": "Club Pingüino",
-        "cResp2": "Salón sombrilla",
-        "cResp3": "Club sombrero",
-        "cResp4": "Iceberg lounge"
-    },
-    {
-        "nId": "78",
-        "cPregunta": "¿Cuál es la película de Batman que ha tenido mayor recaudación?",
-        "cCorrecta": "d834918560dcb725aa4f12211115d24a",
-        "cResp1": "Batman vs Superman",
-        "cResp2": "Batman Forever",
-        "cResp3": "Batman Returns",
-        "cResp4": "The Dark Knight Rises"
-    },
-    {
-        "nId": "79",
-        "cPregunta": "Actor que interpretó a Batman por primera vez",
-        "cCorrecta": "f5efc50b2835bf6dc81725dffdd25443",
-        "cResp1": "Adam West",
-        "cResp2": "Robert Lowery",
-        "cResp3": "Heath Ledger",
-        "cResp4": "Lewis G. Wilson"
-    },
-    {
-        "nId": "80",
-        "cPregunta": "¿Qué color iba a tener el traje de Batman en la idea original?",
-        "cCorrecta": "3ded744c42b8b6f3f614d8de50b35a26",
-        "cResp1": "Verde",
-        "cResp2": "Rosa",
-        "cResp3": "Amarillo",
-        "cResp4": "Rojo"
-    },
-    {
-        "nId": "81",
-        "cPregunta": "¿Qué universidad ofrece un curso llamado La ciencia de Batman?",
-        "cCorrecta": "a6254723df5eeef3f16fd09e64ad2ba9",
-        "cResp1": "Universidad de Arkham",
-        "cResp2": "Universidad del Sur de California",
-        "cResp3": "Universidad de Los Angeles",
-        "cResp4": "Universidad de Victoria"
-    }
+ {
+  "nId": 1,
+  "cPregunta": "La Unesco las incluyó entre los lugares Patrimonio de la Humanidad en 1989",
+  "cCorrecta": "Las Cataratas Victoria",
+  "cResp1": "Las cataratas del Niágara",
+  "cResp2": "Las Cataratas de Iguazú",
+  "cResp3": "Las cataratas Gulfoss",
+  "cResp4": "Las Cataratas Victoria"
+ },
+ {
+  "nId": 2,
+  "cPregunta": "Desierto que tiene fama de ser el más antiguo del mundo\n",
+  "cCorrecta": "Desierto de Namibia",
+  "cResp1": "Desierto del Sáhara",
+  "cResp2": "Desierto de Arabia",
+  "cResp3": "Desierto de Chihuahua",
+  "cResp4": "Desierto de Namibia"
+ },
+ {
+  "nId": 3,
+  "cPregunta": "Montaña situada en el noreste de Tanzania, formada por tres volcanes inactivos",
+  "cCorrecta": "El kilimanjaro\n",
+  "cResp1": "K2",
+  "cResp2": "Denali",
+  "cResp3": "Monte Elbrús",
+  "cResp4": "El kilimanjaro\n"
+ },
+ {
+  "nId": 4,
+  "cPregunta": "Golfo o cuenca del océano índico entre África y Asia",
+  "cCorrecta": "El mar rojo\n",
+  "cResp1": "El mar índico",
+  "cResp2": "El mar Ártico\n",
+  "cResp3": "El mar Caribe",
+  "cResp4": "El mar rojo\n"
+ },
+ {
+  "nId": 5,
+  "cPregunta": "Es una de las nueve provincias de Sudáfrica, cuya capital es Ciudad del Cabo\n",
+  "cCorrecta": "El Cabo Occidental\n",
+  "cResp1": "El Cabo San Lucas",
+  "cResp2": "Los Cabos\n",
+  "cResp3": "Cabo de Finisterre",
+  "cResp4": "El Cabo Occidental\n"
+ },
+ {
+  "nId": 6,
+  "cPregunta": "Ubicado apenas 150 kilómetros de Nairobi, la capital de Kenia",
+  "cCorrecta": "Lago Nakuru",
+  "cResp1": "Lago de Yuriria\n",
+  "cResp2": "Lago Ness\n",
+  "cResp3": "Lago Taal",
+  "cResp4": "Lago Nakuru"
+ },
+ {
+  "nId": 7,
+  "cPregunta": "Nace en Angola, pasa por Namibia y desemboca en Botswana",
+  "cCorrecta": "Delta del Okavango",
+  "cResp1": "Delta del Danubio",
+  "cResp2": "Delta del Paraná",
+  "cResp3": "Delta del Mekong",
+  "cResp4": "Delta del Okavango"
+ },
+ {
+  "nId": 8,
+  "cPregunta": "Parque Nacional situado en la región Melaky",
+  "cCorrecta": "Parque Nacional Tsingy de Bemaraha\n",
+  "cResp1": "Parque Nacional El Chico\n",
+  "cResp2": "Parque Nacional de Banff\n",
+  "cResp3": "Parque Stanley",
+  "cResp4": "Parque Nacional Tsingy de Bemaraha\n"
+ },
+ {
+  "nId": 9,
+  "cPregunta": "Supera los 6,800 kilómetros de longitud",
+  "cCorrecta": "Nilo",
+  "cResp1": "Danubio\n",
+  "cResp2": "Rin\n",
+  "cResp3": "Amazonas",
+  "cResp4": "Nilo"
+ },
+ {
+  "nId": 10,
+  "cPregunta": "Desierto turístico muy visitado en Marruecos\n",
+  "cCorrecta": "Erg Chebbi\n",
+  "cResp1": "Desierto Ártico\n",
+  "cResp2": "Desierto Árabe\n",
+  "cResp3": "Kyzylkum",
+  "cResp4": "Erg Chebbi\n"
+ },
+ {
+  "nId": 11,
+  "cPregunta": "Es la isla más grande de África y la cuarta más grande del mundo\n",
+  "cCorrecta": "Madagascar\n",
+  "cResp1": "Kodiak",
+  "cResp2": "Paros\n",
+  "cResp3": "Tasos",
+  "cResp4": "Madagascar\n"
+ },
+ {
+  "nId": 12,
+  "cPregunta": "Construidas como criptas reales para los faraones desde el año 3000 a.C",
+  "cCorrecta": "Pirámides de Egipto",
+  "cResp1": "Catacumbas",
+  "cResp2": "Pirámide de Maslow\n",
+  "cResp3": "Pirámides de Tajín",
+  "cResp4": "Pirámides de Egipto"
+ },
+ {
+  "nId": 13,
+  "cPregunta": "Importante centro de peregrinación al norte de Etiopía",
+  "cCorrecta": "Lalibela",
+  "cResp1": "Tanzania",
+  "cResp2": "Santuario Marino",
+  "cResp3": "Spirit Rock",
+  "cResp4": "Lalibela"
+ },
+ {
+  "nId": 14,
+  "cPregunta": "Nación insular en el océano Índico, conocida por sus playas, lagunas y arrecifes",
+  "cCorrecta": "Isla Mauricio",
+  "cResp1": "Islas Azores",
+  "cResp2": "Islas Bora Bora",
+  "cResp3": "Islas La digue",
+  "cResp4": "Isla Mauricio"
+ },
+ {
+  "nId": 15,
+  "cPregunta": "Ocupa los alrededores de la falla de Bandiagara",
+  "cCorrecta": "País Dogón\n",
+  "cResp1": "Falla de San Andrés\n",
+  "cResp2": "Falla de Motagua\n",
+  "cResp3": "Dresde",
+  "cResp4": "País Dogón\n"
+ },
+ {
+  "nId": 16,
+  "cPregunta": "Es la mayor ciudad del mundo árabe\n",
+  "cCorrecta": "El cairo\n",
+  "cResp1": "París\n",
+  "cResp2": "Berlín",
+  "cResp3": "Dinamarca",
+  "cResp4": "El cairo\n"
+ },
+ {
+  "nId": 17,
+  "cPregunta": "La ciudad más grande y poblada de Sudáfrica",
+  "cCorrecta": "Johannesburgo",
+  "cResp1": "Tavira",
+  "cResp2": "Évora",
+  "cResp3": "Colonia",
+  "cResp4": "Johannesburgo"
+ },
+ {
+  "nId": 18,
+  "cPregunta": "Su nombre oficial es República Tunecina",
+  "cCorrecta": "Túnez\n",
+  "cResp1": "República del Salvador\n",
+  "cResp2": "República Dominicana\n",
+  "cResp3": "República de Uruguay",
+  "cResp4": "Túnez\n"
+ },
+ {
+  "nId": 19,
+  "cPregunta": "Isla ubicada en la República Unida de Tanzania",
+  "cCorrecta": "Atolón Mnemba\n",
+  "cResp1": "Santorini\n",
+  "cResp2": "Maui\n",
+  "cResp3": "Marshall",
+  "cResp4": "Atolón Mnemba\n"
+ },
+ {
+  "nId": 20,
+  "cPregunta": "Es la capital de Namibia",
+  "cCorrecta": "WIndhoek\n",
+  "cResp1": "Kiev",
+  "cResp2": "Budapest\n",
+  "cResp3": "Berlín",
+  "cResp4": "WIndhoek\n"
+ },
+ {
+  "nId": 21,
+  "cPregunta": "País que antiguamente se le conocía como Nyasalandia",
+  "cCorrecta": "Malawi\n",
+  "cResp1": "Moldavia\n",
+  "cResp2": "Serbia\n",
+  "cResp3": "Finlandia",
+  "cResp4": "Malawi\n"
+ },
+ {
+  "nId": 22,
+  "cPregunta": "Capital y  principal ciudad de Angola",
+  "cCorrecta": "Luanda",
+  "cResp1": "Hong Kong",
+  "cResp2": "Israel",
+  "cResp3": "Kiev",
+  "cResp4": "Luanda"
+ },
+ {
+  "nId": 23,
+  "cPregunta": "Monumental escultura que se encuentra en la ribera occidental del río Nilo",
+  "cCorrecta": "La gran esfinge de Guiza",
+  "cResp1": "David\n",
+  "cResp2": "Venus de Milio",
+  "cResp3": "Cristo Redentor",
+  "cResp4": "La gran esfinge de Guiza"
+ },
+ {
+  "nId": 24,
+  "cPregunta": "Se localiza en la ciudad de Acra, en Ghana",
+  "cCorrecta": "Arco de la independencia\n",
+  "cResp1": "Kempala",
+  "cResp2": "Argel",
+  "cResp3": "Almaty",
+  "cResp4": "Arco de la independencia\n"
+ },
+ {
+  "nId": 25,
+  "cPregunta": "Templo construido por Ramsés II para conmemorar su victoria en la batalla de Kadesh",
+  "cCorrecta": "Abu Simbel",
+  "cResp1": "Templo de Buda",
+  "cResp2": "Templo del Loto",
+  "cResp3": "Pabellón Dorado",
+  "cResp4": "Abu Simbel"
+ },
+ {
+  "nId": 26,
+  "cPregunta": "Anfiteatro de la época del imperio romano construido en el siglo I",
+  "cCorrecta": "Coliseo de Roma",
+  "cResp1": "Palacio de Bellas Artes",
+  "cResp2": "Teatro Creta",
+  "cResp3": "Palacio de Minería",
+  "cResp4": "Coliseo de Roma"
+ },
+ {
+  "nId": 27,
+  "cPregunta": "Templo católico diseñado por el arquitecto Antoni Gaudí",
+  "cCorrecta": "Basílica de la Sagrada Familia",
+  "cResp1": "Basílica de Guadalupe",
+  "cResp2": "Catedral de Madrid",
+  "cResp3": "Basílica de San Pedro",
+  "cResp4": "Basílica de la Sagrada Familia"
+ },
+ {
+  "nId": 28,
+  "cPregunta": "Museo francés ubicado en París cuya apertura fue en 1793",
+  "cCorrecta": "Museo del Louvre",
+  "cResp1": "Museo Nacional de Francia\n",
+  "cResp2": "Museo Oui\n",
+  "cResp3": "Museo de París",
+  "cResp4": "Museo del Louvre"
+ },
+ {
+  "nId": 29,
+  "cPregunta": "Catedral francesa de estilo gótico edificada de 1163 a 1260",
+  "cCorrecta": "Catedral de Notre Dame",
+  "cResp1": "Catedral de Colonia",
+  "cResp2": "Catedral de María",
+  "cResp3": "Catedral de Salamanca",
+  "cResp4": "Catedral de Notre Dame"
+ },
+ {
+  "nId": 30,
+  "cPregunta": "Torre francesa inicialmente llamada Tour de 300 mètres",
+  "cCorrecta": "Torre Eiffel\n",
+  "cResp1": "Torre de Pisa",
+  "cResp2": "Torre de Francia",
+  "cResp3": "Torre Mont",
+  "cResp4": "Torre Eiffel\n"
+ },
+ {
+  "nId": 31,
+  "cPregunta": "Nombre con el que se le conoce a la gran campana del reloj situado en el Palacio de Westminster",
+  "cCorrecta": "Big Ben",
+  "cResp1": "Westminster",
+  "cResp2": "Campana de Londres",
+  "cResp3": "Torre de Reloj",
+  "cResp4": "Big Ben"
+ },
+ {
+  "nId": 32,
+  "cPregunta": "Cadena de montañas situada en Europa Central cuya cumbre más alta lleva el nombre de Mont Blanc",
+  "cCorrecta": "Los Alpes",
+  "cResp1": "Santorini\n",
+  "cResp2": "Himalaya",
+  "cResp3": "Nepal",
+  "cResp4": "Los Alpes"
+ },
+ {
+  "nId": 33,
+  "cPregunta": "Archipiélago noruego situado por encima del círculo polar ártico",
+  "cCorrecta": "Islas Loften",
+  "cResp1": "Islas Pigargos",
+  "cResp2": "Triángulo de las Bermudas",
+  "cResp3": "La Digue",
+  "cResp4": "Islas Loften"
+ },
+ {
+  "nId": 34,
+  "cPregunta": "Canal que recorre Venecia trazando una S",
+  "cCorrecta": "Gran canal de Venecia",
+  "cResp1": "Canal S de Venecia",
+  "cResp2": "Canal Muérdago",
+  "cResp3": "Río Nilo",
+  "cResp4": "Gran canal de Venecia"
+ },
+ {
+  "nId": 35,
+  "cPregunta": "Lago situado en las Tierras Altas de Escocia",
+  "cCorrecta": "Lago Ness",
+  "cResp1": "Lago Lof\n",
+  "cResp2": "Lago Alto\n",
+  "cResp3": "Lago Taal",
+  "cResp4": "Lago Ness"
+ },
+ {
+  "nId": 36,
+  "cPregunta": "Parque de atracciones situado en Copenhague, Dinamarca",
+  "cCorrecta": "Jardines de Tivoli",
+  "cResp1": "Jardines de México",
+  "cResp2": "Rotonda de Dinamarca",
+  "cResp3": "Parque Copenhague",
+  "cResp4": "Jardines de Tivoli"
+ },
+ {
+  "nId": 37,
+  "cPregunta": "Es la entrada a Berlín y uno de los principales símbolos de Alemania",
+  "cCorrecta": "Puerta de Brandeburgo",
+  "cResp1": "Arco del Triunfo",
+  "cResp2": "Puerta de la Ciudad",
+  "cResp3": "Monumento a la Revolución",
+  "cResp4": "Puerta de Brandeburgo"
+ },
+ {
+  "nId": 38,
+  "cPregunta": "Puente basculante y colgante de Londres construido entre 1886 y 1894",
+  "cCorrecta": "Puente de la Torre",
+  "cResp1": "Puente de las Cadenas",
+  "cResp2": "Puente Don Luis I",
+  "cResp3": "Puente Mostar",
+  "cResp4": "Puente de la Torre"
+ },
+ {
+  "nId": 39,
+  "cPregunta": "Palacio ubicado en la región Isla de Francia creado por Luis XIV",
+  "cCorrecta": "Palacio de Versalles",
+  "cResp1": "Palacio de Bellas Artes",
+  "cResp2": "Palacio Mont",
+  "cResp3": "Palacio de Minería",
+  "cResp4": "Palacio de Versalles"
+ },
+ {
+  "nId": 40,
+  "cPregunta": "Torre inclinada situada en Italia",
+  "cCorrecta": "Torre de Pisa\n",
+  "cResp1": "Torre Eiffel\n",
+  "cResp2": "Torre Roma",
+  "cResp3": "Torre Renacentista",
+  "cResp4": "Torre de Pisa\n"
+ },
+ {
+  "nId": 41,
+  "cPregunta": "Es la capital europea más poblada",
+  "cCorrecta": "Moscú",
+  "cResp1": "París\n",
+  "cResp2": "Londres\n",
+  "cResp3": "Madrid",
+  "cResp4": "Moscú"
+ },
+ {
+  "nId": 42,
+  "cPregunta": "Ciudad más pequeña de Europa",
+  "cCorrecta": "Ciudad del Vaticano",
+  "cResp1": "San Marino\n",
+  "cResp2": "Creta",
+  "cResp3": "Interlaken",
+  "cResp4": "Ciudad del Vaticano"
+ },
+ {
+  "nId": 43,
+  "cPregunta": "Ciudad poblada más antigua de Europa",
+  "cCorrecta": "Cádiz",
+  "cResp1": "Salamanca",
+  "cResp2": "Sofía",
+  "cResp3": "Palermo",
+  "cResp4": "Cádiz"
+ },
+ {
+  "nId": 44,
+  "cPregunta": "Ciudad en Europa que se considera la puerta de entrada a Asia",
+  "cCorrecta": "Estambul",
+  "cResp1": "Ankara",
+  "cResp2": "Bursa\n",
+  "cResp3": "Brujas",
+  "cResp4": "Estambul"
+ },
+ {
+  "nId": 45,
+  "cPregunta": "Capital de Portugal",
+  "cCorrecta": "Lisboa",
+  "cResp1": "Braga",
+  "cResp2": "Faro\n",
+  "cResp3": "Lagos",
+  "cResp4": "Lisboa"
+ },
+ {
+  "nId": 46,
+  "cPregunta": "Capital de Noruega",
+  "cCorrecta": "Oslo",
+  "cResp1": "Estocolmo",
+  "cResp2": "Berna",
+  "cResp3": "Praga",
+  "cResp4": "Oslo"
+ },
+ {
+  "nId": 47,
+  "cPregunta": "Parque público de 47 hectáreas situado en la ciudad de Ámsterdam",
+  "cCorrecta": "Vondelpark",
+  "cResp1": "Jordaan",
+  "cResp2": "Leidseplein",
+  "cResp3": "Parque de los Venados",
+  "cResp4": "Vondelpark"
+ },
+ {
+  "nId": 48,
+  "cPregunta": "Museo representativo de España situado en Madrid",
+  "cCorrecta": "Museo Nacional del Prado",
+  "cResp1": "Museo del Louvre\n",
+  "cResp2": "Museo Van Gogh\n",
+  "cResp3": "Museo de Sevilla",
+  "cResp4": "Museo Nacional del Prado"
+ },
+ {
+  "nId": 49,
+  "cPregunta": "Paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña y el puerto antiguo",
+  "cCorrecta": "Las Ramblas",
+  "cResp1": "Paseo de España",
+  "cResp2": "Paseo de la Reforma",
+  "cResp3": "Las Rejas",
+  "cResp4": "Las Ramblas"
+ },
+ {
+  "nId": 50,
+  "cPregunta": "Residencia oficial del monarca británico en Londres",
+  "cCorrecta": "Palacio de Buckingham",
+  "cResp1": "Palacio de Bellas Artes",
+  "cResp2": "Palacio Mont",
+  "cResp3": "Palacio de Versalles",
+  "cResp4": "Palacio de Buckingham"
+ },
+ {
+  "nId": 51,
+  "cPregunta": "Está rodeado por 3 volcanes y es el lago más profundo de Centroamérica",
+  "cCorrecta": "Lago Atitlán",
+  "cResp1": "Lago de Izabal",
+  "cResp2": "Lago de Ilopango",
+  "cResp3": "Lago Arenal",
+  "cResp4": "Lago Atitlán"
+ },
+ {
+  "nId": 52,
+  "cPregunta": "Es el símbolo de la ciudad del antiguo Imperio Inca",
+  "cCorrecta": "Machu Picchu",
+  "cResp1": "Inca Trail",
+  "cResp2": "Uxmal",
+  "cResp3": "Tikal",
+  "cResp4": "Machu Picchu"
+ },
+ {
+  "nId": 53,
+  "cPregunta": "Es el desierto de sal más grande de todo el mundo, donde el cielo y la tierra se mezclan",
+  "cCorrecta": "Salar de Uyuni",
+  "cResp1": "Desierto de Gobi",
+  "cResp2": "Desierto de Sonora",
+  "cResp3": "Desierto de Sal",
+  "cResp4": "Salar de Uyuni"
+ },
+ {
+  "nId": 54,
+  "cPregunta": "Espectaculares cataratas localizadas en los límites de Brasil y Argentina",
+  "cCorrecta": "Cataratas del Iguazú",
+  "cResp1": "Salto Angel",
+  "cResp2": "Cataratas del Niágara",
+  "cResp3": "American Falls",
+  "cResp4": "Cataratas del Iguazú"
+ },
+ {
+  "nId": 55,
+  "cPregunta": "Casa de las impresionantes Estatuas \"Moai\"",
+  "cCorrecta": "Isla de Pascua",
+  "cResp1": "Cueva de las Manos",
+  "cResp2": "Huacas de Moche",
+  "cResp3": "Machu Picchu",
+  "cResp4": "Isla de Pascua"
+ },
+ {
+  "nId": 56,
+  "cPregunta": "Iglesia estilo neogótico construida a 50 metros de altura sobre el río Guáitara, declarada la segunda maravilla de Colombia",
+  "cCorrecta": "Santuario de las Lajas ",
+  "cResp1": "Catedral de Sal",
+  "cResp2": "Catedral Manizales",
+  "cResp3": "Santuario Guáitara",
+  "cResp4": "Santuario de las Lajas "
+ },
+ {
+  "nId": 57,
+  "cPregunta": "Estatua de Jesús de Nazaret que te recibe con los brazos abiertos en Río de Janeiro",
+  "cCorrecta": "Cristo del Corcovado",
+  "cResp1": "Cristo Rey",
+  "cResp2": "Cristo de la Concordia",
+  "cResp3": "Estatua del Rey",
+  "cResp4": "Cristo del Corcovado"
+ },
+ {
+  "nId": 58,
+  "cPregunta": "Mayor emblema de la ciudad de Argentina construido para recordar el cuarto centenario de la fundación de Buenos Aires",
+  "cCorrecta": "Obelisco de Argentina",
+  "cResp1": "Estatua de la Libertad",
+  "cResp2": "Escultura a Buenos Aires",
+  "cResp3": "Plaza de Mayo",
+  "cResp4": "Obelisco de Argentina"
+ },
+ {
+  "nId": 59,
+  "cPregunta": "Conjunto de islas conocidas por sus numerosas especies endémicas y por los estudios de Charles Darwin sobre la teoría de la evolución",
+  "cCorrecta": "Islas Galápagos",
+  "cResp1": "Islas Colón",
+  "cResp2": "Islas del Coco",
+  "cResp3": "Guanaja",
+  "cResp4": "Islas Galápagos"
+ },
+ {
+  "nId": 60,
+  "cPregunta": "Selva tropical más grande del mundo que suministra humedad a todo Sudamérica",
+  "cCorrecta": "Selva del Amazonas",
+  "cResp1": "Selva Sudamericana",
+  "cResp2": "Selva del Congo",
+  "cResp3": "Monteverde",
+  "cResp4": "Selva del Amazonas"
+ },
+ {
+  "nId": 61,
+  "cPregunta": "Canal de navegación ubicado en el Mar Caribe y el Océano Pacífico que atraviesa el punto más estrecho del istmo de Panamá",
+  "cCorrecta": "Canal de Panamá",
+  "cResp1": "Canal Interoceánico",
+  "cResp2": "Ruta del Comercio",
+  "cResp3": "Canal del Istmo",
+  "cResp4": "Canal de Panamá"
+ },
+ {
+  "nId": 62,
+  "cPregunta": "Volcán ubicado en el distrito de la Fortuna en Costa Rica",
+  "cCorrecta": "Volcán Arenal",
+  "cResp1": "Volcán Poas",
+  "cResp2": "Volcán Irazú",
+  "cResp3": "Volcán Turrialba",
+  "cResp4": "Volcán Arenal"
+ },
+ {
+  "nId": 63,
+  "cPregunta": "Isla ubicada en el vasto lago de Nicaragua conocida por sus volcanes gemelos",
+  "cCorrecta": "Ometepe",
+  "cResp1": "Popoyo",
+  "cResp2": "Isla Nicaragua",
+  "cResp3": "Isla de los volcanes",
+  "cResp4": "Ometepe"
+ },
+ {
+  "nId": 64,
+  "cPregunta": "Plaza central de la capital de Honduras",
+  "cCorrecta": "Plaza Los Dolores",
+  "cResp1": "Plaza Suyapa",
+  "cResp2": "La Gruta",
+  "cResp3": "Plaza Central",
+  "cResp4": "Plaza Los Dolores"
+ },
+ {
+  "nId": 65,
+  "cPregunta": "Columna que se encuentra en la Ciudad de México creada para conmemorar el centenario de la independencia de México",
+  "cCorrecta": "Ángel de la Independencia",
+  "cResp1": "Torre Independencia",
+  "cResp2": "Monumento a la Revolución",
+  "cResp3": "Torre de Satélite",
+  "cResp4": "Ángel de la Independencia"
+ },
+ {
+  "nId": 66,
+  "cPregunta": "Legendaria ciudad maya declarada patrimonio de la humanidad en 1988 ubicada en la península de Yucatán",
+  "cCorrecta": "Chichén Itzá",
+  "cResp1": "Uxmal",
+  "cResp2": "Aké",
+  "cResp3": "Tulum",
+  "cResp4": "Chichén Itzá"
+ },
+ {
+  "nId": 67,
+  "cPregunta": "Fuente adornada con la estatua de una diosa romana, ubicada en la ciudad de Guadalajara",
+  "cCorrecta": "Glorieta La Minerva",
+  "cResp1": "Hospicio Cabañas",
+  "cResp2": "Fuente de Guadalajara",
+  "cResp3": "Arcos de Guadalajara",
+  "cResp4": "Glorieta La Minerva"
+ },
+ {
+  "nId": 68,
+  "cPregunta": "Parque que ocupa los terrenos de la antigua Fundidora de Fierro y Acero de Monterrey",
+  "cCorrecta": "Parque Fundidora",
+  "cResp1": "Macroplaza",
+  "cResp2": "Parque San Pedro Garza",
+  "cResp3": "Cerro de la Silla",
+  "cResp4": "Parque Fundidora"
+ },
+ {
+  "nId": 69,
+  "cPregunta": "Comúnmente llamado Zócalo de la Ciudad de México, lugar donde cada año se lleva a cabo la representación del grito de independencia por el presidente de la república",
+  "cCorrecta": "Plaza de la Constitución",
+  "cResp1": "Explanada de la Ciudad",
+  "cResp2": "Catedral Metropolitana",
+  "cResp3": "Plaza de Independencia",
+  "cResp4": "Plaza de la Constitución"
+ },
+ {
+  "nId": 70,
+  "cPregunta": "Monumento que fue regalo del pueblo Francés al Estadounidense para conmemorar el centenario de la declaración de Independencia de los Estados Unidos.",
+  "cCorrecta": "Estatua de la Libertad",
+  "cResp1": "Monumento Histórico",
+  "cResp2": "Estatua de la Independencia",
+  "cResp3": "Puente de Brooklyn",
+  "cResp4": "Estatua de la Libertad"
+ },
+ {
+  "nId": 71,
+  "cPregunta": "Impresionante puente colgante de color rojo ubicado en San Francisco",
+  "cCorrecta": "Golden Gate",
+  "cResp1": "Puente Rojo",
+  "cResp2": "Puente de Brooklyn",
+  "cResp3": "San Francisco Bridge",
+  "cResp4": "Golden Gate"
+ },
+ {
+  "nId": 72,
+  "cPregunta": "Famosas Letras ubicadas en Los Ángeles California de 14 metros de altura",
+  "cCorrecta": "Letrero de Hollywood",
+  "cResp1": "Letras Gigantes",
+  "cResp2": "Staples Center",
+  "cResp3": "Welcome to LA",
+  "cResp4": "Letrero de Hollywood"
+ },
+ {
+  "nId": 73,
+  "cPregunta": "Torre de radiodifusión más Alta de América ubicada en Toronto",
+  "cCorrecta": "Torre CN",
+  "cResp1": "Torre Latinoamericana",
+  "cResp2": "Rogers Center",
+  "cResp3": "Radio Canada",
+  "cResp4": "Torre CN"
+ },
+ {
+  "nId": 74,
+  "cPregunta": "Cataratas situadas en los límites de Canadá y Estados Unidos con una caída aproximada de 51 metros",
+  "cCorrecta": "Cataratas del Niágara",
+  "cResp1": "Cataratas Canadá",
+  "cResp2": "Cataratas de Iguazú",
+  "cResp3": "Cascadas Norteamericanas",
+  "cResp4": "Cataratas del Niágara"
+ },
+ {
+  "nId": 75,
+  "cPregunta": "Santuario católico dedicado a la Virgen María situado en Ciudad de México",
+  "cCorrecta": "Basílica de Guadalupe",
+  "cResp1": "Catedral de Sal",
+  "cResp2": "Basílica de San Pedro",
+  "cResp3": "Basílica de la Sagrada Familia",
+  "cResp4": "Basílica de Guadalupe"
+ },
+ {
+  "nId": 76,
+  "cPregunta": "Lugar donde se encuentra la residencia de los reyes de Camboya",
+  "cCorrecta": "Palacio Real de Nom Pen",
+  "cResp1": "La Pagoda Plateada",
+  "cResp2": "Wat Phnom",
+  "cResp3": "Angkor Wat",
+  "cResp4": "Palacio Real de Nom Pen"
+ },
+ {
+  "nId": 77,
+  "cPregunta": "¿Cuál fue la residencia de los Dalai Lama hasta el año 1959?",
+  "cCorrecta": "Potala",
+  "cResp1": "El Palacio Norbulingka",
+  "cResp2": "Templo de Jokhang",
+  "cResp3": "Gran estupa de Sanchi",
+  "cResp4": "Potala"
+ },
+ {
+  "nId": 78,
+  "cPregunta": "Monumento construido en Nueva Delhi para conmemorar a los soldados indios que murieron en la Primera Guerra Mundial",
+  "cCorrecta": "Puerta de la India",
+  "cResp1": "El Jama Masjid",
+  "cResp2": "Fuerte Rojo de Nueva Delhi",
+  "cResp3": "Sanchi Stupa",
+  "cResp4": "Puerta de la India"
+ },
+ {
+  "nId": 79,
+  "cPregunta": "Monumento designado como una de las 7 maravillas del mundo moderno en 2007",
+  "cCorrecta": "Taj Mahal",
+  "cResp1": "Templo del Sol",
+  "cResp2": "Templo de Karni Mata",
+  "cResp3": "Palacio Mysore ",
+  "cResp4": "Taj Mahal"
+ },
+ {
+  "nId": 80,
+  "cPregunta": "¿Cuál es el monte más alto de Japón?",
+  "cCorrecta": "Monte Fuji",
+  "cResp1": "Monte Hotaka",
+  "cResp2": "Monte Kita",
+  "cResp3": "Monte Ishizuchi",
+  "cResp4": "Monte Fuji"
+ },
+ {
+  "nId": 81,
+  "cPregunta": "Templo inaugurado el 6 de noviembre de 2005 a las orillas el río Yamuna ",
+  "cCorrecta": "Akshardham",
+  "cResp1": "Templo del loto",
+  "cResp2": "Templo Mahabodhi",
+  "cResp3": "Templo Shri Vrindavan Chandrodaya",
+  "cResp4": "Akshardham"
+ },
+ {
+  "nId": 82,
+  "cPregunta": "Palacio construido en el año 1799 por el marajá Sawai Pratap Singh",
+  "cCorrecta": "Hawa Mahal",
+  "cResp1": "Palacio del Lago",
+  "cResp2": "Palacio de Falaknuma",
+  "cResp3": "Palacio Bangalore",
+  "cResp4": "Hawa Mahal"
+ },
+ {
+  "nId": 83,
+  "cPregunta": "Fuerte construido en India en 1156 d.C. por el Rawal Jaisal",
+  "cCorrecta": "Fuerte de Jaisalmer",
+  "cResp1": "Fuerte de Agra",
+  "cResp2": "Fuerte Mehrangarh",
+  "cResp3": "Fuerte Gwalior",
+  "cResp4": "Fuerte de Jaisalmer"
+ },
+ {
+  "nId": 84,
+  "cPregunta": "Santuario dedicado a los emperadores Kanmu y Kōmei en Kioto",
+  "cCorrecta": "Santuario Heian",
+  "cResp1": "Santuario Senso-ji",
+  "cResp2": "Santuario de Hokokuji ",
+  "cResp3": "Santuarios de Shitennoji",
+  "cResp4": "Santuario Heian"
+ },
+ {
+  "nId": 85,
+  "cPregunta": "Nombre del templo japonés cuyo significado literal es: agua pura, agua clara o agua limpia",
+  "cCorrecta": "Templo Kiyomizu-dera",
+  "cResp1": "Templo Kinkakuji ",
+  "cResp2": "Templo de Hokokuji",
+  "cResp3": "Templo de Shitennoji ",
+  "cResp4": "Templo Kiyomizu-dera"
+ },
+ {
+  "nId": 86,
+  "cPregunta": "¿Cuál es el nombre del templo del Buda reclinado?",
+  "cCorrecta": "Wat Pho",
+  "cResp1": "Wat Phra Kaew",
+  "cResp2": "Wat Phra Pathom Chedi",
+  "cResp3": "Wat Phra Sing",
+  "cResp4": "Wat Pho"
+ },
+ {
+  "nId": 87,
+  "cPregunta": "El templo de Wat Mahathat (Ayutthaya) es también conocido cómo:",
+  "cCorrecta": "Templo de la Gran Reliquia",
+  "cResp1": "Templo del amanecer",
+  "cResp2": "El templo blanco",
+  "cResp3": "Templo del buda reclinado",
+  "cResp4": "Templo de la Gran Reliquia"
+ },
+ {
+  "nId": 88,
+  "cPregunta": "¿Cuál es el nombre de la playa situada entre la ciudad de Krabi y Ao Nang en el país asiático de Tailandia?",
+  "cCorrecta": "Playa Railay",
+  "cResp1": "Playa Patong",
+  "cResp2": "Playa Ton Sai",
+  "cResp3": "Playa Aow Leuk",
+  "cResp4": "Playa Railay"
+ },
+ {
+  "nId": 89,
+  "cPregunta": "País que alberga a El Gran Buda Dordenma",
+  "cCorrecta": "Bután",
+  "cResp1": "China",
+  "cResp2": "India",
+  "cResp3": "Tailandia",
+  "cResp4": "Bután"
+ },
+ {
+  "nId": 90,
+  "cPregunta": "Plaza conocida como La plaza de la Puerta de la Paz Celestial",
+  "cCorrecta": "Plaza de Tiananmén",
+  "cResp1": "Plaza del Pueblo",
+  "cResp2": "Plaza de las Estatuas de la Emperatriz",
+  "cResp3": "Plaza Zhongshan",
+  "cResp4": "Plaza de Tiananmén"
+ },
+ {
+  "nId": 91,
+  "cPregunta": "Fue la residencia oficial de los emperadores de China desde la dinastía Ming hasta el final de la dinastía Qing ",
+  "cCorrecta": "La Ciudad Prohibida",
+  "cResp1": "el Palacio de Daming",
+  "cResp2": " Palacio de Hanyuan",
+  "cResp3": "Palacio de Zichen",
+  "cResp4": "La Ciudad Prohibida"
+ },
+ {
+  "nId": 92,
+  "cPregunta": "Fortificación construida para proteger la frontera norte del Imperio chino de los ataques de Mongolia",
+  "cCorrecta": "Gran muralla China",
+  "cResp1": "muralla de Kumbhalgarh",
+  "cResp2": "Muralla de Adriano",
+  "cResp3": "Murallas de Dubrovnik",
+  "cResp4": "Gran muralla China"
+ },
+ {
+  "nId": 93,
+  "cPregunta": "Nombre del templo construido en china en el año 1420",
+  "cCorrecta": "Templo del cielo",
+  "cResp1": "Templo Jokhang",
+  "cResp2": "Templo de Nanshan",
+  "cResp3": "Templo de Lama",
+  "cResp4": "Templo del cielo"
+ },
+ {
+  "nId": 94,
+  "cPregunta": "Ciudad china que alberga a los guerreros terracota",
+  "cCorrecta": "Xian",
+  "cResp1": "Tianjin",
+  "cResp2": "Nankín",
+  "cResp3": "Shanghái",
+  "cResp4": "Xian"
+ },
+ {
+  "nId": 95,
+  "cPregunta": "Nombre del monte cuyo significado literal es Monte del Esplendor",
+  "cCorrecta": "Monte Hua",
+  "cResp1": "Monte Emei",
+  "cResp2": "Monte Tai",
+  "cResp3": "Monte Heng",
+  "cResp4": "Monte Hua"
+ },
+ {
+  "nId": 96,
+  "cPregunta": "Nombre de los jardines que albergan al Salón Sansui",
+  "cCorrecta": "Jardín Yuyuan",
+  "cResp1": "Jardín del Bosque de Leones",
+  "cResp2": "Jardín Persistente",
+  "cResp3": "Jardín Qinghui",
+  "cResp4": "Jardín Yuyuan"
+ },
+ {
+  "nId": 97,
+  "cPregunta": "Nombre del edificio cuya traducción literal es Edificio Dorado de la Prosperidad",
+  "cCorrecta": "Torre Jin Mao",
+  "cResp1": "Lippo Center",
+  "cResp2": "Two International Finance",
+  "cResp3": "El plaza 66",
+  "cResp4": "Torre Jin Mao"
+ },
+ {
+  "nId": 98,
+  "cPregunta": "Nombre del templo construido en 1882 en la ciudad de Shanghái",
+  "cCorrecta": "Templo del Buda de Jade",
+  "cResp1": "Templo Lingyin",
+  "cResp2": "Templo Shaolin",
+  "cResp3": "Templo Colgante",
+  "cResp4": "Templo del Buda de Jade"
+ },
+ {
+  "nId": 99,
+  "cPregunta": "Nombre del templo que originalmente fue denominado Templo de Zhongdu",
+  "cCorrecta": "Templo de Shuanglin",
+  "cResp1": "Templo Lama",
+  "cResp2": "Templo Puning",
+  "cResp3": "Templo Thean Hou",
+  "cResp4": "Templo de Shuanglin"
+ },
+ {
+  "nId": 100,
+  "cPregunta": "Nombre de la estatua esculpida en piedra de Buda más alta del mundo",
+  "cCorrecta": "Gran Buda de Leshan",
+  "cResp1": "Gran Buda de Phuket",
+  "cResp2": "Gran Buda de Bodh Gaya",
+  "cResp3": "Buda gigante de las Grutas de Longmen",
+  "cResp4": "Gran Buda de Leshan"
+ }
 ]
