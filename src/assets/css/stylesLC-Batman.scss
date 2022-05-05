@@ -1311,39 +1311,28 @@ form {
 
 .cont-instrucciones {
     width: 1000px;
-    background-color: #ffffffb7;
+    background-color: #ff671bce;
     /*Bordes redondos*/
     border-radius: 10px 10px 10px 10px;
     -moz-border-radius: 10px 10px 10px 10px;
     -webkit-border-radius: 10px 10px 10px 10px;
     display: flex;
-    .img-instrucciones {
-        width: 40%;
-        background-image: url('backgrounds/imgInstrucciones.png');
-        background-color: black;
-        background-position: center;
-        /* Center the image */
-        background-repeat: no-repeat;
-        /* Do not repeat the image */
-        background-size: cover;
-        /* Resize the background image to cover the entire container */
-        /*Bordes redondos*/
-        border-radius: 10px 0px 0px 10px;
-        -moz-border-radius: 10px 0px 0px 10px;
-        -webkit-border-radius: 10px 0px 0px 10px;
-    }
+    justify-content: center;
+    text-align: center;
     div:last-child {
         width: 60%;
         padding: 50px;
         h2 {
-            font-size: 70px;
-            font-family: $textoBold;
+            font-size: 80px;
+            font-family: $textoJurassic;
+            letter-spacing: 2px;
+            color: white;
         }
         p {
             font-size: 30px;
             line-height: 1.3;
             span {
-                text-decoration: underline;
+                font-family: $textoBold;
             }
         }
         .cont-button-instrucciones {
@@ -1356,8 +1345,8 @@ form {
             button {
                 width: 100%;
                 height: 60px;
-                background-color: $colorVerde;
-                color: white;
+                background-color: white;
+                color: black;
                 font-size: 30px;
                 font-family: $textoBold;
                 /*Bordes redondos*/
@@ -1368,6 +1357,7 @@ form {
             }
             button:hover {
                 background-color: black;
+                color: white;
             }
         }
     }
@@ -1424,12 +1414,15 @@ form {
 
 @media only screen and (max-width:430px) {
     .cont-instrucciones {
+        img {
+            width: 100%;
+        }
         div:last-child {
             h2 {
                 font-size: 30px;
             }
             p {
-                font-size: 18px;
+                font-size: 20px;
             }
         }
     }
@@ -1444,7 +1437,7 @@ form {
 /* TERMINA INSTRUCCIONES */
 
 #animado {
-    margin-left: -200px;
+    margin-left: 0px;
 }
 
 @keyframes mover {
@@ -1615,7 +1608,7 @@ form {
 
 #velociraptor {
     position: absolute;
-    margin-left: -800px;
+    margin-left: -400px;
     margin-top: -150px;
     z-index: 1;
 }
@@ -2137,3 +2130,154 @@ form {
 
 
 /* Termina Escribe */
+
+
+/* JUEGO */
+
+#juego {
+    width: 100%;
+    height: 800px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url('backgrounds/fondoJuego.png');
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    .half {
+        width: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img {
+            width: 100%;
+        }
+    }
+    .half:first-child {
+        width: 40%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}
+
+.box-preguntas {
+    width: 100%;
+    background-color: $colorNegro;
+    color: white;
+    height: auto;
+    border-radius: 0px 20px 20px 0px;
+    -moz-border-radius: 0px 20px 20px 0px;
+    -webkit-border-radius: 0px 20px 20px 0px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 9px 0px 15px -10px rgba(0, 0, 0, 0.84);
+    -moz-box-shadow: 9px 0px 15px -10px rgba(0, 0, 0, 0.84);
+    box-shadow: 9px 0px 15px -10px rgba(0, 0, 0, 0.84);
+    .score {
+        width: 100%;
+        padding: 25px;
+        display: flex;
+        justify-content: space-between;
+        div {
+            display: flex;
+            align-items: center;
+        }
+    }
+}
+
+#dinosauriosCapturados {
+    margin: 0;
+    margin-left: 10px;
+    font-family: $textoJurassic;
+}
+
+#time {
+    margin: 0;
+    margin-left: 10px;
+    font-family: $textoJurassic;
+    letter-spacing: 2px;
+}
+
+.lineaJuego {
+    width: 100%;
+    border-bottom: 2px solid white;
+}
+
+.preguntas {
+    width: 100%;
+    padding: 25px;
+    h2 {
+        color: $textoBold;
+        margin-bottom: 35px;
+        margin-top: 35px;
+    }
+    .cont-respuestas {
+        width: 100%;
+        button {
+            width: 100%;
+            height: auto;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border-radius: 10px 10px 10px 10px;
+            -moz-border-radius: 10px 10px 10px 10px;
+            -webkit-border-radius: 10px 10px 10px 10px;
+            border: 0px solid #000000;
+            background-color: $colorPrincipal;
+            color: white;
+            font-size: 18px;
+        }
+        button:hover {
+            background-color: white;
+            color: black;
+        }
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    #juego {
+        height: auto;
+        flex-direction: column-reverse;
+        .half {
+            width: 100%;
+        }
+        .half:first-child {
+            width: 100%;
+            justify-content: center;
+        }
+    }
+    .box-preguntas {
+        width: 90%;
+        border-radius: 20px 20px 20px 20px;
+        -moz-border-radius: 20px 20px 20px 20px;
+        -webkit-border-radius: 20px 20px 20px 20px;
+        border: 0px solid #000000;
+        -webkit-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);
+        box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.75);
+    }
+}
+
+
+/* TERMINA JUEGO */
+
+#gameover {
+    width: 100%;
+    height: 800px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url('backgrounds/fondoMarcador.png');
+    background-color: black;
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    h3 {
+        font-size: 80px;
+        font-family: $textoJurassic;
+    }
+}

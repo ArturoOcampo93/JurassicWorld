@@ -1,16 +1,13 @@
 <app-header></app-header>
 <section id="instrucciones">
-    <div class="cont-personaje animate__animated animate__zoomInLeft animate__delay-1s">
-        <img id="personaje-instrucciones" src="assets/images/personaje-1.png" alt="Acertijo">
-    </div>
     <div class="vertical-center">
         <div class="cont-instrucciones">
-            <div class="img-instrucciones"></div>
             <div>
                 <h2>INSTRUCCIONES</h2>
-                <p>Intenta derrotar al acertijo respondiendo a <span>todas sus preguntas correctamente</span> en sus diferentes escenarios y <span>en el menor tiempo posible.</span></p>
+                <img src="assets/images/dino-instrucciones.png" alt="...">
+                <p>Acumula dinosaurios por cada <span>respuesta correcta</span> de la trivia, tienes <span>3 minutos</span> por cada ticket registrado. Entre <span>más dinosaurios acumules</span>, tendrás más posibilidades de ganar.</p>
                 <div class="cont-button-instrucciones">
-                    <button [routerLink]="['/juego']" >COMENZAR TRIVIA</button>
+                    <button [routerLink]="['/juego']">COMENZAR TRIVIA</button>
                 </div>
             </div>
         </div>
