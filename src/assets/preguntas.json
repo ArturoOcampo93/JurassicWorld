@@ -1,902 +1,902 @@
 [
- {
-  "nId": 1,
-  "cPregunta": "La Unesco las incluyó entre los lugares Patrimonio de la Humanidad en 1989",
-  "cCorrecta": "Las Cataratas Victoria",
-  "cResp1": "Las cataratas del Niágara",
-  "cResp2": "Las Cataratas de Iguazú",
-  "cResp3": "Las cataratas Gulfoss",
-  "cResp4": "Las Cataratas Victoria"
- },
- {
-  "nId": 2,
-  "cPregunta": "Desierto que tiene fama de ser el más antiguo del mundo\n",
-  "cCorrecta": "Desierto de Namibia",
-  "cResp1": "Desierto del Sáhara",
-  "cResp2": "Desierto de Arabia",
-  "cResp3": "Desierto de Chihuahua",
-  "cResp4": "Desierto de Namibia"
- },
- {
-  "nId": 3,
-  "cPregunta": "Montaña situada en el noreste de Tanzania, formada por tres volcanes inactivos",
-  "cCorrecta": "El kilimanjaro\n",
-  "cResp1": "K2",
-  "cResp2": "Denali",
-  "cResp3": "Monte Elbrús",
-  "cResp4": "El kilimanjaro\n"
- },
- {
-  "nId": 4,
-  "cPregunta": "Golfo o cuenca del océano índico entre África y Asia",
-  "cCorrecta": "El mar rojo\n",
-  "cResp1": "El mar índico",
-  "cResp2": "El mar Ártico\n",
-  "cResp3": "El mar Caribe",
-  "cResp4": "El mar rojo\n"
- },
- {
-  "nId": 5,
-  "cPregunta": "Es una de las nueve provincias de Sudáfrica, cuya capital es Ciudad del Cabo\n",
-  "cCorrecta": "El Cabo Occidental\n",
-  "cResp1": "El Cabo San Lucas",
-  "cResp2": "Los Cabos\n",
-  "cResp3": "Cabo de Finisterre",
-  "cResp4": "El Cabo Occidental\n"
- },
- {
-  "nId": 6,
-  "cPregunta": "Ubicado apenas 150 kilómetros de Nairobi, la capital de Kenia",
-  "cCorrecta": "Lago Nakuru",
-  "cResp1": "Lago de Yuriria\n",
-  "cResp2": "Lago Ness\n",
-  "cResp3": "Lago Taal",
-  "cResp4": "Lago Nakuru"
- },
- {
-  "nId": 7,
-  "cPregunta": "Nace en Angola, pasa por Namibia y desemboca en Botswana",
-  "cCorrecta": "Delta del Okavango",
-  "cResp1": "Delta del Danubio",
-  "cResp2": "Delta del Paraná",
-  "cResp3": "Delta del Mekong",
-  "cResp4": "Delta del Okavango"
- },
- {
-  "nId": 8,
-  "cPregunta": "Parque Nacional situado en la región Melaky",
-  "cCorrecta": "Parque Nacional Tsingy de Bemaraha\n",
-  "cResp1": "Parque Nacional El Chico\n",
-  "cResp2": "Parque Nacional de Banff\n",
-  "cResp3": "Parque Stanley",
-  "cResp4": "Parque Nacional Tsingy de Bemaraha\n"
- },
- {
-  "nId": 9,
-  "cPregunta": "Supera los 6,800 kilómetros de longitud",
-  "cCorrecta": "Nilo",
-  "cResp1": "Danubio\n",
-  "cResp2": "Rin\n",
-  "cResp3": "Amazonas",
-  "cResp4": "Nilo"
- },
- {
-  "nId": 10,
-  "cPregunta": "Desierto turístico muy visitado en Marruecos\n",
-  "cCorrecta": "Erg Chebbi\n",
-  "cResp1": "Desierto Ártico\n",
-  "cResp2": "Desierto Árabe\n",
-  "cResp3": "Kyzylkum",
-  "cResp4": "Erg Chebbi\n"
- },
- {
-  "nId": 11,
-  "cPregunta": "Es la isla más grande de África y la cuarta más grande del mundo\n",
-  "cCorrecta": "Madagascar\n",
-  "cResp1": "Kodiak",
-  "cResp2": "Paros\n",
-  "cResp3": "Tasos",
-  "cResp4": "Madagascar\n"
- },
- {
-  "nId": 12,
-  "cPregunta": "Construidas como criptas reales para los faraones desde el año 3000 a.C",
-  "cCorrecta": "Pirámides de Egipto",
-  "cResp1": "Catacumbas",
-  "cResp2": "Pirámide de Maslow\n",
-  "cResp3": "Pirámides de Tajín",
-  "cResp4": "Pirámides de Egipto"
- },
- {
-  "nId": 13,
-  "cPregunta": "Importante centro de peregrinación al norte de Etiopía",
-  "cCorrecta": "Lalibela",
-  "cResp1": "Tanzania",
-  "cResp2": "Santuario Marino",
-  "cResp3": "Spirit Rock",
-  "cResp4": "Lalibela"
- },
- {
-  "nId": 14,
-  "cPregunta": "Nación insular en el océano Índico, conocida por sus playas, lagunas y arrecifes",
-  "cCorrecta": "Isla Mauricio",
-  "cResp1": "Islas Azores",
-  "cResp2": "Islas Bora Bora",
-  "cResp3": "Islas La digue",
-  "cResp4": "Isla Mauricio"
- },
- {
-  "nId": 15,
-  "cPregunta": "Ocupa los alrededores de la falla de Bandiagara",
-  "cCorrecta": "País Dogón\n",
-  "cResp1": "Falla de San Andrés\n",
-  "cResp2": "Falla de Motagua\n",
-  "cResp3": "Dresde",
-  "cResp4": "País Dogón\n"
- },
- {
-  "nId": 16,
-  "cPregunta": "Es la mayor ciudad del mundo árabe\n",
-  "cCorrecta": "El cairo\n",
-  "cResp1": "París\n",
-  "cResp2": "Berlín",
-  "cResp3": "Dinamarca",
-  "cResp4": "El cairo\n"
- },
- {
-  "nId": 17,
-  "cPregunta": "La ciudad más grande y poblada de Sudáfrica",
-  "cCorrecta": "Johannesburgo",
-  "cResp1": "Tavira",
-  "cResp2": "Évora",
-  "cResp3": "Colonia",
-  "cResp4": "Johannesburgo"
- },
- {
-  "nId": 18,
-  "cPregunta": "Su nombre oficial es República Tunecina",
-  "cCorrecta": "Túnez\n",
-  "cResp1": "República del Salvador\n",
-  "cResp2": "República Dominicana\n",
-  "cResp3": "República de Uruguay",
-  "cResp4": "Túnez\n"
- },
- {
-  "nId": 19,
-  "cPregunta": "Isla ubicada en la República Unida de Tanzania",
-  "cCorrecta": "Atolón Mnemba\n",
-  "cResp1": "Santorini\n",
-  "cResp2": "Maui\n",
-  "cResp3": "Marshall",
-  "cResp4": "Atolón Mnemba\n"
- },
- {
-  "nId": 20,
-  "cPregunta": "Es la capital de Namibia",
-  "cCorrecta": "WIndhoek\n",
-  "cResp1": "Kiev",
-  "cResp2": "Budapest\n",
-  "cResp3": "Berlín",
-  "cResp4": "WIndhoek\n"
- },
- {
-  "nId": 21,
-  "cPregunta": "País que antiguamente se le conocía como Nyasalandia",
-  "cCorrecta": "Malawi\n",
-  "cResp1": "Moldavia\n",
-  "cResp2": "Serbia\n",
-  "cResp3": "Finlandia",
-  "cResp4": "Malawi\n"
- },
- {
-  "nId": 22,
-  "cPregunta": "Capital y  principal ciudad de Angola",
-  "cCorrecta": "Luanda",
-  "cResp1": "Hong Kong",
-  "cResp2": "Israel",
-  "cResp3": "Kiev",
-  "cResp4": "Luanda"
- },
- {
-  "nId": 23,
-  "cPregunta": "Monumental escultura que se encuentra en la ribera occidental del río Nilo",
-  "cCorrecta": "La gran esfinge de Guiza",
-  "cResp1": "David\n",
-  "cResp2": "Venus de Milio",
-  "cResp3": "Cristo Redentor",
-  "cResp4": "La gran esfinge de Guiza"
- },
- {
-  "nId": 24,
-  "cPregunta": "Se localiza en la ciudad de Acra, en Ghana",
-  "cCorrecta": "Arco de la independencia\n",
-  "cResp1": "Kempala",
-  "cResp2": "Argel",
-  "cResp3": "Almaty",
-  "cResp4": "Arco de la independencia\n"
- },
- {
-  "nId": 25,
-  "cPregunta": "Templo construido por Ramsés II para conmemorar su victoria en la batalla de Kadesh",
-  "cCorrecta": "Abu Simbel",
-  "cResp1": "Templo de Buda",
-  "cResp2": "Templo del Loto",
-  "cResp3": "Pabellón Dorado",
-  "cResp4": "Abu Simbel"
- },
- {
-  "nId": 26,
-  "cPregunta": "Anfiteatro de la época del imperio romano construido en el siglo I",
-  "cCorrecta": "Coliseo de Roma",
-  "cResp1": "Palacio de Bellas Artes",
-  "cResp2": "Teatro Creta",
-  "cResp3": "Palacio de Minería",
-  "cResp4": "Coliseo de Roma"
- },
- {
-  "nId": 27,
-  "cPregunta": "Templo católico diseñado por el arquitecto Antoni Gaudí",
-  "cCorrecta": "Basílica de la Sagrada Familia",
-  "cResp1": "Basílica de Guadalupe",
-  "cResp2": "Catedral de Madrid",
-  "cResp3": "Basílica de San Pedro",
-  "cResp4": "Basílica de la Sagrada Familia"
- },
- {
-  "nId": 28,
-  "cPregunta": "Museo francés ubicado en París cuya apertura fue en 1793",
-  "cCorrecta": "Museo del Louvre",
-  "cResp1": "Museo Nacional de Francia\n",
-  "cResp2": "Museo Oui\n",
-  "cResp3": "Museo de París",
-  "cResp4": "Museo del Louvre"
- },
- {
-  "nId": 29,
-  "cPregunta": "Catedral francesa de estilo gótico edificada de 1163 a 1260",
-  "cCorrecta": "Catedral de Notre Dame",
-  "cResp1": "Catedral de Colonia",
-  "cResp2": "Catedral de María",
-  "cResp3": "Catedral de Salamanca",
-  "cResp4": "Catedral de Notre Dame"
- },
- {
-  "nId": 30,
-  "cPregunta": "Torre francesa inicialmente llamada Tour de 300 mètres",
-  "cCorrecta": "Torre Eiffel\n",
-  "cResp1": "Torre de Pisa",
-  "cResp2": "Torre de Francia",
-  "cResp3": "Torre Mont",
-  "cResp4": "Torre Eiffel\n"
- },
- {
-  "nId": 31,
-  "cPregunta": "Nombre con el que se le conoce a la gran campana del reloj situado en el Palacio de Westminster",
-  "cCorrecta": "Big Ben",
-  "cResp1": "Westminster",
-  "cResp2": "Campana de Londres",
-  "cResp3": "Torre de Reloj",
-  "cResp4": "Big Ben"
- },
- {
-  "nId": 32,
-  "cPregunta": "Cadena de montañas situada en Europa Central cuya cumbre más alta lleva el nombre de Mont Blanc",
-  "cCorrecta": "Los Alpes",
-  "cResp1": "Santorini\n",
-  "cResp2": "Himalaya",
-  "cResp3": "Nepal",
-  "cResp4": "Los Alpes"
- },
- {
-  "nId": 33,
-  "cPregunta": "Archipiélago noruego situado por encima del círculo polar ártico",
-  "cCorrecta": "Islas Loften",
-  "cResp1": "Islas Pigargos",
-  "cResp2": "Triángulo de las Bermudas",
-  "cResp3": "La Digue",
-  "cResp4": "Islas Loften"
- },
- {
-  "nId": 34,
-  "cPregunta": "Canal que recorre Venecia trazando una S",
-  "cCorrecta": "Gran canal de Venecia",
-  "cResp1": "Canal S de Venecia",
-  "cResp2": "Canal Muérdago",
-  "cResp3": "Río Nilo",
-  "cResp4": "Gran canal de Venecia"
- },
- {
-  "nId": 35,
-  "cPregunta": "Lago situado en las Tierras Altas de Escocia",
-  "cCorrecta": "Lago Ness",
-  "cResp1": "Lago Lof\n",
-  "cResp2": "Lago Alto\n",
-  "cResp3": "Lago Taal",
-  "cResp4": "Lago Ness"
- },
- {
-  "nId": 36,
-  "cPregunta": "Parque de atracciones situado en Copenhague, Dinamarca",
-  "cCorrecta": "Jardines de Tivoli",
-  "cResp1": "Jardines de México",
-  "cResp2": "Rotonda de Dinamarca",
-  "cResp3": "Parque Copenhague",
-  "cResp4": "Jardines de Tivoli"
- },
- {
-  "nId": 37,
-  "cPregunta": "Es la entrada a Berlín y uno de los principales símbolos de Alemania",
-  "cCorrecta": "Puerta de Brandeburgo",
-  "cResp1": "Arco del Triunfo",
-  "cResp2": "Puerta de la Ciudad",
-  "cResp3": "Monumento a la Revolución",
-  "cResp4": "Puerta de Brandeburgo"
- },
- {
-  "nId": 38,
-  "cPregunta": "Puente basculante y colgante de Londres construido entre 1886 y 1894",
-  "cCorrecta": "Puente de la Torre",
-  "cResp1": "Puente de las Cadenas",
-  "cResp2": "Puente Don Luis I",
-  "cResp3": "Puente Mostar",
-  "cResp4": "Puente de la Torre"
- },
- {
-  "nId": 39,
-  "cPregunta": "Palacio ubicado en la región Isla de Francia creado por Luis XIV",
-  "cCorrecta": "Palacio de Versalles",
-  "cResp1": "Palacio de Bellas Artes",
-  "cResp2": "Palacio Mont",
-  "cResp3": "Palacio de Minería",
-  "cResp4": "Palacio de Versalles"
- },
- {
-  "nId": 40,
-  "cPregunta": "Torre inclinada situada en Italia",
-  "cCorrecta": "Torre de Pisa\n",
-  "cResp1": "Torre Eiffel\n",
-  "cResp2": "Torre Roma",
-  "cResp3": "Torre Renacentista",
-  "cResp4": "Torre de Pisa\n"
- },
- {
-  "nId": 41,
-  "cPregunta": "Es la capital europea más poblada",
-  "cCorrecta": "Moscú",
-  "cResp1": "París\n",
-  "cResp2": "Londres\n",
-  "cResp3": "Madrid",
-  "cResp4": "Moscú"
- },
- {
-  "nId": 42,
-  "cPregunta": "Ciudad más pequeña de Europa",
-  "cCorrecta": "Ciudad del Vaticano",
-  "cResp1": "San Marino\n",
-  "cResp2": "Creta",
-  "cResp3": "Interlaken",
-  "cResp4": "Ciudad del Vaticano"
- },
- {
-  "nId": 43,
-  "cPregunta": "Ciudad poblada más antigua de Europa",
-  "cCorrecta": "Cádiz",
-  "cResp1": "Salamanca",
-  "cResp2": "Sofía",
-  "cResp3": "Palermo",
-  "cResp4": "Cádiz"
- },
- {
-  "nId": 44,
-  "cPregunta": "Ciudad en Europa que se considera la puerta de entrada a Asia",
-  "cCorrecta": "Estambul",
-  "cResp1": "Ankara",
-  "cResp2": "Bursa\n",
-  "cResp3": "Brujas",
-  "cResp4": "Estambul"
- },
- {
-  "nId": 45,
-  "cPregunta": "Capital de Portugal",
-  "cCorrecta": "Lisboa",
-  "cResp1": "Braga",
-  "cResp2": "Faro\n",
-  "cResp3": "Lagos",
-  "cResp4": "Lisboa"
- },
- {
-  "nId": 46,
-  "cPregunta": "Capital de Noruega",
-  "cCorrecta": "Oslo",
-  "cResp1": "Estocolmo",
-  "cResp2": "Berna",
-  "cResp3": "Praga",
-  "cResp4": "Oslo"
- },
- {
-  "nId": 47,
-  "cPregunta": "Parque público de 47 hectáreas situado en la ciudad de Ámsterdam",
-  "cCorrecta": "Vondelpark",
-  "cResp1": "Jordaan",
-  "cResp2": "Leidseplein",
-  "cResp3": "Parque de los Venados",
-  "cResp4": "Vondelpark"
- },
- {
-  "nId": 48,
-  "cPregunta": "Museo representativo de España situado en Madrid",
-  "cCorrecta": "Museo Nacional del Prado",
-  "cResp1": "Museo del Louvre\n",
-  "cResp2": "Museo Van Gogh\n",
-  "cResp3": "Museo de Sevilla",
-  "cResp4": "Museo Nacional del Prado"
- },
- {
-  "nId": 49,
-  "cPregunta": "Paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña y el puerto antiguo",
-  "cCorrecta": "Las Ramblas",
-  "cResp1": "Paseo de España",
-  "cResp2": "Paseo de la Reforma",
-  "cResp3": "Las Rejas",
-  "cResp4": "Las Ramblas"
- },
- {
-  "nId": 50,
-  "cPregunta": "Residencia oficial del monarca británico en Londres",
-  "cCorrecta": "Palacio de Buckingham",
-  "cResp1": "Palacio de Bellas Artes",
-  "cResp2": "Palacio Mont",
-  "cResp3": "Palacio de Versalles",
-  "cResp4": "Palacio de Buckingham"
- },
- {
-  "nId": 51,
-  "cPregunta": "Está rodeado por 3 volcanes y es el lago más profundo de Centroamérica",
-  "cCorrecta": "Lago Atitlán",
-  "cResp1": "Lago de Izabal",
-  "cResp2": "Lago de Ilopango",
-  "cResp3": "Lago Arenal",
-  "cResp4": "Lago Atitlán"
- },
- {
-  "nId": 52,
-  "cPregunta": "Es el símbolo de la ciudad del antiguo Imperio Inca",
-  "cCorrecta": "Machu Picchu",
-  "cResp1": "Inca Trail",
-  "cResp2": "Uxmal",
-  "cResp3": "Tikal",
-  "cResp4": "Machu Picchu"
- },
- {
-  "nId": 53,
-  "cPregunta": "Es el desierto de sal más grande de todo el mundo, donde el cielo y la tierra se mezclan",
-  "cCorrecta": "Salar de Uyuni",
-  "cResp1": "Desierto de Gobi",
-  "cResp2": "Desierto de Sonora",
-  "cResp3": "Desierto de Sal",
-  "cResp4": "Salar de Uyuni"
- },
- {
-  "nId": 54,
-  "cPregunta": "Espectaculares cataratas localizadas en los límites de Brasil y Argentina",
-  "cCorrecta": "Cataratas del Iguazú",
-  "cResp1": "Salto Angel",
-  "cResp2": "Cataratas del Niágara",
-  "cResp3": "American Falls",
-  "cResp4": "Cataratas del Iguazú"
- },
- {
-  "nId": 55,
-  "cPregunta": "Casa de las impresionantes Estatuas \"Moai\"",
-  "cCorrecta": "Isla de Pascua",
-  "cResp1": "Cueva de las Manos",
-  "cResp2": "Huacas de Moche",
-  "cResp3": "Machu Picchu",
-  "cResp4": "Isla de Pascua"
- },
- {
-  "nId": 56,
-  "cPregunta": "Iglesia estilo neogótico construida a 50 metros de altura sobre el río Guáitara, declarada la segunda maravilla de Colombia",
-  "cCorrecta": "Santuario de las Lajas ",
-  "cResp1": "Catedral de Sal",
-  "cResp2": "Catedral Manizales",
-  "cResp3": "Santuario Guáitara",
-  "cResp4": "Santuario de las Lajas "
- },
- {
-  "nId": 57,
-  "cPregunta": "Estatua de Jesús de Nazaret que te recibe con los brazos abiertos en Río de Janeiro",
-  "cCorrecta": "Cristo del Corcovado",
-  "cResp1": "Cristo Rey",
-  "cResp2": "Cristo de la Concordia",
-  "cResp3": "Estatua del Rey",
-  "cResp4": "Cristo del Corcovado"
- },
- {
-  "nId": 58,
-  "cPregunta": "Mayor emblema de la ciudad de Argentina construido para recordar el cuarto centenario de la fundación de Buenos Aires",
-  "cCorrecta": "Obelisco de Argentina",
-  "cResp1": "Estatua de la Libertad",
-  "cResp2": "Escultura a Buenos Aires",
-  "cResp3": "Plaza de Mayo",
-  "cResp4": "Obelisco de Argentina"
- },
- {
-  "nId": 59,
-  "cPregunta": "Conjunto de islas conocidas por sus numerosas especies endémicas y por los estudios de Charles Darwin sobre la teoría de la evolución",
-  "cCorrecta": "Islas Galápagos",
-  "cResp1": "Islas Colón",
-  "cResp2": "Islas del Coco",
-  "cResp3": "Guanaja",
-  "cResp4": "Islas Galápagos"
- },
- {
-  "nId": 60,
-  "cPregunta": "Selva tropical más grande del mundo que suministra humedad a todo Sudamérica",
-  "cCorrecta": "Selva del Amazonas",
-  "cResp1": "Selva Sudamericana",
-  "cResp2": "Selva del Congo",
-  "cResp3": "Monteverde",
-  "cResp4": "Selva del Amazonas"
- },
- {
-  "nId": 61,
-  "cPregunta": "Canal de navegación ubicado en el Mar Caribe y el Océano Pacífico que atraviesa el punto más estrecho del istmo de Panamá",
-  "cCorrecta": "Canal de Panamá",
-  "cResp1": "Canal Interoceánico",
-  "cResp2": "Ruta del Comercio",
-  "cResp3": "Canal del Istmo",
-  "cResp4": "Canal de Panamá"
- },
- {
-  "nId": 62,
-  "cPregunta": "Volcán ubicado en el distrito de la Fortuna en Costa Rica",
-  "cCorrecta": "Volcán Arenal",
-  "cResp1": "Volcán Poas",
-  "cResp2": "Volcán Irazú",
-  "cResp3": "Volcán Turrialba",
-  "cResp4": "Volcán Arenal"
- },
- {
-  "nId": 63,
-  "cPregunta": "Isla ubicada en el vasto lago de Nicaragua conocida por sus volcanes gemelos",
-  "cCorrecta": "Ometepe",
-  "cResp1": "Popoyo",
-  "cResp2": "Isla Nicaragua",
-  "cResp3": "Isla de los volcanes",
-  "cResp4": "Ometepe"
- },
- {
-  "nId": 64,
-  "cPregunta": "Plaza central de la capital de Honduras",
-  "cCorrecta": "Plaza Los Dolores",
-  "cResp1": "Plaza Suyapa",
-  "cResp2": "La Gruta",
-  "cResp3": "Plaza Central",
-  "cResp4": "Plaza Los Dolores"
- },
- {
-  "nId": 65,
-  "cPregunta": "Columna que se encuentra en la Ciudad de México creada para conmemorar el centenario de la independencia de México",
-  "cCorrecta": "Ángel de la Independencia",
-  "cResp1": "Torre Independencia",
-  "cResp2": "Monumento a la Revolución",
-  "cResp3": "Torre de Satélite",
-  "cResp4": "Ángel de la Independencia"
- },
- {
-  "nId": 66,
-  "cPregunta": "Legendaria ciudad maya declarada patrimonio de la humanidad en 1988 ubicada en la península de Yucatán",
-  "cCorrecta": "Chichén Itzá",
-  "cResp1": "Uxmal",
-  "cResp2": "Aké",
-  "cResp3": "Tulum",
-  "cResp4": "Chichén Itzá"
- },
- {
-  "nId": 67,
-  "cPregunta": "Fuente adornada con la estatua de una diosa romana, ubicada en la ciudad de Guadalajara",
-  "cCorrecta": "Glorieta La Minerva",
-  "cResp1": "Hospicio Cabañas",
-  "cResp2": "Fuente de Guadalajara",
-  "cResp3": "Arcos de Guadalajara",
-  "cResp4": "Glorieta La Minerva"
- },
- {
-  "nId": 68,
-  "cPregunta": "Parque que ocupa los terrenos de la antigua Fundidora de Fierro y Acero de Monterrey",
-  "cCorrecta": "Parque Fundidora",
-  "cResp1": "Macroplaza",
-  "cResp2": "Parque San Pedro Garza",
-  "cResp3": "Cerro de la Silla",
-  "cResp4": "Parque Fundidora"
- },
- {
-  "nId": 69,
-  "cPregunta": "Comúnmente llamado Zócalo de la Ciudad de México, lugar donde cada año se lleva a cabo la representación del grito de independencia por el presidente de la república",
-  "cCorrecta": "Plaza de la Constitución",
-  "cResp1": "Explanada de la Ciudad",
-  "cResp2": "Catedral Metropolitana",
-  "cResp3": "Plaza de Independencia",
-  "cResp4": "Plaza de la Constitución"
- },
- {
-  "nId": 70,
-  "cPregunta": "Monumento que fue regalo del pueblo Francés al Estadounidense para conmemorar el centenario de la declaración de Independencia de los Estados Unidos.",
-  "cCorrecta": "Estatua de la Libertad",
-  "cResp1": "Monumento Histórico",
-  "cResp2": "Estatua de la Independencia",
-  "cResp3": "Puente de Brooklyn",
-  "cResp4": "Estatua de la Libertad"
- },
- {
-  "nId": 71,
-  "cPregunta": "Impresionante puente colgante de color rojo ubicado en San Francisco",
-  "cCorrecta": "Golden Gate",
-  "cResp1": "Puente Rojo",
-  "cResp2": "Puente de Brooklyn",
-  "cResp3": "San Francisco Bridge",
-  "cResp4": "Golden Gate"
- },
- {
-  "nId": 72,
-  "cPregunta": "Famosas Letras ubicadas en Los Ángeles California de 14 metros de altura",
-  "cCorrecta": "Letrero de Hollywood",
-  "cResp1": "Letras Gigantes",
-  "cResp2": "Staples Center",
-  "cResp3": "Welcome to LA",
-  "cResp4": "Letrero de Hollywood"
- },
- {
-  "nId": 73,
-  "cPregunta": "Torre de radiodifusión más Alta de América ubicada en Toronto",
-  "cCorrecta": "Torre CN",
-  "cResp1": "Torre Latinoamericana",
-  "cResp2": "Rogers Center",
-  "cResp3": "Radio Canada",
-  "cResp4": "Torre CN"
- },
- {
-  "nId": 74,
-  "cPregunta": "Cataratas situadas en los límites de Canadá y Estados Unidos con una caída aproximada de 51 metros",
-  "cCorrecta": "Cataratas del Niágara",
-  "cResp1": "Cataratas Canadá",
-  "cResp2": "Cataratas de Iguazú",
-  "cResp3": "Cascadas Norteamericanas",
-  "cResp4": "Cataratas del Niágara"
- },
- {
-  "nId": 75,
-  "cPregunta": "Santuario católico dedicado a la Virgen María situado en Ciudad de México",
-  "cCorrecta": "Basílica de Guadalupe",
-  "cResp1": "Catedral de Sal",
-  "cResp2": "Basílica de San Pedro",
-  "cResp3": "Basílica de la Sagrada Familia",
-  "cResp4": "Basílica de Guadalupe"
- },
- {
-  "nId": 76,
-  "cPregunta": "Lugar donde se encuentra la residencia de los reyes de Camboya",
-  "cCorrecta": "Palacio Real de Nom Pen",
-  "cResp1": "La Pagoda Plateada",
-  "cResp2": "Wat Phnom",
-  "cResp3": "Angkor Wat",
-  "cResp4": "Palacio Real de Nom Pen"
- },
- {
-  "nId": 77,
-  "cPregunta": "¿Cuál fue la residencia de los Dalai Lama hasta el año 1959?",
-  "cCorrecta": "Potala",
-  "cResp1": "El Palacio Norbulingka",
-  "cResp2": "Templo de Jokhang",
-  "cResp3": "Gran estupa de Sanchi",
-  "cResp4": "Potala"
- },
- {
-  "nId": 78,
-  "cPregunta": "Monumento construido en Nueva Delhi para conmemorar a los soldados indios que murieron en la Primera Guerra Mundial",
-  "cCorrecta": "Puerta de la India",
-  "cResp1": "El Jama Masjid",
-  "cResp2": "Fuerte Rojo de Nueva Delhi",
-  "cResp3": "Sanchi Stupa",
-  "cResp4": "Puerta de la India"
- },
- {
-  "nId": 79,
-  "cPregunta": "Monumento designado como una de las 7 maravillas del mundo moderno en 2007",
-  "cCorrecta": "Taj Mahal",
-  "cResp1": "Templo del Sol",
-  "cResp2": "Templo de Karni Mata",
-  "cResp3": "Palacio Mysore ",
-  "cResp4": "Taj Mahal"
- },
- {
-  "nId": 80,
-  "cPregunta": "¿Cuál es el monte más alto de Japón?",
-  "cCorrecta": "Monte Fuji",
-  "cResp1": "Monte Hotaka",
-  "cResp2": "Monte Kita",
-  "cResp3": "Monte Ishizuchi",
-  "cResp4": "Monte Fuji"
- },
- {
-  "nId": 81,
-  "cPregunta": "Templo inaugurado el 6 de noviembre de 2005 a las orillas el río Yamuna ",
-  "cCorrecta": "Akshardham",
-  "cResp1": "Templo del loto",
-  "cResp2": "Templo Mahabodhi",
-  "cResp3": "Templo Shri Vrindavan Chandrodaya",
-  "cResp4": "Akshardham"
- },
- {
-  "nId": 82,
-  "cPregunta": "Palacio construido en el año 1799 por el marajá Sawai Pratap Singh",
-  "cCorrecta": "Hawa Mahal",
-  "cResp1": "Palacio del Lago",
-  "cResp2": "Palacio de Falaknuma",
-  "cResp3": "Palacio Bangalore",
-  "cResp4": "Hawa Mahal"
- },
- {
-  "nId": 83,
-  "cPregunta": "Fuerte construido en India en 1156 d.C. por el Rawal Jaisal",
-  "cCorrecta": "Fuerte de Jaisalmer",
-  "cResp1": "Fuerte de Agra",
-  "cResp2": "Fuerte Mehrangarh",
-  "cResp3": "Fuerte Gwalior",
-  "cResp4": "Fuerte de Jaisalmer"
- },
- {
-  "nId": 84,
-  "cPregunta": "Santuario dedicado a los emperadores Kanmu y Kōmei en Kioto",
-  "cCorrecta": "Santuario Heian",
-  "cResp1": "Santuario Senso-ji",
-  "cResp2": "Santuario de Hokokuji ",
-  "cResp3": "Santuarios de Shitennoji",
-  "cResp4": "Santuario Heian"
- },
- {
-  "nId": 85,
-  "cPregunta": "Nombre del templo japonés cuyo significado literal es: agua pura, agua clara o agua limpia",
-  "cCorrecta": "Templo Kiyomizu-dera",
-  "cResp1": "Templo Kinkakuji ",
-  "cResp2": "Templo de Hokokuji",
-  "cResp3": "Templo de Shitennoji ",
-  "cResp4": "Templo Kiyomizu-dera"
- },
- {
-  "nId": 86,
-  "cPregunta": "¿Cuál es el nombre del templo del Buda reclinado?",
-  "cCorrecta": "Wat Pho",
-  "cResp1": "Wat Phra Kaew",
-  "cResp2": "Wat Phra Pathom Chedi",
-  "cResp3": "Wat Phra Sing",
-  "cResp4": "Wat Pho"
- },
- {
-  "nId": 87,
-  "cPregunta": "El templo de Wat Mahathat (Ayutthaya) es también conocido cómo:",
-  "cCorrecta": "Templo de la Gran Reliquia",
-  "cResp1": "Templo del amanecer",
-  "cResp2": "El templo blanco",
-  "cResp3": "Templo del buda reclinado",
-  "cResp4": "Templo de la Gran Reliquia"
- },
- {
-  "nId": 88,
-  "cPregunta": "¿Cuál es el nombre de la playa situada entre la ciudad de Krabi y Ao Nang en el país asiático de Tailandia?",
-  "cCorrecta": "Playa Railay",
-  "cResp1": "Playa Patong",
-  "cResp2": "Playa Ton Sai",
-  "cResp3": "Playa Aow Leuk",
-  "cResp4": "Playa Railay"
- },
- {
-  "nId": 89,
-  "cPregunta": "País que alberga a El Gran Buda Dordenma",
-  "cCorrecta": "Bután",
-  "cResp1": "China",
-  "cResp2": "India",
-  "cResp3": "Tailandia",
-  "cResp4": "Bután"
- },
- {
-  "nId": 90,
-  "cPregunta": "Plaza conocida como La plaza de la Puerta de la Paz Celestial",
-  "cCorrecta": "Plaza de Tiananmén",
-  "cResp1": "Plaza del Pueblo",
-  "cResp2": "Plaza de las Estatuas de la Emperatriz",
-  "cResp3": "Plaza Zhongshan",
-  "cResp4": "Plaza de Tiananmén"
- },
- {
-  "nId": 91,
-  "cPregunta": "Fue la residencia oficial de los emperadores de China desde la dinastía Ming hasta el final de la dinastía Qing ",
-  "cCorrecta": "La Ciudad Prohibida",
-  "cResp1": "el Palacio de Daming",
-  "cResp2": " Palacio de Hanyuan",
-  "cResp3": "Palacio de Zichen",
-  "cResp4": "La Ciudad Prohibida"
- },
- {
-  "nId": 92,
-  "cPregunta": "Fortificación construida para proteger la frontera norte del Imperio chino de los ataques de Mongolia",
-  "cCorrecta": "Gran muralla China",
-  "cResp1": "muralla de Kumbhalgarh",
-  "cResp2": "Muralla de Adriano",
-  "cResp3": "Murallas de Dubrovnik",
-  "cResp4": "Gran muralla China"
- },
- {
-  "nId": 93,
-  "cPregunta": "Nombre del templo construido en china en el año 1420",
-  "cCorrecta": "Templo del cielo",
-  "cResp1": "Templo Jokhang",
-  "cResp2": "Templo de Nanshan",
-  "cResp3": "Templo de Lama",
-  "cResp4": "Templo del cielo"
- },
- {
-  "nId": 94,
-  "cPregunta": "Ciudad china que alberga a los guerreros terracota",
-  "cCorrecta": "Xian",
-  "cResp1": "Tianjin",
-  "cResp2": "Nankín",
-  "cResp3": "Shanghái",
-  "cResp4": "Xian"
- },
- {
-  "nId": 95,
-  "cPregunta": "Nombre del monte cuyo significado literal es Monte del Esplendor",
-  "cCorrecta": "Monte Hua",
-  "cResp1": "Monte Emei",
-  "cResp2": "Monte Tai",
-  "cResp3": "Monte Heng",
-  "cResp4": "Monte Hua"
- },
- {
-  "nId": 96,
-  "cPregunta": "Nombre de los jardines que albergan al Salón Sansui",
-  "cCorrecta": "Jardín Yuyuan",
-  "cResp1": "Jardín del Bosque de Leones",
-  "cResp2": "Jardín Persistente",
-  "cResp3": "Jardín Qinghui",
-  "cResp4": "Jardín Yuyuan"
- },
- {
-  "nId": 97,
-  "cPregunta": "Nombre del edificio cuya traducción literal es Edificio Dorado de la Prosperidad",
-  "cCorrecta": "Torre Jin Mao",
-  "cResp1": "Lippo Center",
-  "cResp2": "Two International Finance",
-  "cResp3": "El plaza 66",
-  "cResp4": "Torre Jin Mao"
- },
- {
-  "nId": 98,
-  "cPregunta": "Nombre del templo construido en 1882 en la ciudad de Shanghái",
-  "cCorrecta": "Templo del Buda de Jade",
-  "cResp1": "Templo Lingyin",
-  "cResp2": "Templo Shaolin",
-  "cResp3": "Templo Colgante",
-  "cResp4": "Templo del Buda de Jade"
- },
- {
-  "nId": 99,
-  "cPregunta": "Nombre del templo que originalmente fue denominado Templo de Zhongdu",
-  "cCorrecta": "Templo de Shuanglin",
-  "cResp1": "Templo Lama",
-  "cResp2": "Templo Puning",
-  "cResp3": "Templo Thean Hou",
-  "cResp4": "Templo de Shuanglin"
- },
- {
-  "nId": 100,
-  "cPregunta": "Nombre de la estatua esculpida en piedra de Buda más alta del mundo",
-  "cCorrecta": "Gran Buda de Leshan",
-  "cResp1": "Gran Buda de Phuket",
-  "cResp2": "Gran Buda de Bodh Gaya",
-  "cResp3": "Buda gigante de las Grutas de Longmen",
-  "cResp4": "Gran Buda de Leshan"
- }
+   {
+      "nId":1,
+      "cPregunta":"La Unesco las incluyó entre los lugares Patrimonio de la Humanidad en 1989",
+      "cCorrecta":"be4060d15cb0df65d54619240c50c1c1",
+      "cResp1":"Las cataratas del Niágara",
+      "cResp2":"Las Cataratas de Iguazú",
+      "cResp3":"Las cataratas Gulfoss",
+      "cResp4":"Las Cataratas Victoria"
+   },
+   {
+      "nId":2,
+      "cPregunta":"Desierto que tiene fama de ser el más antiguo del mundo\n",
+      "cCorrecta":"d7dc21e706eff618affd0724f216764f",
+      "cResp1":"Desierto del Sáhara",
+      "cResp2":"Desierto de Arabia",
+      "cResp3":"Desierto de Chihuahua",
+      "cResp4":"Desierto de Namibia"
+   },
+   {
+      "nId":3,
+      "cPregunta":"Montaña situada en el noreste de Tanzania, formada por tres volcanes inactivos",
+      "cCorrecta":"0e62a46a66670f6be8c363aecbb17467",
+      "cResp1":"K2",
+      "cResp2":"Denali",
+      "cResp3":"Monte Elbrús",
+      "cResp4":"El kilimanjaro\n"
+   },
+   {
+      "nId":4,
+      "cPregunta":"Golfo o cuenca del océano índico entre África y Asia",
+      "cCorrecta":"e236620ca4fa41d3ec0f0ed0c94e1ada",
+      "cResp1":"El mar índico",
+      "cResp2":"El mar Ártico\n",
+      "cResp3":"El mar Caribe",
+      "cResp4":"El mar rojo\n"
+   },
+   {
+      "nId":5,
+      "cPregunta":"Es una de las nueve provincias de Sudáfrica, cuya capital es Ciudad del Cabo\n",
+      "cCorrecta":"03dae0e4bec38ed5062c3ceff67de662",
+      "cResp1":"El Cabo San Lucas",
+      "cResp2":"Los Cabos\n",
+      "cResp3":"Cabo de Finisterre",
+      "cResp4":"El Cabo Occidental\n"
+   },
+   {
+      "nId":6,
+      "cPregunta":"Ubicado apenas 150 kilómetros de Nairobi, la capital de Kenia",
+      "cCorrecta":"49b65536953ca1c7aaedd87d2d50a549",
+      "cResp1":"Lago de Yuriria\n",
+      "cResp2":"Lago Ness\n",
+      "cResp3":"Lago Taal",
+      "cResp4":"Lago Nakuru"
+   },
+   {
+      "nId":7,
+      "cPregunta":"Nace en Angola, pasa por Namibia y desemboca en Botswana",
+      "cCorrecta":"4087ada3f72a1be59a02e2b2bd7e0c62",
+      "cResp1":"Delta del Danubio",
+      "cResp2":"Delta del Paraná",
+      "cResp3":"Delta del Mekong",
+      "cResp4":"Delta del Okavango"
+   },
+   {
+      "nId":8,
+      "cPregunta":"Parque Nacional situado en la región Melaky",
+      "cCorrecta":"df01edf82e5f6a17439cd99d88076a49",
+      "cResp1":"Parque Nacional El Chico\n",
+      "cResp2":"Parque Nacional de Banff\n",
+      "cResp3":"Parque Stanley",
+      "cResp4":"Parque Nacional Tsingy de Bemaraha\n"
+   },
+   {
+      "nId":9,
+      "cPregunta":"Supera los 6,800 kilómetros de longitud",
+      "cCorrecta":"e2089b53bb42906144be3e02f220d738",
+      "cResp1":"Danubio\n",
+      "cResp2":"Rin\n",
+      "cResp3":"Amazonas",
+      "cResp4":"Nilo"
+   },
+   {
+      "nId":10,
+      "cPregunta":"Desierto turístico muy visitado en Marruecos\n",
+      "cCorrecta":"cf04d39f4f6a1de9b9586851ab8fb347",
+      "cResp1":"Desierto Ártico\n",
+      "cResp2":"Desierto Árabe\n",
+      "cResp3":"Kyzylkum",
+      "cResp4":"Erg Chebbi\n"
+   },
+   {
+      "nId":11,
+      "cPregunta":"Es la isla más grande de África y la cuarta más grande del mundo\n",
+      "cCorrecta":"0e00bd4a7f5b0802b528fc0f09392041",
+      "cResp1":"Kodiak",
+      "cResp2":"Paros\n",
+      "cResp3":"Tasos",
+      "cResp4":"Madagascar\n"
+   },
+   {
+      "nId":12,
+      "cPregunta":"Construidas como criptas reales para los faraones desde el año 3000 a.C",
+      "cCorrecta":"4c785541603ece05d7962b44f2b9ac57",
+      "cResp1":"Catacumbas",
+      "cResp2":"Pirámide de Maslow\n",
+      "cResp3":"Pirámides de Tajín",
+      "cResp4":"Pirámides de Egipto"
+   },
+   {
+      "nId":13,
+      "cPregunta":"Importante centro de peregrinación al norte de Etiopía",
+      "cCorrecta":"5c7338af1f9bd2692a5fe946789ffb14",
+      "cResp1":"Tanzania",
+      "cResp2":"Santuario Marino",
+      "cResp3":"Spirit Rock",
+      "cResp4":"Lalibela"
+   },
+   {
+      "nId":14,
+      "cPregunta":"Nación insular en el océano Índico, conocida por sus playas, lagunas y arrecifes",
+      "cCorrecta":"07e9fa6b29e1ed44889b1b9cc89151e7",
+      "cResp1":"Islas Azores",
+      "cResp2":"Islas Bora Bora",
+      "cResp3":"Islas La digue",
+      "cResp4":"Isla Mauricio"
+   },
+   {
+      "nId":15,
+      "cPregunta":"Ocupa los alrededores de la falla de Bandiagara",
+      "cCorrecta":"011e3ed450d10d4f93c477189db6a9ce",
+      "cResp1":"Falla de San Andrés\n",
+      "cResp2":"Falla de Motagua\n",
+      "cResp3":"Dresde",
+      "cResp4":"País Dogón\n"
+   },
+   {
+      "nId":16,
+      "cPregunta":"Es la mayor ciudad del mundo árabe\n",
+      "cCorrecta":"8cc9e2b4a5456ed88d4553520101504d",
+      "cResp1":"París\n",
+      "cResp2":"Berlín",
+      "cResp3":"Dinamarca",
+      "cResp4":"El cairo\n"
+   },
+   {
+      "nId":17,
+      "cPregunta":"La ciudad más grande y poblada de Sudáfrica",
+      "cCorrecta":"2bf480270619b09dc68d59934e0f0dba",
+      "cResp1":"Tavira",
+      "cResp2":"Évora",
+      "cResp3":"Colonia",
+      "cResp4":"Johannesburgo"
+   },
+   {
+      "nId":18,
+      "cPregunta":"Su nombre oficial es República Tunecina",
+      "cCorrecta":"d7b5c7c2b7fdf8dec4ffa09c1cf50577",
+      "cResp1":"República del Salvador\n",
+      "cResp2":"República Dominicana\n",
+      "cResp3":"República de Uruguay",
+      "cResp4":"Túnez\n"
+   },
+   {
+      "nId":19,
+      "cPregunta":"Isla ubicada en la República Unida de Tanzania",
+      "cCorrecta":"091fb467938a45902aa8bff9c5f86007",
+      "cResp1":"Santorini\n",
+      "cResp2":"Maui\n",
+      "cResp3":"Marshall",
+      "cResp4":"Atolón Mnemba\n"
+   },
+   {
+      "nId":20,
+      "cPregunta":"Es la capital de Namibia",
+      "cCorrecta":"bc9c5de068783be79c1ea145367106c1",
+      "cResp1":"Kiev",
+      "cResp2":"Budapest\n",
+      "cResp3":"Berlín",
+      "cResp4":"WIndhoek\n"
+   },
+   {
+      "nId":21,
+      "cPregunta":"País que antiguamente se le conocía como Nyasalandia",
+      "cCorrecta":"2f1f0f17b632481c857a152644cd6df9",
+      "cResp1":"Moldavia\n",
+      "cResp2":"Serbia\n",
+      "cResp3":"Finlandia",
+      "cResp4":"Malawi\n"
+   },
+   {
+      "nId":22,
+      "cPregunta":"Capital y principal ciudad de Angola",
+      "cCorrecta":"2d20c677063489ac1dd757cddfc62ed0",
+      "cResp1":"Hong Kong",
+      "cResp2":"Israel",
+      "cResp3":"Kiev",
+      "cResp4":"Luanda"
+   },
+   {
+      "nId":23,
+      "cPregunta":"Monumental escultura que se encuentra en la ribera occidental del río Nilo",
+      "cCorrecta":"166487b60e664d041b0c5a60a73ef635",
+      "cResp1":"David\n",
+      "cResp2":"Venus de Milio",
+      "cResp3":"Cristo Redentor",
+      "cResp4":"La gran esfinge de Guiza"
+   },
+   {
+      "nId":24,
+      "cPregunta":"Se localiza en la ciudad de Acra, en Ghana",
+      "cCorrecta":"c238d15c00f4224e57c9e68d78cd0bca",
+      "cResp1":"Kempala",
+      "cResp2":"Argel",
+      "cResp3":"Almaty",
+      "cResp4":"Arco de la independencia\n"
+   },
+   {
+      "nId":25,
+      "cPregunta":"Templo construido por Ramsés II para conmemorar su victoria en la batalla de Kadesh",
+      "cCorrecta":"952b43b1c7a1e0babfe8955777d10d5d",
+      "cResp1":"Templo de Buda",
+      "cResp2":"Templo del Loto",
+      "cResp3":"Pabellón Dorado",
+      "cResp4":"Abu Simbel"
+   },
+   {
+      "nId":26,
+      "cPregunta":"Anfiteatro de la época del imperio romano construido en el siglo I",
+      "cCorrecta":"8b9985ba27a4b2ed028ba0b2f60e5b97",
+      "cResp1":"Palacio de Bellas Artes",
+      "cResp2":"Teatro Creta",
+      "cResp3":"Palacio de Minería",
+      "cResp4":"Coliseo de Roma"
+   },
+   {
+      "nId":27,
+      "cPregunta":"Templo católico diseñado por el arquitecto Antoni Gaudí",
+      "cCorrecta":"42b057f355c2fea4089cff487b4b1fb7",
+      "cResp1":"Basílica de Guadalupe",
+      "cResp2":"Catedral de Madrid",
+      "cResp3":"Basílica de San Pedro",
+      "cResp4":"Basílica de la Sagrada Familia"
+   },
+   {
+      "nId":28,
+      "cPregunta":"Museo francés ubicado en París cuya apertura fue en 1793",
+      "cCorrecta":"7fbc6763abd003862dffc1f86213bc4c",
+      "cResp1":"Museo Nacional de Francia\n",
+      "cResp2":"Museo Oui\n",
+      "cResp3":"Museo de París",
+      "cResp4":"Museo del Louvre"
+   },
+   {
+      "nId":29,
+      "cPregunta":"Catedral francesa de estilo gótico edificada de 1163 a 1260",
+      "cCorrecta":"996e8178045d111517855246d0b47f51",
+      "cResp1":"Catedral de Colonia",
+      "cResp2":"Catedral de María",
+      "cResp3":"Catedral de Salamanca",
+      "cResp4":"Catedral de Notre Dame"
+   },
+   {
+      "nId":30,
+      "cPregunta":"Torre francesa inicialmente llamada Tour de 300 mètres",
+      "cCorrecta":"2ebf751bdd1bd0501fb845982382a6ee",
+      "cResp1":"Torre de Pisa",
+      "cResp2":"Torre de Francia",
+      "cResp3":"Torre Mont",
+      "cResp4":"Torre Eiffel\n"
+   },
+   {
+      "nId":31,
+      "cPregunta":"Nombre con el que se le conoce a la gran campana del reloj situado en el Palacio de Westminster",
+      "cCorrecta":"984a5a7e39621964bdd238a5369aec5f",
+      "cResp1":"Westminster",
+      "cResp2":"Campana de Londres",
+      "cResp3":"Torre de Reloj",
+      "cResp4":"Big Ben"
+   },
+   {
+      "nId":32,
+      "cPregunta":"Cadena de montañas situada en Europa Central cuya cumbre más alta lleva el nombre de Mont Blanc",
+      "cCorrecta":"348342cc8b499549265fcf0c26965ad5",
+      "cResp1":"Santorini\n",
+      "cResp2":"Himalaya",
+      "cResp3":"Nepal",
+      "cResp4":"Los Alpes"
+   },
+   {
+      "nId":33,
+      "cPregunta":"Archipiélago noruego situado por encima del círculo polar ártico",
+      "cCorrecta":"0af49d36a912c495548604a39d243592",
+      "cResp1":"Islas Pigargos",
+      "cResp2":"Triángulo de las Bermudas",
+      "cResp3":"La Digue",
+      "cResp4":"Islas Loften"
+   },
+   {
+      "nId":34,
+      "cPregunta":"Canal que recorre Venecia trazando una S",
+      "cCorrecta":"ea5d1d36618f25094ba25a86645b0def",
+      "cResp1":"Canal S de Venecia",
+      "cResp2":"Canal Muérdago",
+      "cResp3":"Río Nilo",
+      "cResp4":"Gran canal de Venecia"
+   },
+   {
+      "nId":35,
+      "cPregunta":"Lago situado en las Tierras Altas de Escocia",
+      "cCorrecta":"e64273bd9fc5341789c5b4e1531c9fb7",
+      "cResp1":"Lago Lof\n",
+      "cResp2":"Lago Alto\n",
+      "cResp3":"Lago Taal",
+      "cResp4":"Lago Ness"
+   },
+   {
+      "nId":36,
+      "cPregunta":"Parque de atracciones situado en Copenhague, Dinamarca",
+      "cCorrecta":"f13f91a7426cc905adf8751d87f7008f",
+      "cResp1":"Jardines de México",
+      "cResp2":"Rotonda de Dinamarca",
+      "cResp3":"Parque Copenhague",
+      "cResp4":"Jardines de Tivoli"
+   },
+   {
+      "nId":37,
+      "cPregunta":"Es la entrada a Berlín y uno de los principales símbolos de Alemania",
+      "cCorrecta":"e88f176f0f2a099a965f2ae3c820470a",
+      "cResp1":"Arco del Triunfo",
+      "cResp2":"Puerta de la Ciudad",
+      "cResp3":"Monumento a la Revolución",
+      "cResp4":"Puerta de Brandeburgo"
+   },
+   {
+      "nId":38,
+      "cPregunta":"Puente basculante y colgante de Londres construido entre 1886 y 1894",
+      "cCorrecta":"60eea6b69e65b54db83d7ea4a26b29ce",
+      "cResp1":"Puente de las Cadenas",
+      "cResp2":"Puente Don Luis I",
+      "cResp3":"Puente Mostar",
+      "cResp4":"Puente de la Torre"
+   },
+   {
+      "nId":39,
+      "cPregunta":"Palacio ubicado en la región Isla de Francia creado por Luis XIV",
+      "cCorrecta":"ad08826ac1f1522d634411d067b7a052",
+      "cResp1":"Palacio de Bellas Artes",
+      "cResp2":"Palacio Mont",
+      "cResp3":"Palacio de Minería",
+      "cResp4":"Palacio de Versalles"
+   },
+   {
+      "nId":40,
+      "cPregunta":"Torre inclinada situada en Italia",
+      "cCorrecta":"215a741253a9c3ee6b7d62168db50223",
+      "cResp1":"Torre Eiffel\n",
+      "cResp2":"Torre Roma",
+      "cResp3":"Torre Renacentista",
+      "cResp4":"Torre de Pisa\n"
+   },
+   {
+      "nId":41,
+      "cPregunta":"Es la capital europea más poblada",
+      "cCorrecta":"8ab89673b24ece286d94eca923fb551d",
+      "cResp1":"París\n",
+      "cResp2":"Londres\n",
+      "cResp3":"Madrid",
+      "cResp4":"Moscú"
+   },
+   {
+      "nId":42,
+      "cPregunta":"Ciudad más pequeña de Europa",
+      "cCorrecta":"4a15787b3c4bd964e2c840085f5de8ab",
+      "cResp1":"San Marino\n",
+      "cResp2":"Creta",
+      "cResp3":"Interlaken",
+      "cResp4":"Ciudad del Vaticano"
+   },
+   {
+      "nId":43,
+      "cPregunta":"Ciudad poblada más antigua de Europa",
+      "cCorrecta":"33cb995aca7c6fc0f920a6428e1c6a3c",
+      "cResp1":"Salamanca",
+      "cResp2":"Sofía",
+      "cResp3":"Palermo",
+      "cResp4":"Cádiz"
+   },
+   {
+      "nId":44,
+      "cPregunta":"Ciudad en Europa que se considera la puerta de entrada a Asia",
+      "cCorrecta":"4eb4ddaa39198ae15470adab93d357de",
+      "cResp1":"Ankara",
+      "cResp2":"Bursa\n",
+      "cResp3":"Brujas",
+      "cResp4":"Estambul"
+   },
+   {
+      "nId":45,
+      "cPregunta":"Capital de Portugal",
+      "cCorrecta":"9b643420ea438dc4825a5e74470e4222",
+      "cResp1":"Braga",
+      "cResp2":"Faro\n",
+      "cResp3":"Lagos",
+      "cResp4":"Lisboa"
+   },
+   {
+      "nId":46,
+      "cPregunta":"Capital de Noruega",
+      "cCorrecta":"f4830432874f86d2e2a1a5f2dbebbc80",
+      "cResp1":"Estocolmo",
+      "cResp2":"Berna",
+      "cResp3":"Praga",
+      "cResp4":"Oslo"
+   },
+   {
+      "nId":47,
+      "cPregunta":"Parque público de 47 hectáreas situado en la ciudad de Ámsterdam",
+      "cCorrecta":"2b55fa8fae80bdb822416d0030730957",
+      "cResp1":"Jordaan",
+      "cResp2":"Leidseplein",
+      "cResp3":"Parque de los Venados",
+      "cResp4":"Vondelpark"
+   },
+   {
+      "nId":48,
+      "cPregunta":"Museo representativo de España situado en Madrid",
+      "cCorrecta":"4bfc8af36b24e541acbae5fc710a6e29",
+      "cResp1":"Museo del Louvre\n",
+      "cResp2":"Museo Van Gogh\n",
+      "cResp3":"Museo de Sevilla",
+      "cResp4":"Museo Nacional del Prado"
+   },
+   {
+      "nId":49,
+      "cPregunta":"Paseo de la ciudad de Barcelona que discurre entre la plaza de Cataluña y el puerto antiguo",
+      "cCorrecta":"7cf0f57b9591e18df8f247f656544e4b",
+      "cResp1":"Paseo de España",
+      "cResp2":"Paseo de la Reforma",
+      "cResp3":"Las Rejas",
+      "cResp4":"Las Ramblas"
+   },
+   {
+      "nId":50,
+      "cPregunta":"Residencia oficial del monarca británico en Londres",
+      "cCorrecta":"7e80fb59e54ec7113a239c51a45633e8",
+      "cResp1":"Palacio de Bellas Artes",
+      "cResp2":"Palacio Mont",
+      "cResp3":"Palacio de Versalles",
+      "cResp4":"Palacio de Buckingham"
+   },
+   {
+      "nId":51,
+      "cPregunta":"Está rodeado por 3 volcanes y es el lago más profundo de Centroamérica",
+      "cCorrecta":"cf3fc6df485f6c0d5fd615b0ea8c6a4e",
+      "cResp1":"Lago de Izabal",
+      "cResp2":"Lago de Ilopango",
+      "cResp3":"Lago Arenal",
+      "cResp4":"Lago Atitlán"
+   },
+   {
+      "nId":52,
+      "cPregunta":"Es el símbolo de la ciudad del antiguo Imperio Inca",
+      "cCorrecta":"cbbc03fbe1dc7050810b36efd539500a",
+      "cResp1":"Inca Trail",
+      "cResp2":"Uxmal",
+      "cResp3":"Tikal",
+      "cResp4":"Machu Picchu"
+   },
+   {
+      "nId":53,
+      "cPregunta":"Es el desierto de sal más grande de todo el mundo, donde el cielo y la tierra se mezclan",
+      "cCorrecta":"91cf3cc9cb31235dfca8ca2df0dc13e6",
+      "cResp1":"Desierto de Gobi",
+      "cResp2":"Desierto de Sonora",
+      "cResp3":"Desierto de Sal",
+      "cResp4":"Salar de Uyuni"
+   },
+   {
+      "nId":54,
+      "cPregunta":"Espectaculares cataratas localizadas en los límites de Brasil y Argentina",
+      "cCorrecta":"e3772f8d83e79b588fa3120a6e1375e8",
+      "cResp1":"Salto Angel",
+      "cResp2":"Cataratas del Niágara",
+      "cResp3":"American Falls",
+      "cResp4":"Cataratas del Iguazú"
+   },
+   {
+      "nId":55,
+      "cPregunta":"Casa de las impresionantes Estatuas \"Moai\"",
+      "cCorrecta":"ca2985257522fe22d599bd744f021d01",
+      "cResp1":"Cueva de las Manos",
+      "cResp2":"Huacas de Moche",
+      "cResp3":"Machu Picchu",
+      "cResp4":"Isla de Pascua"
+   },
+   {
+      "nId":56,
+      "cPregunta":"Iglesia estilo neogótico construida a 50 metros de altura sobre el río Guáitara, declarada la segunda maravilla de Colombia",
+      "cCorrecta":"9cfa6e08af66304766258a42f5f765af",
+      "cResp1":"Catedral de Sal",
+      "cResp2":"Catedral Manizales",
+      "cResp3":"Santuario Guáitara",
+      "cResp4":"Santuario de las Lajas "
+   },
+   {
+      "nId":57,
+      "cPregunta":"Estatua de Jesús de Nazaret que te recibe con los brazos abiertos en Río de Janeiro",
+      "cCorrecta":"9ffab25d9e800462fe63017a6d69eb26",
+      "cResp1":"Cristo Rey",
+      "cResp2":"Cristo de la Concordia",
+      "cResp3":"Estatua del Rey",
+      "cResp4":"Cristo del Corcovado"
+   },
+   {
+      "nId":58,
+      "cPregunta":"Mayor emblema de la ciudad de Argentina construido para recordar el cuarto centenario de la fundación de Buenos Aires",
+      "cCorrecta":"5d4bc744eb0e8ad93d3b00495a12d677",
+      "cResp1":"Estatua de la Libertad",
+      "cResp2":"Escultura a Buenos Aires",
+      "cResp3":"Plaza de Mayo",
+      "cResp4":"Obelisco de Argentina"
+   },
+   {
+      "nId":59,
+      "cPregunta":"Conjunto de islas conocidas por sus numerosas especies endémicas y por los estudios de Charles Darwin sobre la teoría de la evolución",
+      "cCorrecta":"65ab3a42e4cd66b58de33a3c20d0fa7f",
+      "cResp1":"Islas Colón",
+      "cResp2":"Islas del Coco",
+      "cResp3":"Guanaja",
+      "cResp4":"Islas Galápagos"
+   },
+   {
+      "nId":60,
+      "cPregunta":"Selva tropical más grande del mundo que suministra humedad a todo Sudamérica",
+      "cCorrecta":"de064f1e3f6d745e93dbacb96d3fad5b",
+      "cResp1":"Selva Sudamericana",
+      "cResp2":"Selva del Congo",
+      "cResp3":"Monteverde",
+      "cResp4":"Selva del Amazonas"
+   },
+   {
+      "nId":61,
+      "cPregunta":"Canal de navegación ubicado en el Mar Caribe y el Océano Pacífico que atraviesa el punto más estrecho del istmo de Panamá",
+      "cCorrecta":"9e33ec150544b50eeed9e532eb80a508",
+      "cResp1":"Canal Interoceánico",
+      "cResp2":"Ruta del Comercio",
+      "cResp3":"Canal del Istmo",
+      "cResp4":"Canal de Panamá"
+   },
+   {
+      "nId":62,
+      "cPregunta":"Volcán ubicado en el distrito de la Fortuna en Costa Rica",
+      "cCorrecta":"a5344678b9f3edfc5276eb3832d39ef8",
+      "cResp1":"Volcán Poas",
+      "cResp2":"Volcán Irazú",
+      "cResp3":"Volcán Turrialba",
+      "cResp4":"Volcán Arenal"
+   },
+   {
+      "nId":63,
+      "cPregunta":"Isla ubicada en el vasto lago de Nicaragua conocida por sus volcanes gemelos",
+      "cCorrecta":"e53c75fe6b260589e4c49bcf22f02185",
+      "cResp1":"Popoyo",
+      "cResp2":"Isla Nicaragua",
+      "cResp3":"Isla de los volcanes",
+      "cResp4":"Ometepe"
+   },
+   {
+      "nId":64,
+      "cPregunta":"Plaza central de la capital de Honduras",
+      "cCorrecta":"f3f856e6978ea50e9949f8a6dc76b1f7",
+      "cResp1":"Plaza Suyapa",
+      "cResp2":"La Gruta",
+      "cResp3":"Plaza Central",
+      "cResp4":"Plaza Los Dolores"
+   },
+   {
+      "nId":65,
+      "cPregunta":"Columna que se encuentra en la Ciudad de México creada para conmemorar el centenario de la independencia de México",
+      "cCorrecta":"94ee70c0298c8f23f5bdf6e190169d58",
+      "cResp1":"Torre Independencia",
+      "cResp2":"Monumento a la Revolución",
+      "cResp3":"Torre de Satélite",
+      "cResp4":"Ángel de la Independencia"
+   },
+   {
+      "nId":66,
+      "cPregunta":"Legendaria ciudad maya declarada patrimonio de la humanidad en 1988 ubicada en la península de Yucatán",
+      "cCorrecta":"77175b9bd1affaaa1b22c2b84d88cd59",
+      "cResp1":"Uxmal",
+      "cResp2":"Aké",
+      "cResp3":"Tulum",
+      "cResp4":"Chichén Itzá"
+   },
+   {
+      "nId":67,
+      "cPregunta":"Fuente adornada con la estatua de una diosa romana, ubicada en la ciudad de Guadalajara",
+      "cCorrecta":"40e60a3ad2d5dff89cb2ce4c85e5f5b0",
+      "cResp1":"Hospicio Cabañas",
+      "cResp2":"Fuente de Guadalajara",
+      "cResp3":"Arcos de Guadalajara",
+      "cResp4":"Glorieta La Minerva"
+   },
+   {
+      "nId":68,
+      "cPregunta":"Parque que ocupa los terrenos de la antigua Fundidora de Fierro y Acero de Monterrey",
+      "cCorrecta":"3d19d58934d265e2143ae1aad83c0b9c",
+      "cResp1":"Macroplaza",
+      "cResp2":"Parque San Pedro Garza",
+      "cResp3":"Cerro de la Silla",
+      "cResp4":"Parque Fundidora"
+   },
+   {
+      "nId":69,
+      "cPregunta":"Comúnmente llamado Zócalo de la Ciudad de México, lugar donde cada año se lleva a cabo la representación del grito de independencia por el presidente de la república",
+      "cCorrecta":"fc4315dddad33a76b7382bb4e5711bb3",
+      "cResp1":"Explanada de la Ciudad",
+      "cResp2":"Catedral Metropolitana",
+      "cResp3":"Plaza de Independencia",
+      "cResp4":"Plaza de la Constitución"
+   },
+   {
+      "nId":70,
+      "cPregunta":"Monumento que fue regalo del pueblo Francés al Estadounidense para conmemorar el centenario de la declaración de Independencia de los Estados Unidos.",
+      "cCorrecta":"aec05bfe3707f8f6514d20faa30f5e8e",
+      "cResp1":"Monumento Histórico",
+      "cResp2":"Estatua de la Independencia",
+      "cResp3":"Puente de Brooklyn",
+      "cResp4":"Estatua de la Libertad"
+   },
+   {
+      "nId":71,
+      "cPregunta":"Impresionante puente colgante de color rojo ubicado en San Francisco",
+      "cCorrecta":"479421eeae7e34467576f7023d8c093b",
+      "cResp1":"Puente Rojo",
+      "cResp2":"Puente de Brooklyn",
+      "cResp3":"San Francisco Bridge",
+      "cResp4":"Golden Gate"
+   },
+   {
+      "nId":72,
+      "cPregunta":"Famosas Letras ubicadas en Los Ángeles California de 14 metros de altura",
+      "cCorrecta":"733930cdc6da1117c8fcddcf07a3f2fe",
+      "cResp1":"Letras Gigantes",
+      "cResp2":"Staples Center",
+      "cResp3":"Welcome to LA",
+      "cResp4":"Letrero de Hollywood"
+   },
+   {
+      "nId":73,
+      "cPregunta":"Torre de radiodifusión más Alta de América ubicada en Toronto",
+      "cCorrecta":"c97fb2d2351910bae0c77b16a84e0ecc",
+      "cResp1":"Torre Latinoamericana",
+      "cResp2":"Rogers Center",
+      "cResp3":"Radio Canada",
+      "cResp4":"Torre CN"
+   },
+   {
+      "nId":74,
+      "cPregunta":"Cataratas situadas en los límites de Canadá y Estados Unidos con una caída aproximada de 51 metros",
+      "cCorrecta":"cbb8e366a68dd6d903841289665c0c68",
+      "cResp1":"Cataratas Canadá",
+      "cResp2":"Cataratas de Iguazú",
+      "cResp3":"Cascadas Norteamericanas",
+      "cResp4":"Cataratas del Niágara"
+   },
+   {
+      "nId":75,
+      "cPregunta":"Santuario católico dedicado a la Virgen María situado en Ciudad de México",
+      "cCorrecta":"36655a9559b822ff1cee52fa756d3b87",
+      "cResp1":"Catedral de Sal",
+      "cResp2":"Basílica de San Pedro",
+      "cResp3":"Basílica de la Sagrada Familia",
+      "cResp4":"Basílica de Guadalupe"
+   },
+   {
+      "nId":76,
+      "cPregunta":"Lugar donde se encuentra la residencia de los reyes de Camboya",
+      "cCorrecta":"25de0dee639f40aab36452417fe86a7f",
+      "cResp1":"La Pagoda Plateada",
+      "cResp2":"Wat Phnom",
+      "cResp3":"Angkor Wat",
+      "cResp4":"Palacio Real de Nom Pen"
+   },
+   {
+      "nId":77,
+      "cPregunta":"¿Cuál fue la residencia de los Dalai Lama hasta el año 1959?",
+      "cCorrecta":"3d373f3a05b943f469bb07ed97165852",
+      "cResp1":"El Palacio Norbulingka",
+      "cResp2":"Templo de Jokhang",
+      "cResp3":"Gran estupa de Sanchi",
+      "cResp4":"Potala"
+   },
+   {
+      "nId":78,
+      "cPregunta":"Monumento construido en Nueva Delhi para conmemorar a los soldados indios que murieron en la Primera Guerra Mundial",
+      "cCorrecta":"fd8868cd4d106c2620c0db527b75ef23",
+      "cResp1":"El Jama Masjid",
+      "cResp2":"Fuerte Rojo de Nueva Delhi",
+      "cResp3":"Sanchi Stupa",
+      "cResp4":"Puerta de la India"
+   },
+   {
+      "nId":79,
+      "cPregunta":"Monumento designado como una de las 7 maravillas del mundo moderno en 2007",
+      "cCorrecta":"3e80128381a093793bee8eff272c5a9d",
+      "cResp1":"Templo del Sol",
+      "cResp2":"Templo de Karni Mata",
+      "cResp3":"Palacio Mysore ",
+      "cResp4":"Taj Mahal"
+   },
+   {
+      "nId":80,
+      "cPregunta":"¿Cuál es el monte más alto de Japón?",
+      "cCorrecta":"572851dd2662cf824e35ace5783ff781",
+      "cResp1":"Monte Hotaka",
+      "cResp2":"Monte Kita",
+      "cResp3":"Monte Ishizuchi",
+      "cResp4":"Monte Fuji"
+   },
+   {
+      "nId":81,
+      "cPregunta":"Templo inaugurado el 6 de noviembre de 2005 a las orillas el río Yamuna ",
+      "cCorrecta":"c99c07998cc28b5b004be500a6d2674b",
+      "cResp1":"Templo del loto",
+      "cResp2":"Templo Mahabodhi",
+      "cResp3":"Templo Shri Vrindavan Chandrodaya",
+      "cResp4":"Akshardham"
+   },
+   {
+      "nId":82,
+      "cPregunta":"Palacio construido en el año 1799 por el marajá Sawai Pratap Singh",
+      "cCorrecta":"7af2e55f9d3bb0f842dd8b12dfc7b9e7",
+      "cResp1":"Palacio del Lago",
+      "cResp2":"Palacio de Falaknuma",
+      "cResp3":"Palacio Bangalore",
+      "cResp4":"Hawa Mahal"
+   },
+   {
+      "nId":83,
+      "cPregunta":"Fuerte construido en India en 1156 d.C. por el Rawal Jaisal",
+      "cCorrecta":"578c48a12714ec81fd9320665b86cfcd",
+      "cResp1":"Fuerte de Agra",
+      "cResp2":"Fuerte Mehrangarh",
+      "cResp3":"Fuerte Gwalior",
+      "cResp4":"Fuerte de Jaisalmer"
+   },
+   {
+      "nId":84,
+      "cPregunta":"Santuario dedicado a los emperadores Kanmu y Kōmei en Kioto",
+      "cCorrecta":"d6d9bcd3ccf4b033e2d8b1d2c64fdd1a",
+      "cResp1":"Santuario Senso-ji",
+      "cResp2":"Santuario de Hokokuji ",
+      "cResp3":"Santuarios de Shitennoji",
+      "cResp4":"Santuario Heian"
+   },
+   {
+      "nId":85,
+      "cPregunta":"Nombre del templo japonés cuyo significado literal es: agua pura, agua clara o agua limpia",
+      "cCorrecta":"b7dabc1d97b9e70989fad7642564aa1b",
+      "cResp1":"Templo Kinkakuji ",
+      "cResp2":"Templo de Hokokuji",
+      "cResp3":"Templo de Shitennoji ",
+      "cResp4":"Templo Kiyomizu-dera"
+   },
+   {
+      "nId":86,
+      "cPregunta":"¿Cuál es el nombre del templo del Buda reclinado?",
+      "cCorrecta":"7e9bdc153ebe22910a1ee133a5ebe968",
+      "cResp1":"Wat Phra Kaew",
+      "cResp2":"Wat Phra Pathom Chedi",
+      "cResp3":"Wat Phra Sing",
+      "cResp4":"Wat Pho"
+   },
+   {
+      "nId":87,
+      "cPregunta":"El templo de Wat Mahathat (Ayutthaya) es también conocido cómo:",
+      "cCorrecta":"bd38d2fda4cbee58c5fe8b53f2079f39",
+      "cResp1":"Templo del amanecer",
+      "cResp2":"El templo blanco",
+      "cResp3":"Templo del buda reclinado",
+      "cResp4":"Templo de la Gran Reliquia"
+   },
+   {
+      "nId":88,
+      "cPregunta":"¿Cuál es el nombre de la playa situada entre la ciudad de Krabi y Ao Nang en el país asiático de Tailandia?",
+      "cCorrecta":"32a3bc028a73c444472b14a8dea856fb",
+      "cResp1":"Playa Patong",
+      "cResp2":"Playa Ton Sai",
+      "cResp3":"Playa Aow Leuk",
+      "cResp4":"Playa Railay"
+   },
+   {
+      "nId":89,
+      "cPregunta":"País que alberga a El Gran Buda Dordenma",
+      "cCorrecta":"0878902843a2083df04ced8d299364e2",
+      "cResp1":"China",
+      "cResp2":"India",
+      "cResp3":"Tailandia",
+      "cResp4":"Bután"
+   },
+   {
+      "nId":90,
+      "cPregunta":"Plaza conocida como La plaza de la Puerta de la Paz Celestial",
+      "cCorrecta":"d7a0b471027654233e200bfd4512677d",
+      "cResp1":"Plaza del Pueblo",
+      "cResp2":"Plaza de las Estatuas de la Emperatriz",
+      "cResp3":"Plaza Zhongshan",
+      "cResp4":"Plaza de Tiananmén"
+   },
+   {
+      "nId":91,
+      "cPregunta":"Fue la residencia oficial de los emperadores de China desde la dinastía Ming hasta el final de la dinastía Qing ",
+      "cCorrecta":"6269f12cf417af68a2ad920f2c31e9a3",
+      "cResp1":"el Palacio de Daming",
+      "cResp2":" Palacio de Hanyuan",
+      "cResp3":"Palacio de Zichen",
+      "cResp4":"La Ciudad Prohibida"
+   },
+   {
+      "nId":92,
+      "cPregunta":"Fortificación construida para proteger la frontera norte del Imperio chino de los ataques de Mongolia",
+      "cCorrecta":"1dd3d9e0b09eeff985eed2169b1fb6e4",
+      "cResp1":"muralla de Kumbhalgarh",
+      "cResp2":"Muralla de Adriano",
+      "cResp3":"Murallas de Dubrovnik",
+      "cResp4":"Gran muralla China"
+   },
+   {
+      "nId":93,
+      "cPregunta":"Nombre del templo construido en china en el año 1420",
+      "cCorrecta":"a3b2ad10217d7b9c06d69b079c4049cc",
+      "cResp1":"Templo Jokhang",
+      "cResp2":"Templo de Nanshan",
+      "cResp3":"Templo de Lama",
+      "cResp4":"Templo del cielo"
+   },
+   {
+      "nId":94,
+      "cPregunta":"Ciudad china que alberga a los guerreros terracota",
+      "cCorrecta":"0161bb061215dd12cf010e11e2031971",
+      "cResp1":"Tianjin",
+      "cResp2":"Nankín",
+      "cResp3":"Shanghái",
+      "cResp4":"Xian"
+   },
+   {
+      "nId":95,
+      "cPregunta":"Nombre del monte cuyo significado literal es Monte del Esplendor",
+      "cCorrecta":"25d759f225906b106008d43fd3d9cfd3",
+      "cResp1":"Monte Emei",
+      "cResp2":"Monte Tai",
+      "cResp3":"Monte Heng",
+      "cResp4":"Monte Hua"
+   },
+   {
+      "nId":96,
+      "cPregunta":"Nombre de los jardines que albergan al Salón Sansui",
+      "cCorrecta":"d8fec55ff1311a3e00f6c765f9ede5b7",
+      "cResp1":"Jardín del Bosque de Leones",
+      "cResp2":"Jardín Persistente",
+      "cResp3":"Jardín Qinghui",
+      "cResp4":"Jardín Yuyuan"
+   },
+   {
+      "nId":97,
+      "cPregunta":"Nombre del edificio cuya traducción literal es Edificio Dorado de la Prosperidad",
+      "cCorrecta":"2dac83d1a0d6cb70d2ea13b39d28189f",
+      "cResp1":"Lippo Center",
+      "cResp2":"Two International Finance",
+      "cResp3":"El plaza 66",
+      "cResp4":"Torre Jin Mao"
+   },
+   {
+      "nId":98,
+      "cPregunta":"Nombre del templo construido en 1882 en la ciudad de Shanghái",
+      "cCorrecta":"95d6ee1ca67408c4c43f316c565fe84e",
+      "cResp1":"Templo Lingyin",
+      "cResp2":"Templo Shaolin",
+      "cResp3":"Templo Colgante",
+      "cResp4":"Templo del Buda de Jade"
+   },
+   {
+      "nId":99,
+      "cPregunta":"Nombre del templo que originalmente fue denominado Templo de Zhongdu",
+      "cCorrecta":"6c1a8fb8439914d6415bf509b0e0c22a",
+      "cResp1":"Templo Lama",
+      "cResp2":"Templo Puning",
+      "cResp3":"Templo Thean Hou",
+      "cResp4":"Templo de Shuanglin"
+   },
+   {
+      "nId":100,
+      "cPregunta":"Nombre de la estatua esculpida en piedra de Buda más alta del mundo",
+      "cCorrecta":"5d8801094766928e764912708fdf5824",
+      "cResp1":"Gran Buda de Phuket",
+      "cResp2":"Gran Buda de Bodh Gaya",
+      "cResp3":"Buda gigante de las Grutas de Longmen",
+      "cResp4":"Gran Buda de Leshan"
+   }
 ]

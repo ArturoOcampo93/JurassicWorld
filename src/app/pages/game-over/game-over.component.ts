@@ -7,9 +7,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GameOverComponent implements OnInit {
 
+  correctas:any;
+  preguntas:any;
+
   constructor() { }
 
   ngOnInit(): void {
+
+    this.correctas=localStorage.getItem("correctas") || '0';
+    this.preguntas=localStorage.getItem("preguntas") || '0';
+
+  
+
   }
 
 }

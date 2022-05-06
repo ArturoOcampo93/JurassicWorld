@@ -18,6 +18,9 @@ import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { HttpClientModule } from "@angular/common/http";
 import { UploadimageComponent } from './components/uploadimage/uploadimage.component';
 
+//timer
+import { CdTimerModule } from 'angular-cd-timer';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -39,6 +42,7 @@ import { UploadimageComponent } from './components/uploadimage/uploadimage.compo
     ReactiveFormsModule,
     FormsModule,
     HttpClientModule,
+    CdTimerModule
   ],
   providers: [],
   bootstrap: [AppComponent]

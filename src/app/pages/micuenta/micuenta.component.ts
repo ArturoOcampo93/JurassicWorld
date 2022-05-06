@@ -26,6 +26,8 @@ export class MicuentaComponent implements OnInit {
 
   ngOnInit(): void {
     this.mostrarHistorial();
+    localStorage.setItem("correctas", '');
+    localStorage.setItem("preguntas", '');
   }
 
   recibeData(respuesta:any){

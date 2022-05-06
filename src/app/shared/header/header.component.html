@@ -40,11 +40,12 @@
         <div id="menu" class="animate__animated animate__slideInLeft">
             <ul>
                 <li><a href="#">MECÁNICA</a></li>
-                <li><a [routerLink]="['/registro']">REGISTRO</a></li>
+                <li *ngIf="!token"><a [routerLink]="['/registro']">REGISTRO</a></li>
                 <li><a href="#">PREMIOS</a></li>
                 <li><a href="#">GANADORES</a></li>
-                <li><a href="#">SALIR</a></li>
-                <li><a [routerLink]="['/registro']">INGRESA</a></li>
+                <li *ngIf="!token"><a [routerLink]="['/registro']">INGRESA</a></li>
+                <li *ngIf="token"><a [routerLink]="['/micuenta']">MI CUENTA</a></li>
+                <li *ngIf="token"><a href="JavaScript:void(0)" (click)="CierraSesion()">SALIR</a></li>
             </ul>
         </div>
     </div>

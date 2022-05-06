@@ -210,13 +210,13 @@
                                 formControlName="passwordlogin"
                                 [class.is-invalid]="loginForm.get('passwordlogin').invalid && loginForm.get('passwordlogin').touched"
                                 [class.is-valid]="loginForm.get('passwordlogin').valid && loginForm.get('passwordlogin').touched">
+                                <img class="password-eye-login" [src]="inputEye" title="Mostrar Contraseña"
+                                (click)="muestraPass()">
                             <span class="text-danger"
                                 *ngIf="isSubmitLogin && loginForm.get('passwordlogin').invalid">Este campo es requerido
                                 y solo se aceptan mínimo de caracteres (5).</span>
 
-                            <p onclick="menuRegistro(3)" class="btn-text">Olvide mi contraseña</p>
-                            <img class="password-eye-login" [src]="inputEye" title="Mostrar Contraseña"
-                                (click)="muestraPass()">
+                                <p onclick="menuRegistro(3)" class="btn-text">Olvide mi contraseña</p>
                         </label>
 
                     </div>
