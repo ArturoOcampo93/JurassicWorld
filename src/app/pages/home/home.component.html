@@ -319,6 +319,24 @@
 </section>
 <!-- TERMINA SECCIÓN DE GANADORES -->
 
+<!-- VIDEO JURASSIC-->
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayStyle}">
+    <div class="modal-dialog">
+        <div class="special-size modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close white-color" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/HQwE5QruhU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn" data-bs-dismiss="modal" (click)="closePopup()">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- TERMINA VIDEO JURASSIC-->
+
 <!--FOOTER-->
 <app-footer></app-footer>
 <!--TERMINA FOOTER-->

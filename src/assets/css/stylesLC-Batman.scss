@@ -2281,3 +2281,14 @@ form {
         font-family: $textoJurassic;
     }
 }
+
+.special-size {
+    width: 585px !important;
+    background-color: #cecece;
+}
+
+@media only screen and (max-width: 800px) {
+    .special-size {
+        width: 100% !important;
+    }
+}
