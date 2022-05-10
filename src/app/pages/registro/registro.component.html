@@ -9,7 +9,7 @@
                     <h2>REGISTRO</h2>
                     <p onclick="menuRegistro(1)">Ya tengo cuenta</p>
                 </div>
-                <form [formGroup]="registroForm" (ngSubmit)="registrousr()">>
+                <form [formGroup]="registroForm" (ngSubmit)="registrousr()">
 
                     <div class="input-completo">
                         <label for="">Nombre Completo
@@ -148,26 +148,17 @@
                     <hr>
 
                     <div class="input-checkbox">
-                        <input type="checkbox" required id="terminos" name="terminos" value="OK" required
-                            name="terminos" formControlName="terminos"
-                            [class.is-invalid]="registroForm.get('terminos').invalid && registroForm.get('terminos').touched "
-                            [class.is-valid]="registroForm.get('terminos').valid && registroForm.get('terminos').touched">
-                        <p>Leí y estoy de acuerdo en los <span data-bs-toggle="modal"
-                                data-bs-target="#Terminos">Términos y Condiciones</span> de esta promoción.<br><span
-                                class="text-danger" *ngIf="isSubmitReg && registroForm.get('terminos').invalid ">
+                        <input type="checkbox" required id="terminos" name="terminos" value="OK" required name="terminos" formControlName="terminos" [class.is-invalid]="registroForm.get('terminos').invalid && registroForm.get('terminos').touched " [class.is-valid]="registroForm.get('terminos').valid && registroForm.get('terminos').touched">
+                        <p>Leí y estoy de acuerdo en los <span data-bs-toggle="modal" data-bs-target="#Terminos">Términos y Condiciones</span> de esta promoción.<br><span class="text-danger" *ngIf="isSubmitReg && registroForm.get('terminos').invalid ">
                                 Este campo es requerido.
                             </span></p>
                     </div>
 
                     <div class="input-checkbox">
-                        <input type="checkbox" required id="aviso" name="aviso" value="OK" required name="aviso"
-                            formControlName="aviso"
-                            [class.is-invalid]="registroForm.get('aviso').invalid && registroForm.get('aviso').touched "
-                            [class.is-valid]="registroForm.get('aviso').valid && registroForm.get('aviso').touched">
+                        <input type="checkbox" required id="aviso" name="aviso" value="OK" required name="aviso" formControlName="aviso" [class.is-invalid]="registroForm.get('aviso').invalid && registroForm.get('aviso').touched " [class.is-valid]="registroForm.get('aviso').valid && registroForm.get('aviso').touched">
 
                         <p>Leí y estoy de acuerdo con los <span data-bs-toggle="modal" data-bs-target="#Aviso">Avisos de
-                                Privacidad</span> de esta promoción.<br><span class="text-danger"
-                                *ngIf="isSubmitReg && registroForm.get('aviso').invalid ">
+                                Privacidad</span> de esta promoción.<br><span class="text-danger" *ngIf="isSubmitReg && registroForm.get('aviso').invalid ">
                                 Este campo es requerido.
                             </span></p>
                     </div>
@@ -193,9 +184,9 @@
                 </div>
                 <form [formGroup]="loginForm" (ngSubmit)="loginusr()">
 
-                    <div class="input-completo">
+                    <div class="input-completo-email">
                         <label for="">Correo Electrónico
-                            <input type="email" required name="emaillogin" formControlName="emaillogin"
+                            <input id="emailInput" type="email" required name="emaillogin" formControlName="emaillogin"
                                 class="form-control"
                                 [class.is-invalid]="loginForm.get('emaillogin').invalid && loginForm.get('emaillogin').touched"
                                 [class.is-valid]="loginForm.get('emaillogin').valid && loginForm.get('emaillogin').touched">

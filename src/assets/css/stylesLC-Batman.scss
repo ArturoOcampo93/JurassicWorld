@@ -499,7 +499,7 @@ footer {
 #bannerPrincipal {
     width: 100%;
     overflow: hidden;
-    background-image: url('backgrounds/fondo-1.png');
+    background-image: url('backgrounds/fondo-1.jpg');
     background-color: black;
     background-position: center;
     /* Center the image */
@@ -548,7 +548,7 @@ footer {
 
 #mecanica {
     width: 100%;
-    background-image: url('backgrounds/fondoMecanica.png');
+    background-image: url('backgrounds/fondoMecanica.jpg');
     background-color: black;
     background-position: top;
     /* Center the image */
@@ -631,7 +631,7 @@ footer {
 #premios {
     width: 100%;
     padding-top: 30px;
-    background-image: url('backgrounds/fondoPremios.png');
+    background-image: url('backgrounds/fondoPremios.jpg');
     background-color: black;
     background-position: top;
     /* Center the image */
@@ -818,7 +818,7 @@ footer {
 #cont-registro {
     width: 100%;
     margin-bottom: 100px;
-    background-image: url('backgrounds/registro.png');
+    background-image: url('backgrounds/registro.jpg');
     background-color: black;
     background-position: center;
     /* Center the image */
@@ -1115,7 +1115,7 @@ form {
     height: auto;
     padding-top: 25px;
     margin-bottom: 50px;
-    background-image: url('backgrounds/fondoThankyouPage.png');
+    background-image: url('backgrounds/fondoThankyouPage.jpg');
     background-color: black;
     background-position: center;
     /* Center the image */
@@ -1197,7 +1197,7 @@ form {
 
 #escribe-historia {
     width: 100%;
-    background-image: url('backgrounds/fondoHistoria.png');
+    background-image: url('backgrounds/fondoHistoria.jpg');
     background-color: white;
     background-position: center;
     background-repeat: no-repeat;
@@ -1225,7 +1225,7 @@ form {
 
 #registraTicket {
     width: 100%;
-    background-image: url('backgrounds/registroTicket.png');
+    background-image: url('backgrounds/registroTicket.jpg');
     background-color: white;
     background-position: center;
     background-repeat: no-repeat;
@@ -1253,7 +1253,7 @@ form {
 
 #marcador {
     width: 100%;
-    background-image: url('backgrounds/fondoMarcador.png');
+    background-image: url('backgrounds/fondoMarcador.jpg');
     background-color: white;
     background-position: center;
     background-repeat: no-repeat;
@@ -1291,7 +1291,7 @@ form {
     margin-bottom: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url('backgrounds/fondoInstrucciones.png');
+    background-image: url('backgrounds/fondoInstrucciones.jpg');
     background-color: black;
     background-position: center;
     /* Center the image */
@@ -1676,7 +1676,7 @@ form {
 
 #fondoRegistro {
     width: 720px;
-    background-image: url('backgrounds/box-registro.png');
+    background-image: url('backgrounds/box-registro.jpg');
     background-color: transparent;
     background-position: center;
     /* Center the image */
@@ -1733,7 +1733,7 @@ form {
 
 #fondoRecuperar {
     display: none;
-    background-image: url('backgrounds/fondoRecupera.png');
+    background-image: url('backgrounds/fondoRecupera.jpg');
     background-color: transparent;
     background-position: center;
     /* Center the image */
@@ -1791,7 +1791,7 @@ form {
 @media only screen and (max-width:800px) {
     #fondoRegistro {
         width: 600px;
-        background-image: url('backgrounds/fondoRegistro600px.png');
+        background-image: url('backgrounds/fondoRegistro600px.jpg');
         padding: 70px;
     }
 }
@@ -1811,7 +1811,7 @@ form {
 @media only screen and (max-width:640px) {
     #fondoRegistro {
         width: 300px;
-        background-image: url('backgrounds/fondoRegistroMobile.png');
+        background-image: url('backgrounds/fondoRegistroMobile.jpg');
         padding: 25px;
     }
 }
@@ -2077,7 +2077,7 @@ form {
 /* Escribe */
 
 #escribe {
-    background-image: url('backgrounds/fondoHistoria.png');
+    background-image: url('backgrounds/fondoHistoria.jpg');
     background-color: transparent;
     background-position: center;
     background-repeat: no-repeat;
@@ -2140,7 +2140,7 @@ form {
     margin-bottom: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url('backgrounds/fondoJuego.png');
+    background-image: url('backgrounds/fondoJuego.jpg');
     background-color: black;
     background-position: center;
     background-repeat: no-repeat;
@@ -2269,7 +2269,7 @@ form {
     margin-bottom: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url('backgrounds/fondoMarcador.png');
+    background-image: url('backgrounds/fondoMarcador.jpg');
     background-color: black;
     background-position: center;
     /* Center the image */
@@ -2290,5 +2290,51 @@ form {
 @media only screen and (max-width: 800px) {
     .special-size {
         width: 100% !important;
+    }
+}
+
+#login {
+    form {
+        width: 100%;
+        input {
+            width: 100%;
+        }
+    }
+}
+
+.password-eye-login {
+    margin-left: -50px;
+}
+
+.input-completo-email {
+    width: 100% !important;
+    display: flex;
+    label {
+        width: 100%;
+        input {
+            width: 100% !important;
+            height: 45px;
+            margin-left: 40px;
+        }
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .input-completo-email {
+        label {
+            input {
+                margin-left: 30px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .input-completo-email {
+        label {
+            input {
+                margin-left: 10px;
+            }
+        }
     }
 }

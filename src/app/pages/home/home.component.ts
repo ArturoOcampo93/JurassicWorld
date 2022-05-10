@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+declare var $: any;
 
 @Component({
   selector: 'app-home',
@@ -18,5 +19,7 @@ openPopup() {
 }
 closePopup() {
     this.displayStyle = "none";
+    $('#videoIframe').attr('src', "none");
+    
 }
 }
