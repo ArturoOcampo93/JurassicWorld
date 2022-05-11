@@ -47,8 +47,8 @@ export class RegistroComponent implements OnInit {
     
     //formulario REGISTRO
     this.registroForm = this.formBuilder.group({
-      nombreregistro:['', [Validators.required,Validators.minLength(3),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóú]*')]],
-      direccionregistro:['', [Validators.required,Validators.minLength(4),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóú # - ., 0-9]*')]],
+      nombreregistro:['', [Validators.required,Validators.minLength(3),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóúÑñ]*')]],
+      direccionregistro:['', [Validators.required,Validators.minLength(4),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóúñÑ # - ., 0-9]*')]],
       estadoregistro:['', [Validators.required,  Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóú ]*')]],
       emailregistro:['', [Validators.required, Validators.pattern('^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$')]],
       passwordregistro:['', [Validators.required,Validators.minLength(4),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóú 0-9]*')]],
@@ -61,7 +61,7 @@ export class RegistroComponent implements OnInit {
     //formulrio de LOGIN
     this.loginForm = this.formBuilder.group({
       emaillogin:['', [Validators.required, Validators.pattern('^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$')]],
-      passwordlogin:['', [Validators.required,Validators.minLength(5),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóú 0-9]*')]],
+      passwordlogin:['', [Validators.required,Validators.minLength(4),Validators.maxLength(100),Validators.pattern('[a-z A-Z ÁÉÍÓÚ áéíóú 0-9]*')]],
     });
 
     //formulrio de RECUPERA
