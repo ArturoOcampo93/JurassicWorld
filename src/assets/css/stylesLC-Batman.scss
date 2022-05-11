@@ -2338,3 +2338,18 @@ form {
         }
     }
 }
+
+.underline {
+    text-decoration: underline;
+}
+
+.texto-historia {
+    line-height: 1;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 769px) {
+    .texto-historia {
+        font-size: 22px !important;
+    }
+}
