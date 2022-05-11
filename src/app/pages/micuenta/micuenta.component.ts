@@ -21,6 +21,7 @@ export class MicuentaComponent implements OnInit {
   nombreImagen = 'No se ha seleccionado ningún archivo';
   @ViewChild('closebutton') closebutton;
   historial=new Array();
+  muestraHistoria = '';
 
   constructor( private regTicketServ: RegticketService, private router: Router, public formBuilder:FormBuilder ) { }
 
@@ -96,6 +97,7 @@ export class MicuentaComponent implements OnInit {
     this.regTicketServ.historialUser().subscribe(datos=>{
       //console.log(datos['respuesta']);
      this.historial=datos['respuesta'];
+     this.muestraHistoria=datos['historia'];
     })
   }
     
