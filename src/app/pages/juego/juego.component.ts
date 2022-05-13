@@ -121,7 +121,7 @@ export class JuegoComponent implements OnInit {
     if (this.tiempoEspera){
       this.tiempoEspera = false;
       let partial = `${this.basicTimer.hours.toString().padStart(2, 0)}:${this.basicTimer.minutes.toString().padStart(2, 0)}:${this.basicTimer.seconds.toString().padStart(2, 0)}`
-      console.log('partial: ', partial);
+      //console.log('partial: ', partial);
 
       if (this.preguntacontestada < 61) {
         this.respCon += respuesta + "|"

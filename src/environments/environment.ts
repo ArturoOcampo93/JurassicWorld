@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   apiUrl: 'https://littlec.com.mx/LC_Jurassic22REST',
-  tokenVar: 'tokenJurassicLC--dev'
+  tokenVar: 'tokenJurassicLC--dev22'
 };
 
 /*

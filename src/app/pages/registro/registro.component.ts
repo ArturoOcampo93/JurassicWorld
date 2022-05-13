@@ -130,7 +130,7 @@ export class RegistroComponent implements OnInit {
 }
 
   ngOnInit(): void {
-    console.log(environment.tokenVar);    
+    //console.log(environment.tokenVar);    
   }
 
 
@@ -213,7 +213,7 @@ export class RegistroComponent implements OnInit {
 
       //Se llama a la clase, luego a la funcion y se le mandan los datos del formulario del html
       this.recuperaService.recuperaUsuarioLC(this.miRecuperaLC).subscribe(finRecupera=>{
-        console.log(finRecupera);
+        //console.log(finRecupera);
         this.respuestaRecupera=finRecupera;
         Swal.close();
 
