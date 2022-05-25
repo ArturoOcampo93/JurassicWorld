@@ -21,6 +21,9 @@ import { UploadimageComponent } from './components/uploadimage/uploadimage.compo
 //timer
 import { CdTimerModule } from 'angular-cd-timer';
 
+//google tag
+import { GoogleTagManagerModule } from 'angular-google-tag-manager';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -42,9 +45,14 @@ import { CdTimerModule } from 'angular-cd-timer';
     ReactiveFormsModule,
     FormsModule,
     HttpClientModule,
-    CdTimerModule
+    CdTimerModule,
+    GoogleTagManagerModule.forRoot({
+      id: 'GTM-W9MLK5C',
+      // gtm_auth: YOUR_GTM_AUTH,
+      // gtm_preview: YOUR_GTM_ENV
+    })
   ],
-  providers: [],
+  providers: [{provide: 'googleTagManagerId', useValue: 'GTM-W9MLK5C'}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

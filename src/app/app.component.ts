@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Router, NavigationEnd } from '@angular/router';
+import { GoogleTagManagerService } from 'angular-google-tag-manager';
 declare let gtag: Function;
 
 @Component({
@@ -10,7 +11,7 @@ declare let gtag: Function;
 export class AppComponent {
   title = 'littleCaesarsBatman';
 
-  constructor(public router: Router) {
+  constructor(public router: Router, private gtmService: GoogleTagManagerService,) {
 
     this.router.events.subscribe(event => {
       
@@ -23,6 +24,19 @@ export class AppComponent {
             }
     
      })
+  }
 
+  ngOnInit(): void {
+    // push GTM data layer for every visited page
+    this.router.events.forEach(item => {
+      if (item instanceof NavigationEnd) {
+        const gtmTag = {
+          event: 'page',
+          pageName: item.url
+        };
+
+        this.gtmService.pushTag(gtmTag);
+      }
+    });
   }
 }
