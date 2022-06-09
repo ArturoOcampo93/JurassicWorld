@@ -34,7 +34,7 @@ export class JuegoComponent implements OnInit {
 
   //preguntas en pantalla
   preguntaMuestra: any;
-  numeroPreguntas: number = 31;
+  numeroPreguntas: number = 40;
   preguntacontestada: number=0;
 
   //tiempo entre pregunta y pregunta
@@ -48,7 +48,6 @@ export class JuegoComponent implements OnInit {
 
   //muestraPreguntas: any;
   //tempPreg: PREGUNTAS[] = [];
-
 
 
   //timer
@@ -101,6 +100,14 @@ export class JuegoComponent implements OnInit {
   CambioPregunta(){
     //limpiar preguntaMuestra
     this.preguntaMuestra = ""
+
+    /*if(Number(this.preguntasContastadas) > this.preguntacontestada){
+      console.log(`${this.preguntasContastadas} > ${this.preguntacontestada}`);
+      this.preguntacontestada = Number(this.preguntasContastadas);
+    }else{
+      console.log(`${this.preguntasContastadas} > ${this.preguntacontestada}`);
+
+    }*/
 
     //llenamos preguntaMuestra
     setTimeout(() => {
@@ -175,19 +182,24 @@ export class JuegoComponent implements OnInit {
      this.miPart.detalles = this.detCon+this.timeDate;
      this.miPart.tiempos = this.timeCon;
 
-     Swal.fire({
-       allowOutsideClick: false,
-       title: 'Espere por favor...',
-       icon: 'info',
-       confirmButtonText: 'Aceptar'
+      Swal.fire({
+        allowOutsideClick: false,
+        title: 'Espere por favor...',
+        icon: 'info',
+        confirmButtonText: 'Aceptar'
       });
       Swal.showLoading();
-    this.regjuegoService.participacion(this.miPart, this.preguntacontestada).subscribe(resp => {
+      this.regjuegoService.participacion(this.miPart, this.preguntacontestada).subscribe(resp => {
           this.basicTimer.stop()
           this.respuesta = resp;
           Swal.close();
           if (this.respuesta.success == "200") {
             //guardo en el localstorge id
+
+            if(Number(this.respuesta.correctas) > this.preguntacontestada){
+              this.preguntacontestada = Number(this.respuesta.correctas);
+            }
+
             localStorage.setItem("correctas", this.respuesta.correctas);
             localStorage.setItem("preguntas", this.preguntacontestada.toString());
 
@@ -215,7 +227,7 @@ export class JuegoComponent implements OnInit {
               confirmButtonColor: '#F8671B'
             });
           }
-        });
+      });
        
    }
 
